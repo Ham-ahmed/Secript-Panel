@@ -16,7 +16,6 @@ sleep 4s
 echo "> skin premium fhd 2.5 updated
 > skin premium fhd blue 2.5 updated
 > skin premium fhd black 2.5 updated"
-sleep 3s
 sleep 4s
 
 echo ">>> Upload H-A <<<"
