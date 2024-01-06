@@ -18,5 +18,5 @@ echo "> skin premium-fhd 2.4 updated
 > premium-fhd-blue_2.5.. Added
 sleep 4s
 
-echo ">>> Eliesat enjoy <<<"
+echo ">>> Upload H-A <<<"
 exit 0
