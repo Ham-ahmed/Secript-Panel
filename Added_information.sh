@@ -13,7 +13,7 @@ echo "> plugins Added
 > permanentclockt
 > NewVirtualKeyBoard_sub
 sleep 4s
-echo "> Tools
+echo "> Tools Added
 > service_app........updated "
 sleep 4s
 echo "> skin premium-fhd updated
