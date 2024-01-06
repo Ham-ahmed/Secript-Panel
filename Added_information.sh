@@ -5,16 +5,13 @@ echo " "
 sleep 1s
 echo "7-1-2023 Added"
 
-echo "> panel
-> novalerstore ..... has been added "
+echo "> panel+plugin
 sleep 4s
-echo "> plugins Added
-> subssupport
-> permanentclockt
-> NewVirtualKeyBoard_sub
-sleep 4s
-echo "> Tools Added
-> service_app updated "
+> novalerstore ....... has been added "
+> subssupport................ updated "
+> permanentclockt..... has been added "
+> NewVirtualKeyBoard_sub..... updated "
+> service_app................ updated "
 sleep 4s
 echo "> skin premium-fhd 2.4 updated
 > premium-fhd-black_2.5.. Added
