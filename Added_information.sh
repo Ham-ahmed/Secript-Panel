@@ -10,18 +10,17 @@ echo "> panel
 sleep 4s
 echo "> plugins
 > subssupport........updated "
-> permanentclockt....has been added "
-> NewVirtualKeyBoard_sub.....has been added "
+> permanentclockt....updated "
+> NewVirtualKeyBoard_sub....updated "
 sleep 4s
 echo "> Tools
-> novalerstore ..... has been added "
-> service_app........has been added "
+> novalerstore ..... updated "
+> service_app........updated "
 sleep 4s
-echo "> skin premium fhd updated
-> premium-fhd-black_2.5.has been added "
-> premium-fhd-blue_2.5..has been added "
+echo "> skin premium-fhd updated
+> premium-fhd-black_2.5..updated "
+> premium-fhd-blue_2.5..updated "
 sleep 4s
 
-
-echo ">>> Upload HAhmed 6-1-2023<<<"
+echo ">>> upload..7-1-2023 <<<"
 exit 0
