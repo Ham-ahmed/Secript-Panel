@@ -14,9 +14,9 @@ echo "> plugins Added
 > NewVirtualKeyBoard_sub
 sleep 4s
 echo "> Tools Added
-> service_app........updated "
+> service_app updated "
 sleep 4s
-echo "> skin premium fhd 2.4 updated
+echo "> skin premium-fhd 2.4 updated
 > premium-fhd-black_2.5.. Added
 > premium-fhd-blue_2.5.. Added
 sleep 4s
