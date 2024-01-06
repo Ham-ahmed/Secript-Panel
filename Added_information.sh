@@ -14,7 +14,6 @@ echo "> plugins
 > NewVirtualKeyBoard_sub....updated "
 sleep 4s
 echo "> Tools
-> novalerstore ..... updated "
 > service_app........updated "
 sleep 4s
 echo "> skin premium-fhd updated
