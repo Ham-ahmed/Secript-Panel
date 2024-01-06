@@ -17,8 +17,8 @@ echo "> Tools Added
 > service_app........updated "
 sleep 4s
 echo "> skin premium-fhd updated
-> premium-fhd-black_2.5
-> premium-fhd-blue_2.5
+> premium-fhd-black_2.5.. Added
+> premium-fhd-blue_2.5.. Added
 sleep 4s
 
 echo ">>> upload..7-1-2023 <<<"
