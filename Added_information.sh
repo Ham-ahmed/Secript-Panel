@@ -3,7 +3,7 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "7-1-2023
+echo "7-1-2024
  Added"
 
 
@@ -23,5 +23,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 7-1-2023 <<<"
+echo ">>> Uploadin 7-1-2024 <<<"
 exit 0
