@@ -18,5 +18,5 @@ echo "> skin premium-fhd 2.4 updated
 > premium-fhd-blue_2.5.. Added
 sleep 4s
 
-echo ">>> upload..7-1-2023>>>"
+echo ">>> upload..7-1-2023 >>>"
 exit 0
