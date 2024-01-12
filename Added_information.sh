@@ -14,6 +14,7 @@ echo "> skin Bohlala updated
 > New channels 10-1-2024 updated
 > skin ozeta fhd updated
 > fix ipk package updated
+> astra sm arm 0.2 updated
 sleep 3s
 
 
