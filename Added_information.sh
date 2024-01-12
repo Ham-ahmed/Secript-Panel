@@ -11,8 +11,8 @@ echo "12-1-2024"
 sleep 3s
 echo "> skin Bohlala updated
 > skin kill pro updated
-echo "> New channels 10-1-2024 updated
-echo "> skin ozeta fhd updated
+> New channels 10-1-2024 updated
+> skin ozeta fhd updated
 > fix ipk package updated
 sleep 3s
 
