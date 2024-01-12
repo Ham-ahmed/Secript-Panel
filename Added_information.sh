@@ -3,8 +3,16 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "12-1-2024
+echo "13-1-2024
  Added"
+
+
+echo "13-1-2024"
+sleep 3s
+echo "> skin premium fhd 2.6 updated
+> skin premium fhd blue 2.6 updated
+> skin premium fhd black 2.6 updated"
+sleep 3s
 
 
 echo "12-1-2024"
@@ -48,5 +56,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 12-1-2024 <<<"
+echo ">>> Uploadin 13-1-2024 <<<"
 exit 0
