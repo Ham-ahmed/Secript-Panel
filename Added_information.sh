@@ -7,11 +7,6 @@ echo "12-1-2024
  Added"
 
 
-echo "12-1-2024
-echo "> New-channels 10-1-2024 MohamedOS"
-sleep 3s
-
-
 echo "10-1-2024
 echo "> new nitor skin 2024  updated
 > new history zap to 1.0.35 updated
