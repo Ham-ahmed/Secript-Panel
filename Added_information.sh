@@ -16,6 +16,7 @@ echo "> skin Bohlala updated
 > fix ipk package updated
 > astra sm arm 0.2 updated
 > cccam emu updated
+> internet speed test-1.7 updated
 sleep 3s
 
 
