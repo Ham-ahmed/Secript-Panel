@@ -15,6 +15,7 @@ echo "> skin Bohlala updated
 > skin ozeta fhd updated
 > fix ipk package updated
 > astra sm arm 0.2 updated
+> cccam emu updated
 sleep 3s
 
 
