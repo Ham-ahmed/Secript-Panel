@@ -3,8 +3,12 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "10-1-2024
+echo "12-1-2024
  Added"
+
+
+echo "> New-channels 10-1-2024 MohamedOS"
+sleep 3s
 
 
 echo "> new nitor skin 2024  updated
@@ -34,5 +38,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 10-1-2024 <<<"
+echo ">>> Uploadin 12-1-2024 <<<"
 exit 0
