@@ -8,6 +8,7 @@ echo "12-1-2024
 
 
 echo "12-1-2024
+sleep 3s
 echo "> New-channels 10-1-2024 MohamedOS"
 sleep 3s
 
@@ -18,7 +19,7 @@ echo "> new nitor skin 2024  updated
 > Sherlockmod plugin updated"
 sleep 3s
 echo "> oscam emu to 11731 updated"
-echo "> New-channels 10-2-2024 MohamedOS"
+echo "> New-channels 2-1-2024 MohamedOS"
 sleep 3s
 
 
