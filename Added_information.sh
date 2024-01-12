@@ -7,8 +7,11 @@ echo "12-1-2024
  Added"
 
 
-echo "12-1-2024
-echo "> New-channels 2-1-2024 MohamedOS"
+echo "12-1-2024"
+sleep 3s
+echo "> skin premium fhd 2.5 updated
+> skin premium fhd blue 2.5 updated
+> skin premium fhd black 2.5 updated"
 sleep 3s
 
 
