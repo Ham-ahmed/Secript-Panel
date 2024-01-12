@@ -7,12 +7,7 @@ echo "12-1-2024
  Added"
 
 
-echo "10-1-2024
-echo "> new nitor skin 2024  updated
-> new history zap to 1.0.35 updated
-> Sherlockmod plugin updated"
-sleep 3s
-echo "> oscam emu to 11731 updated"
+echo "12-1-2024
 echo "> New-channels 2-1-2024 MohamedOS"
 sleep 3s
 
