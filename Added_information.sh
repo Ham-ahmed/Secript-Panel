@@ -8,7 +8,6 @@ echo "12-1-2024
 
 
 echo "12-1-2024
-sleep 3s
 echo "> New-channels 10-1-2024 MohamedOS"
 sleep 3s
 
