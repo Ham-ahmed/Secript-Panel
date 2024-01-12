@@ -9,7 +9,11 @@ echo "12-1-2024
 
 echo "12-1-2024"
 sleep 3s
+echo "> skin Bohlala update
+echo "> skin kill pro update"
 echo "> New channels 10-1-2024 updated
+echo "> skin ozeta fhd update
+echo "> fix ipk package update
 sleep 3s
 
 
