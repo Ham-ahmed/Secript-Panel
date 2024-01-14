@@ -22,7 +22,7 @@ sleep 3s
 
 echo "12-1-2024"
 sleep 3s
-echo "> skin Bohlala updated
+> skin Bohlala updated
 > skin kill pro updated
 > New channels 10-1-2024 updated
 > skin ozeta fhd updated
@@ -34,7 +34,7 @@ sleep 3s
 
 
 echo "10-1-2024
-echo "> new nitor skin 2024  updated
+> new nitor skin 2024  updated
 > new history zap to 1.0.35 updated
 > Sherlockmod plugin updated"
 sleep 3s
