@@ -17,7 +17,7 @@ echo "13-1-2024"
 sleep 3s
 echo "> skin premium fhd 2.6 updated
 > skin premium fhd blue 2.6 updated
-> skin premium fhd black 2.6 updated"
+> skin premium fhd black 2.6 updated
 sleep 3s
 
 
