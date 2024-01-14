@@ -13,6 +13,14 @@ echo "> ipaudiopro picons MNasr updated
 > MNasr aduio 14-01-2024 updated
 
 
+echo "13-1-2024"
+sleep 3s
+echo "> skin premium fhd 2.6 updated
+> skin premium fhd blue 2.6 updated
+> skin premium fhd black 2.6 updated"
+sleep 3s
+
+
 echo "12-1-2024"
 sleep 3s
 echo "> skin Bohlala updated
