@@ -15,10 +15,9 @@ echo "> ipaudiopro picons MNasr updated
 
 echo "13-1-2024"
 sleep 3s
-echo "> skin premium fhd 2.6 updated
-> skin premium fhd blue 2.6 updated
-> skin premium fhd black 2.6 updated
-sleep 3s
+> premuim fhd skin update 
+> premuim fhd black update
+> premuim fhd blue update
 
 
 echo "12-1-2024"
