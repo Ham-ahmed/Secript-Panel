@@ -34,7 +34,7 @@ sleep 3s
 
 
 echo "10-1-2024
-> new nitor skin 2024  updated
+echo "> new nitor skin 2024  updated
 > new history zap to 1.0.35 updated
 > Sherlockmod plugin updated"
 sleep 3s
