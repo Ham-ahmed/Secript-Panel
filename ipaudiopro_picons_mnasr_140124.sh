@@ -2,13 +2,13 @@
 #
 cd /tmp
 set -e
- wget "https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/ipaudiopro_picons_mnasr_140124.tar.gz"
+ wget "https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/ipaudiopro_picons_mnasr-140124.tar.gz"
 wait
-tar -xzf ipaudiopro_picons_mnasr_140124.tar.gz  -C /
+tar -xzf ipaudiopro_picons_mnasr-140124.tar.gz  -C /
 wait
 cd ..
 set +e
-rm -f /tmp/ipaudiopro_picons_mnasr_140124.tar.gz
+rm -f /tmp/ipaudiopro_picons_mnasr-140124.tar.gz
 sleep 2;
 echo "" 
 echo "" 
