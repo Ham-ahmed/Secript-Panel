@@ -2,7 +2,7 @@
 #
 cd /tmp
 set -e
- wget -O /etc/enigma2/ipaudio.json https://raw.githubusercontent.com/biko-73/ipaudio/main/ipaudio.json
+ wget -O /etc/enigma2/ipaudio.json "https://raw.githubusercontent.com/biko-73/ipaudio/main/ipaudio.json"
 wait
 tar -xzf ipaudio/main/ipaudio.json  -C /
 wait
