@@ -4,7 +4,7 @@ echo "> Downloading & installing IPAudioPro.json file  Please Wait ..."
 sleep 3s
 dir=/etc/enigma2/IPAudioPro.json
 
-wget -O $dir/etc/enigma2/IPAudioPro.json https://raw.githubusercontent.com/biko-73/ipaudio/main/IPAudioPro.json
+wget -O /etc/enigma2/ipaudio.json https://raw.githubusercontent.com/biko-73/ipaudio/main/ipaudio.json
 
 
 if [ -d $dir/IPAudioPro.json ]; then
