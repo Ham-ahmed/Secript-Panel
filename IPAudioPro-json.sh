@@ -1,0 +1,17 @@
+#!/bin/sh
+
+echo "> Downloading & installing IPAudioPro.json file  Please Wait ..."
+sleep 3s
+dir=/etc/enigma2
+
+wget -O $dir/IPAudioPro.json https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/IPAudioPro.json
+
+
+if [ -d $dir/IPAudioPro.json ]; then
+cp $dir/IPAudioPro.json $dir/IPAudioPro.json/
+fi
+
+echo "> installation of IPAudioPro.json file  finished"
+sleep 3s
+
+exit 0
