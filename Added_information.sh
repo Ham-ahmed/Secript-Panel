@@ -15,7 +15,7 @@ sleep 3s
 
 echo "15-1-2024"
 sleep 3s
-echo "> ipaudiopro picons MNasr updated
+> ipaudiopro picons MNasr updated
 > MNasr aduio 14-01-2024 updated
 > Biko audio pro 15-01-2024 update
 
