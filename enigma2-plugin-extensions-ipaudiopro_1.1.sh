@@ -1,12 +1,39 @@
 #!/bin/sh
 #
-
-wget -O /var/volatile/tmp/enigma2-plugin-extensions-ipaudiopro_1.1.tar.gz "https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/enigma2-plugin-extensions-ipaudiopro_1.1.tar.gz"
+cd /tmp
+set -e
+ wget "https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/enigma2-plugin-extensions-ipaudiopro_1.1.tar.gz"
 wait
 tar -xzf enigma2-plugin-extensions-ipaudiopro_1.1.tar.gz  -C /
 wait
-rm -f /var/volatile/tmp/enigma2-plugin-extensions-ipaudiopro_1.1.tar.gz
+cd ..
+set +e
+rm -f /tmp/enigma2-plugin-extensions-ipaudiopro_1.1.tar.gz
 sleep 2;
+echo "" 
+echo "" 
+echo "**************************************************************************************************"
+echo "#  INSTALLED SUCCESSFULLY #"
+echo "*      88888888  88888888   8888     88  88888888   88       *"
+echo "*      88    88  88    88   88 88    88  88         88       *"
+echo "*      88888888  88888888   88  88   88  88888888   88       *"
+echo "*      88        88    88   88   88  88  88         88       *"
+echo "*      88        88    88   88     8888  88888888   88888888 *"
+echo "*          EDITE - Hamdy-Ahmed                               *"
+echo "*           88888888    888888    88888888    88     88      *"
+echo "*                 88    88  88          88    88     88      *"
+echo "*           88888888    88  88    88888888    888888888      *"
+echo "*           88          88  88    88                 88      *"
+echo "*           88888888    888888    88888888           88      *"
+echo "*                Enigma2 restart is required                 *"
+echo "*************************************************************************************************"
+echo "   UPLOADED BY  >>>>   HAMDY_AHMED-2024 "
+sleep 4;
+	echo '========================================================================================='
+###########################################                                                                                                                  
+echo ". >>>>         RESTARING     <<<<"
+echo "*************************************************************************************************"
+wait
 exit 0
 
 
