@@ -3,8 +3,13 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "15-1-2024
+echo "17-1-2024
  Added"
+
+
+echo "17-01-2024"
+sleep 3s
+echo "> ipaudiopro v1.1 plugin updated
 
 
 echo "15-1-2024"
@@ -61,5 +66,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 13-1-2024 <<<"
+echo ">>> Uploadin 17-1-2024 <<<"
 exit 0
