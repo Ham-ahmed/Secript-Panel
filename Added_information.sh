@@ -10,6 +10,7 @@ echo "17-1-2024
 echo "17-01-2024"
 sleep 3s
 echo "> ipaudiopro v1.1 plugin updated
+sleep 3s
 
 
 echo "15-1-2024"
