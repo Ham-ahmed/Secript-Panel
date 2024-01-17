@@ -10,6 +10,7 @@ echo "17-1-2024
 echo "17-01-2024"
 sleep 3s
 echo "> ipaudiopro v1.1 plugin updated
+> Channel by Mohammed Nasr 2024 updated
 > Channel by Ahmed hussin 2024 motor updated
 > Channel by Mostafa Gh 2024 motor updated
 sleep 3s
