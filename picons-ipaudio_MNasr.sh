@@ -1,22 +1,5 @@
 #!/bin/bash
 
-#remove unnecessary files and folders
-if [  -d "/CONTROL" ]; then
-rm -r  /CONTROL >/dev/null 2>&1
-fi
-rm -rf /control >/dev/null 2>&1
-rm -rf /postinst >/dev/null 2>&1
-rm -rf /preinst >/dev/null 2>&1
-rm -rf /prerm >/dev/null 2>&1
-rm -rf /postrm >/dev/null 2>&1
-rm -rf /tmp/*.ipk >/dev/null 2>&1
-rm -rf /tmp/*.tar.gz >/dev/null 2>&1
-rm -rf /usr/share/enigma2/emu >/dev/null 2>&1
-rm -rf /usr/share/enigma2/piconCrypt >/dev/null 2>&1
-rm -rf /usr/share/enigma2/piconProv >/dev/null 2>&1
-rm -rf /usr/share/enigma2/piconSat >/dev/null 2>&1
-
-
 #config
 plugin=picons
 version=ipaudiopro
