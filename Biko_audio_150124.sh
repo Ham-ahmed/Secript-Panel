@@ -1,67 +1,31 @@
-#!/bin/sh
-#
-cd /tmp
-set -e
- wget -O /etc/enigma2/ipaudio.json "https://raw.githubusercontent.com/biko-73/ipaudio/main/ipaudio.json"
-wait
-tar -xzf ipaudio/main/ipaudio.json  -C /
-wait
-cd ..
-set +e
-rm -f /tmp/ipaudio/main/ipaudio.json
-sleep 2;
-echo "" 
-echo "" 
-echo "**************************************************************************************************"
-echo "#  INSTALLED SUCCESSFULLY #"
-echo "*      88888888  88888888   8888     88  88888888   88       *"
-echo "*      88    88  88    88   88 88    88  88         88       *"
-echo "*      88888888  88888888   88  88   88  88888888   88       *"
-echo "*      88        88    88   88   88  88  88         88       *"
-echo "*      88        88    88   88     8888  88888888   88888888 *"
-echo "*          EDITE - Hamdy-Ahmed                               *"
-echo "*           88888888    888888    88888888    88     88      *"
-echo "*                 88    88  88          88    88     88      *"
-echo "*           88888888    88  88    88888888    888888888      *"
-echo "*           88          88  88    88                 88      *"
-echo "*           88888888    888888    88888888           88      *"
-echo "*                Enigma2 restart is required                 *"
-echo "*************************************************************************************************"
-echo "   UPLOADED BY  >>>>   HAMDY_AHMED-2024 "
-sleep 4;
-	echo '========================================================================================='
-###########################################                                                                                                                  
-echo ". >>>>         RESTARING     <<<<"
-echo "*************************************************************************************************"
-wait
-killall -9 enigma2
+#!/bin/bash
+
+
+#config
+plugin=picons
+version=ipaudio
+url=https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/Biko_audio_150124.tar.gz
+package=/var/volatile/tmp/$plugin-$version.tar.gz
+
+#download & install
+echo "> Downloading $plugin-$version package  please wait ..."
+sleep 3s
+
+wget -O $package --no-check-certificate $url
+tar -xzf $package -C /
+extract=$?
+rm -rf $package >/dev/null 2>&1
+
+echo ''
+if [ $extract -eq 0 ]; then
+echo "> $plugin-$version package installed successfully"
+echo "> By H-Ahmed"
+sleep 3s
+
+else
+
+echo "> $plugin-$version package installation failed"
+sleep 3s
+fi
+
 exit 0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
