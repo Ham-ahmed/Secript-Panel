@@ -8,13 +8,13 @@ echo "19-1-2024
 
 echo "19-01-2023"
 sleep 3s
-> Estuaryfhd spa Skin Mod H Ahmed updated
+echo "> Estuaryfhd spa Skin Mod H Ahmed updated
 sleep 3s
 
 
 echo "17-01-2024"
 sleep 3s
-> ipaudiopro v1.1 plugin updated
+echo "> ipaudiopro v1.1 plugin updated
 > Channel by Mohammed Nasr 2024 updated
 > Channel by Ahmed hussin 2024 motor updated
 > Channel by Mostafa Gh 2024 motor updated
