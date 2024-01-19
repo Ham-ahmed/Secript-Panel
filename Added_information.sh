@@ -9,7 +9,7 @@ echo "19-1-2024
 
 echo "19-01-2023"
 sleep 3s
-> estuary FHD spa Skin Mod H Ahmed updated
+echo "> Estuary FHD spa Skin Mod H Ahmed updated
 sleep 3s
 
 
