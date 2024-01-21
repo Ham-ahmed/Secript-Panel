@@ -7,7 +7,7 @@ echo "21-1-2024
  Added"
 
 
-echo "21-01-2023"
+echo "21-1-2023"
 sleep 3s
 echo "> Estuaryfhd spa v2 It has been fixed updated
 > Eustaryfhd spa v3 new mod A Ahmed updated
