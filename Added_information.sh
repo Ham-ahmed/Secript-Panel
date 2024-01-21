@@ -10,7 +10,7 @@ echo "21-1-2024
 echo "21-1-2024"
 sleep 3s
 echo "> Estuaryfhd v3 Mod H Ahmed updated
-> Estuaryfhd v2 Edited Mod H Ahmed updated
+> skin Estuaryfhd v2 Improver by H Ahmed updated
 sleep 3s
 
 
