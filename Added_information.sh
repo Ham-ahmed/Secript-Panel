@@ -9,7 +9,7 @@ echo "21-1-2024
 
 echo "21-1-2024"
 sleep 3s
-echo "> Estuaryfhd v3 Mod Hamdy Ahmed updated
+> Estuaryfhd v3 Mod Hamdy Ahmed updated
 > Estuary fhd v2 Edite Mod Hamdy Ahmed updated
 sleep 3s
 
