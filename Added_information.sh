@@ -3,9 +3,15 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "19-1-2024
+echo "21-1-2024
  Added"
 
+
+echo "21-1-2024"
+sleep 3s
+echo "> Estuaryfhd v3 Mod Hamdy Ahmed updated
+> Estuary fhd v2 Edite Mod Hamdy Ahmed updated
+sleep 3s
 
 echo "19-01-2023"
 sleep 3s
@@ -76,5 +82,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 19-1-2024 <<<"
+echo ">>> Uploadin 21-1-2024 <<<"
 exit 0
