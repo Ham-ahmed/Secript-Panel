@@ -7,16 +7,9 @@ echo "21-1-2024
  Added"
 
 
-echo "21-1-2024"
+echo "21-01-2023"
 sleep 3s
-echo "> Estuaryfhd v3 Mod H Ahmed updated
-> skin Estuaryfhd v2 Improver by H Ahmed updated
-sleep 3s
-
-
-echo "19-01-2023"
-sleep 3s
-echo "> Estuaryfhd spa Mod HAhmed updated
+echo "> Estuaryfhd spa v2 edite Mod HAhmed updated
 sleep 3s
 
 
