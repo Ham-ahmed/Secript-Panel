@@ -9,7 +9,7 @@ echo "21-1-2024
 
 echo "21-1-2024"
 sleep 3s
-> Estuaryfhd v3 Mod H Ahmed updated
+echo "> Estuaryfhd v3 Mod H Ahmed updated
 > Estuaryfhd v2 Edite Mod H Ahmed updated
 sleep 3s
 
