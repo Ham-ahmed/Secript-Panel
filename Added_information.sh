@@ -9,13 +9,13 @@ echo "24-1-2024
 
 echo "24-1-2024
 sleep 3s
-echo > MX Priofhd xtra mod HA updated
+> MX Priofhd xtra mod A Ahmed updated
 sleep 3s
 
 
 echo "21-1-2023"
 sleep 3s
-echo "> Estuaryfhd spa v2 It has been fixed updated
+> Estuaryfhd spa v2 It has been fixed updated
 > Eustaryfhd spa v3 new mod A Ahmed updated
 sleep 3s
 
