@@ -9,7 +9,7 @@ echo "24-1-2024
 
 echo "24-1-2024
 sleep 3s
-echo "> Mx priofhd xtra mod HA updated
+echo "> MX Priofhd xtra mod HA updated
 sleep 3s
 
 
