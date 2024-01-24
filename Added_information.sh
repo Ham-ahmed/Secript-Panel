@@ -3,8 +3,14 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "21-1-2024
+echo "24-1-2024
  Added"
+
+
+echo "24-1-2024
+sleep 3s
+> Mx prioFHD xtra mod HA updated
+sleep 3s
 
 
 echo "21-1-2023"
@@ -77,5 +83,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 21-1-2024 <<<"
+echo ">>> Uploadin 24-1-2024 <<<"
 exit 0
