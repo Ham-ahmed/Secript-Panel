@@ -3,25 +3,13 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "26-1-2024
+echo "21-1-2024
  Added"
-
-
-echo "26-1-2024"
-sleep 3s
-echoo "> Mx GrayDotsfhd xtra mod H Ahmed updated
-sleep 3s
-
-
-echo "24-1-2024
-sleep 3s
-> MX Priofhd xtra mod H Ahmed updated
-sleep 3s
 
 
 echo "21-1-2023"
 sleep 3s
-> Estuaryfhd spa v2 It has been fixed updated
+echo "> Estuaryfhd spa v2 It has been fixed updated
 > Eustaryfhd spa v3 new mod A Ahmed updated
 sleep 3s
 
@@ -89,5 +77,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 24-1-2024 <<<"
+echo ">>> Uploadin 21-1-2024 <<<"
 exit 0
