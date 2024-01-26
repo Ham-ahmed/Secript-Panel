@@ -7,16 +7,9 @@ echo "26-1-2024
  Added"
 
 
-echo "26-1-2024
-sleep 3s
-> MX GrayDots vip xtra mod A Ahmed updated
-sleep 3s
-
-
-
 echo "24-1-2024
 sleep 3s
-> MX Priofhd xtra mod A Ahmed updated
+> MX Priofhd xtra mod H Ahmed updated
 sleep 3s
 
 
