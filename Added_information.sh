@@ -9,8 +9,8 @@ echo "26-1-2024
 
 echo "26-1-2024"
 sleep 3s
-echoo "> Mx GrayDotsfhd vip xtra H Ahmed updated
-> Mx priofhd xtra mod H Ahmed updated
+echo "> Mx GrayDotsfhd vip xtra H Ahmed updated
+echo "> Mx priofhd xtra mod H Ahmed updated
 sleep 3s
 
 
