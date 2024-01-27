@@ -16,7 +16,7 @@ sleep 3s
 
 echo "26-1-2024"
 sleep 3s
-echo "> Mx GrayDotsfhd vip xtra H Ahmed updated
+> Mx GrayDotsfhd vip xtra H Ahmed updated
 > Channel by Saber Arnane 20240126 updated
 > Mx priofhd xtra mod H Ahmed updated
 sleep 3s
