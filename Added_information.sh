@@ -3,8 +3,16 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "26-1-2024
+echo "27-1-2024
  Added"
+
+
+echo "27-1-2024"
+sleep 3s
+echo "> History-Zab-Selector 1.0.38-py3.12 updated
+> Channel by Mohamed-OS Arnane 20240126 updated
+> Mx priofhd xtra mod H Ahmed updated
+sleep 3s
 
 
 echo "26-1-2024"
@@ -85,5 +93,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 26-1-2024 <<<"
+echo ">>> Uploadin 27-1-2024 <<<"
 exit 0
