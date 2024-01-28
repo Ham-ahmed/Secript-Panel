@@ -16,7 +16,7 @@ sleep 3s
 
 echo "27-1-2024"
 sleep 3s
-> History-Zab-Selector 1.0.38-py3.12 updated
+echo "> History-Zab-Selector 1.0.38-py3.12 updated
 > Channel by Mohamed-OS Arnane 20240126 updated
 sleep 3s
 
