@@ -9,7 +9,7 @@ echo "29-1-2024
 
 echo "29-1-2024"
 sleep 3s
-echo "> premuim fhd skin 2.7 update 
+> premuim fhd skin 2.7 update 
 > premuim fhd black 2.7 update
 > premuim fhd blue 2.7 update
 
