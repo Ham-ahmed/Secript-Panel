@@ -16,7 +16,7 @@ echo "> premuim fhd skin 2.7 update
 
 echo "27-1-2024"
 sleep 3s
-echo "> History-Zab-Selector 1.0.38-py3.12 updated
+> History-Zab-Selector 1.0.38-py3.12 updated
 > Channel by Mohamed-OS Arnane 20240126 updated
 sleep 3s
 
