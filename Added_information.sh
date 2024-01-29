@@ -12,6 +12,8 @@ sleep 3s
 echo "> premuim fhd skin 2.7 update 
 > premuim fhd black 2.7 update
 > premuim fhd blue 2.7 update
+> Sherlockmod_New Mod updated
+sleep 3S
 
 
 echo "27-1-2024"
