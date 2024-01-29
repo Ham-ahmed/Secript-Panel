@@ -26,6 +26,7 @@ sleep 3s
 > Mx GrayDotsfhd vip xtra H Ahmed updated
 > Channel by Saber Arnane 20240126 updated
 > Mx priofhd xtra mod H Ahmed updated
+> Sherlockmod_New Mod updated
 sleep 3s
 
 
