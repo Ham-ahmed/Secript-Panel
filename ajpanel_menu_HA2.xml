@@ -46,6 +46,9 @@
 		</submenu>
 
 		<submenu title="egami-10.4" mode="grid_6x3" width="1600" height="950" icon="/media/hdd/AJPanel_Backup/vector2/eg.png" bg="/media/hdd/AJPanel_Backup/vector2/s-pure.png" title_bg="#06004444">
+			<item name="premium-fhd-blue-2.7" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins/main/skins-premium-fhd-blue_2.7.sh -O - | /bin/sh</item>
+			<item name="premium-fhd-black-2.7" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins/main/skins-premium-fhd-black_2.7.sh -O - | /bin/sh</item>
+			<item name="premium-fhd-2.7" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins/main/skins-premium-fhd_2.7.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-black" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premium-fhd-black.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-blue" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premium-fhd-blue.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-black2.6" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/skins-premium-fhd-black_2.6.sh -O - | /bin/sh</item>
@@ -279,14 +282,12 @@
 		<item name="Portal-50" info="Add portal50-100" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sap.png">wget -qO $HOME/stalker.conf https://raw.githubusercontent.com/karimSATPRO/Portal-100mag/main/stalker.conf</item>
 	</submenu>
 
-	<submenu title="Upgrade" info="images-updated" mode="grid_6x3" width="1600" height="950" icon="/media/hdd/AJPanel_Backup/vector2/up.png" bg="/media/hdd/AJPanel_Backup/vector2/dd.png" title_bg="#06004444">
-		<item name="opkg-update" info="upgrade All Images" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_opkg-update.sh -O - | /bin/sh</item>
-		<item name="opkg-upgrade" info="upgrade All Images" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_opkg-upgrade.sh -O - | /bin/sh</item>
-		<item name="opkg-update-upgrade" info="upgrade All Images" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_opkg-update-upgrade.sh -O - | /bin/sh</item>
+	<submenu title="panel-Upgrade" info="images-updated" mode="grid_6x3" width="1600" height="950" icon="/media/hdd/AJPanel_Backup/vector2/up.png" bg="/media/hdd/AJPanel_Backup/vector2/dd.png" title_bg="#06004444">
+		<item name="New-update" info="upgrade All panel" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/New-update.sh -O - | /bin/sh</item>
 	</submenu>
 
 	<submenu title="Info" info="Information about additions" mode="grid_6x3" width="1600" height="950" icon="/media/hdd/AJPanel_Backup/vector2/info.png" bg="/media/hdd/AJPanel_Backup/vector2/ooo.png" title_bg="#06004444">
-		<item name="Info" info="Information about additions" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/in.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/Added_information.sh -O - | /bin/sh</item>
+		<item name="Info" info="Information about additions" ask="show me please" icon="/media/hdd/AJPanel_Backup/vector/in.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/Added_information.sh -O - | /bin/sh</item>
 	</submenu>
 
 	<submenu title="Audio-files" info="for-ipAudiopro-ipAudio_plugin" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector2/sou.png" bg="/media/hdd/AJPanel_Backup/vector/dd.png" title_bg="#06004444">
