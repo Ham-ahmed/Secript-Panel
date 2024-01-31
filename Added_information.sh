@@ -3,13 +3,19 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "29-1-2024
+echo "31-1-2024
  Added"
+
+
+echo "31-1-2024"
+sleep 3s
+echo "> openpluse fhd v.1 updated 
+sleep 3S
 
 
 echo "29-1-2024"
 sleep 3s
-echo "> premuim fhd skin 2.7 update 
+> premuim fhd skin 2.7 update 
 > premuim fhd black 2.7 update
 > premuim fhd blue 2.7 update
 > Sherlockmod_New Mod updated
@@ -102,5 +108,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 29-1-2024 <<<"
+echo ">>> Uploadin 31-1-2024 <<<"
 exit 0
