@@ -9,7 +9,7 @@ echo "31-1-2024
 
 echo "31-1-2024"
 sleep 3s
-echo "> openpluse fhd v.1 updated 
+echo "> openpluse fhd v.1 openspa updated 
 sleep 3S
 
 
