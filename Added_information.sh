@@ -3,13 +3,19 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "31-1-2024
+echo "1-2-2024
  Added"
+
+echo "1-2-2024"
+sleep 3s
+echo "> openpluse fhd posterX updated 
+sleep 3S
+
 
 
 echo "31-1-2024"
 sleep 3s
-echo "> openpluse fhd v.1 openspa updated 
+> openpluse fhd v.1 openspa updated 
 sleep 3S
 
 
@@ -108,5 +114,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 31-1-2024 <<<"
+echo ">>> Uploadin 1-2-2024 <<<"
 exit 0
