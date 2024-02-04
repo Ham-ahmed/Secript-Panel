@@ -3,13 +3,19 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "3-2-2024
+echo "4-2-2024
  Added"
 
 
-echo "3-2-2024"
+echo "4-2-2024"
 sleep 3s
-echo "> BlackSPA fhd posterX updated 
+echo "> YouViX-4x1_posterX updated 
+sleep 3S
+
+
+echo "4-2-2024"
+sleep 3s
+> BlackSPA fhd posterX updated 
 sleep 3S
 
 
@@ -121,5 +127,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 3-2-2024 <<<"
+echo ">>> Uploadin 4-2-2024 <<<"
 exit 0
