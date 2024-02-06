@@ -3,13 +3,20 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "4-2-2024
+echo "7-2-2024
  Added"
 
-
-echo "4-2-2024"
+echo "7-2-2024"
 sleep 3s
-echo "> YouViX-4x1_posterX updated 
+echo "> oscam 11732-r799 updated 
+> powercam-oscam 11732-r799 updated
+> supcam-oscam 11732-r799 updated
+sleep 3S
+
+
+echo "6-2-2024"
+sleep 3s
+> YouViX-4x1_posterX updated 
 sleep 3S
 
 
@@ -127,5 +134,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 4-2-2024 <<<"
+echo ">>> Uploadin 7-2-2024 <<<"
 exit 0
