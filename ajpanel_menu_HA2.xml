@@ -189,6 +189,9 @@
 	</submenu>
 
 	<submenu title="Cam" info="Dwawnload All Emu" mode="grid_6x3" width="1600" height="950" icon="/media/hdd/AJPanel_Backup/vector2/cam2.png" bg="/media/hdd/AJPanel_Backup/vector2/ooo.png" title_bg="#06004444">
+		<item name="oscam-mohamedos" mode="grid" width="1600" height="930" info="oscam-11732-r799" ask="Install emu" icon="/media/hdd/AJPanel_Backup/vector2/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/softcams-oscam_11732-emu-r799_all.sh -O - | /bin/sh</item>
+		<item name="powercam-oscam_mohamedos" mode="grid" width="1600" height="930" info="oscam-powercam-11732-r799" ask="Install emu" icon="/media/hdd/AJPanel_Backup/vector2/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/softcams-powercam-oscam-11732-r799_all.sh -O - | /bin/sh</item>
+		<item name="supcam-oscam-mohamedos" mode="grid" width="1600" height="930" info="oscam-supcam-11732-r799" ask="Install emu" icon="/media/hdd/AJPanel_Backup/vector2/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/softcams-supcam-oscam_11732-emu-r799_all.sh -O - | /bin/sh</item>
 		<item name="oscam-mohamedos" mode="grid_6x3" width="1600" height="950" info="oscam-11731-r799" ask="Install emu" icon="/media/hdd/AJPanel_Backup/vector2/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/panel/main/oscam_11731-emu-r799_all.sh -O - | /bin/sh</item>
 		<item name="oscam-mohamedos" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/so.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/softcams/-/raw/main/mohamed-os/oscam.sh -O - | /bin/sh</item>
 		<item name="OSCamicam_Kitte888" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/so.png">wget https://raw.githubusercontent.com/biko-73/OSCamicam_Kitte888/main/installer.sh  -O - | /bin/sh</item>
