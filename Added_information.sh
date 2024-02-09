@@ -7,7 +7,7 @@ echo "9-2-2024
  Added"
 
 
-echo "7-2-2024"
+echo "9-2-2024"
 sleep 3s
 echo "> E2-DarkOS FHD Posterx updated 
 sleep 3S
