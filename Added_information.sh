@@ -3,12 +3,19 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "7-2-2024
+echo "9-2-2024
  Added"
+
 
 echo "7-2-2024"
 sleep 3s
-echo "> oscam 11732-r799 updated 
+echo "> E2-DarkOS FHD Posterx updated 
+sleep 3S
+
+
+echo "7-2-2024"
+sleep 3s
+> oscam 11732-r799 updated 
 > powercam-oscam 11732-r799 updated
 > supcam-oscam 11732-r799 updated
 sleep 3S
@@ -134,5 +141,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 7-2-2024 <<<"
+echo ">>> Uploadin 9-2-2024 <<<"
 exit 0
