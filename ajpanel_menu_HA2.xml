@@ -31,6 +31,7 @@
 		</submenu>
 
 		<submenu title="OPENPLI9" mode="grid_6x3" width="1600" height="950" icon="/media/hdd/AJPanel_Backup/vector2/pli.png" bg="/media/hdd/AJPanel_Backup/vector2/dd.png" title_bg="#06004444">
+			<item name="AglareFHD" info="SKIN-AglareFHD_1.1" ask="Install Skin" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/SKIN-Aglare-FHD-1.1_PLI.sh -O - | /bin/sh</item>
 			<item name="Malek-FHD" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/HAhmed-Scripts/main/Skin-Malek-Mod_HA-xtraevent.sh -O - | /bin/sh</item>
 			<item name="premium-fhd" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk4.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premium-fhd.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-black" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk4.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premium-fhd-black.sh -O - | /bin/sh</item>
@@ -67,6 +68,7 @@
 		</submenu>
 
 		<submenu title="OPENAtv" info="Dwawnload All Skin" mode="grid_6x3" width="1600" height="950" icon="/media/hdd/AJPanel_Backup/vector2/atv.png" bg="/media/hdd/AJPanel_Backup/vector2/dd.png" title_bg="#06004444">
+			<item name="AglareFHD_1.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/SKIN-AglareFHD_1.2-Atv-Spa-egami.sh -O - | /bin/sh</item>
 			<item name="nitroSkin" mode="grid_6x3" width="1600" height="950" info="New-2024" ask="Install Skin" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/biko-73/TeamNitro/main/script/installerB.sh -O - | /bin/sh</item>
 			<item name="BoHLALA skin" ask="Install Skin" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget https://raw.githubusercontent.com/biko-73/TeamNitro/main/script/installerB.sh  -O - | /bin/sh</item>
 			<item name="premium-fhd-blue_2.5" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/HAmed-Scripts/main/premium-fhd-blue_2.5.sh -O - | /bin/sh</item>
@@ -249,6 +251,7 @@
 	<submenu title="EPG" mode="grid_6x3" width="1600" height="950" icon="/media/hdd/AJPanel_Backup/vector2/EPG.png" bg="/media/hdd/AJPanel_Backup/vector2/dd.png" title_bg="#06004444">
 		<item name="EpgGrabber" ask="download the plugin?" icon="/media/hdd/AJPanel_Backup/vector2/sap.png">wget https://raw.githubusercontent.com/ziko-ZR1/Epg-plugin/master/Download/installer.sh  -O - | /bin/sh</item>
 		<item name="epgimport" ask="download the plugin?" icon="/media/hdd/AJPanel_Backup/vector2/sap.png">opkg install enigma2-plugin-extensions-epgimport</item>
+		<item name="EPGTranslator" ask="download the plugin?" icon="/media/hdd/AJPanel_Backup/vector2/sap.png">wget https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/EPGTranslator-plugin.sh  -O - | /bin/sh</item>
 		<item name="xtraevent5.3" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/xtraevent-5.3.sh -O - | /bin/sh </item>
 		<item name="xtraevent4.5" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/xtraevent/xtraevent-4.5.sh -O - | /bin/sh </item>
 		<item name="xtraevent5.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/xtraevent/xtraevent-5.3.sh -O - | /bin/sh</item>
