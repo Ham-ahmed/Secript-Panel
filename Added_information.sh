@@ -9,7 +9,18 @@ echo "16-2-2024
 
 echo "16-2-2024"
 sleep 3s
-echo "> EPGTranslator v2.0.3 plugin updated
+echo "> oscam 11734 r799 updated
+> powercam oscam 11743 r799 update 
+> config oe2 for oscam 11743 r799 update
+> supcam oscam 11743 r799 update
+> ultracam oscam 11743 r799 update
+> gosatplus oscam 11743 r799 update
+sleep 3S
+
+
+echo "16-2-2024"
+sleep 3s
+> EPGTranslator v2.0.3 plugin updated
 > AglareFHD_1.2 Atv-Spa-egami update 
 > AglareFHD_1.1 openpli update
 sleep 3S
@@ -149,5 +160,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 9-2-2024 <<<"
+echo ">>> Uploadin 16-2-2024 <<<"
 exit 0
