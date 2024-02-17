@@ -3,13 +3,20 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "16-2-2024
+echo "17-2-2024
  Added"
+
+
+echo "17-2-2024"
+sleep 3s
+echo "> oDreamy fhd mini Skin updated
+> New plugin ipaudiopro 3.12.1 update 
+sleep 3S
 
 
 echo "16-2-2024"
 sleep 3s
-echo "> oscam 11734 r799 updated
+> oscam 11734 r799 updated
 > powercam oscam 11743 r799 update 
 > config oe2 for oscam 11743 r799 update
 > supcam oscam 11743 r799 update
@@ -160,5 +167,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 16-2-2024 <<<"
+echo ">>> Uploadin 17-2-2024 <<<"
 exit 0
