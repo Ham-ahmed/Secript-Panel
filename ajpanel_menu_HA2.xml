@@ -52,6 +52,7 @@
 		</submenu>
 
 		<submenu title="egami-10.4" mode="grid_6x3" width="1600" height="950" icon="/media/hdd/AJPanel_Backup/vector2/eg.png" bg="/media/hdd/AJPanel_Backup/vector2/s-pure.png" title_bg="#06004444">
+			<item name="oDreamyFHD_mini-10.5r1-2" info="py-3.12.1_Mod_HAhmed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins2024/main/Skin-oDreamyFHD_mini-Mod_HAhmed.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-blue-2.7" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins/main/skins-premium-fhd-blue_2.7.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-black-2.7" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins/main/skins-premium-fhd-black_2.7.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-2.7" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins/main/skins-premium-fhd_2.7.sh -O - | /bin/sh</item>
@@ -309,6 +310,7 @@
 	</submenu>
 
 	<submenu title="Audio-files" info="for-ipAudiopro-ipAudio_plugin" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector2/sou.png" bg="/media/hdd/AJPanel_Backup/vector/dd.png" title_bg="#06004444">
+		<item name="Ipaudiopro-3.12.1" info="New_plugin+audio-file+picons" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Ipaudio-2024/main/Ipaudiopro-3.12.1_upload-HAhmed.sh -O - | /bin/sh</item>
 		<item name="ipaudiopro-1.1-py-3.11.5" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/enigma2-plugin-extensions-ipaudiopro_1.1.sh -O - | /bin/sh</item>
 		<item name="ipaudiopro_picons-MNasr" info="picons" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/picons-ipaudio_MNasr.sh -O - | /bin/sh</item>
 		<item name="audio_140124_MNasr" info="audio-files" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/MNASR_audio_140124.sh -O - | /bin/sh</item>
