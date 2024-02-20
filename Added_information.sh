@@ -3,13 +3,20 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "17-2-2024
+echo "21-2-2024
  Added"
+
+
+echo "21-2-2024"
+sleep 3s
+echo "> New plugin Subsspport py 3.12.1 updated
+> New plugin ipaudiopro 3.12.1 update 
+sleep 3S
 
 
 echo "17-2-2024"
 sleep 3s
-echo "> oDreamy fhd mini Skin updated
+> oDreamy fhd mini Skin updated
 > New plugin ipaudiopro 3.12.1 update 
 sleep 3S
 
