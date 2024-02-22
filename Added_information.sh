@@ -3,13 +3,22 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "21-2-2024
+echo "22-2-2024
  Added"
+
+
+echo "22-2-2024"
+sleep 3s
+echo "> New plugin ipaudiopro 3.12.1 update
+> New multi stalkerpro 1.0 py-3.11 arm update 
+> New multi stalkerpro 1.0 py-3.12 arm update
+> New multi stalkerpro 1.0 py-3.12 all update
+sleep 3S
 
 
 echo "21-2-2024"
 sleep 3s
-echo "> New plugin Subsspport py 3.12.1 updated
+> New plugin Subsspport py 3.12.1 updated
 > New plugin ipaudiopro 3.12.1 update 
 sleep 3S
 
