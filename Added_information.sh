@@ -10,9 +10,6 @@ echo "22-2-2024
 echo "22-2-2024"
 sleep 3s
 echo "> New plugin ipaudiopro 3.12.1 update
-> New multi stalkerpro 1.0 py-3.11 arm update 
-> New multi stalkerpro 1.0 py-3.12 arm update
-> New multi stalkerpro 1.0 py-3.12 all update
 sleep 3S
 
 
