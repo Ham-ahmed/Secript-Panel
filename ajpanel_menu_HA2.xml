@@ -2,3 +2,4 @@
 <ajp_menu title="Panel (By Hamdy Ahmed-v3.0)" mode="grid_6x3" shade="yes" font_size="40" bg="/media/hdd/AJPanel_Backup/vector2/ha.png" title_bg="#00000040" num_fg="#0000d2ff" num_bg="#06000000" title1_fg="#00ffffff" title1_bg="#00400040" title2_fg="#00ffffff" title2_bg="#00000040" width="1600" height="950">
 	<item name="Crash_logo" mode="grid_3x2" width="1600" height="950" shade="yes" info="delete all bug" font_size="20" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/del.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/remove/_remove-crash-logs.sh -O - | /bin/sh</item>
 	</submenu>
+</ajp_menu>
