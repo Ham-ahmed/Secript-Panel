@@ -319,6 +319,6 @@
 	</submenu>
 
 	<submenu title="remove" info="coming-soon" mode="grid_6x3" width="1600" height="950" icon="/media/hdd/AJPanel_Backup/vector2/soon.png" bg="/media/hdd/AJPanel_Backup/vector2/dd.png" title_bg="#06004444">
-		<item name="Crash-logo" mode="grid_3x2" width="1600" height="950" shade="yes" info="delete all bug" font_size="20" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/del.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/remove/_remove-crash-logs.sh -O - | /bin/sh</item>
+		<item name="Crash_logo" mode="grid_3x2" width="1600" height="950" shade="yes" info="delete all bug" font_size="20" ask="yes" icon="/media/hdd/AJPanel_Backup/vector2/del.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/remove/_remove-crash-logs.sh -O - | /bin/sh</item>
 	</submenu>
 </ajp_menu>
