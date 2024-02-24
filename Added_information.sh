@@ -3,13 +3,19 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "22-2-2024
+echo "24-2-2024
  Added"
+
+
+echo "24-2-2024"
+sleep 3s
+echo "> Subspport plugin By Mora Hosny 3.12.1-3.11.2 update
+sleep 3S
 
 
 echo "22-2-2024"
 sleep 3s
-echo "> New plugin ipaudiopro 3.12.1 update
+> New plugin ipaudiopro 3.12.1 update
 sleep 3S
 
 
@@ -180,5 +186,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 22-2-2024 <<<"
+echo ">>> Uploadin 24-2-2024 <<<"
 exit 0
