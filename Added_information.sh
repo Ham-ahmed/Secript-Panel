@@ -3,13 +3,22 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "24-2-2024
+echo "29-2-2024
  Added"
+
+
+echo "29-2-2024"
+sleep 3s
+echo "> Ncam v-14.4 updated
+> FHDglass17-v9.17 update 
+> channelsMohamed-os New 27-2-2024 update
+> AglareFHD_1.5-Atv New update
+sleep 3S
 
 
 echo "24-2-2024"
 sleep 3s
-echo "> Subspport plugin By Mora Hosny 3.12.1-3.11.2 update
+> Subspport plugin By Mora Hosny 3.12.1-3.11.2 update
 sleep 3S
 
 
@@ -186,5 +195,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Uploadin 24-2-2024 <<<"
+echo ">>> Uploadin 29-2-2024 <<<"
 exit 0
