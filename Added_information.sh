@@ -10,6 +10,7 @@ echo "29-2-2024
 echo "29-2-2024"
 sleep 3s
 echo "> Ncam v-14.4 updated
+> oDreamyFHD mini posterX update
 > FHDglass17-v9.17 update 
 > channels Mohamed-os New 27-2-2024 update
 > AglareFHD_1.5-Atv New update
