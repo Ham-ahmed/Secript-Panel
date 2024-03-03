@@ -40,7 +40,8 @@
 		</submenu>
 
 		<submenu title="OPENPBH" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/bh.png" bg="/media/hdd/AJPanel_Backup/vector/ggg.png" title_bg="#06004444">
-                        <item name="MX_GrayDots_vip-xtra" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/MX_GrayDots_vip-xtra_mod-HA.sh -O - | /bin/sh</item>
+                        <item name="Mx-SunMoon-fhd" info="openBH_3.5.16-py-3.12.1" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins2024/main/Mx-SunMoon-fhd-posterX_mod_HA.sh -O - | /bin/sh</item>
+			<item name="MX_GrayDots_vip-xtra" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/MX_GrayDots_vip-xtra_mod-HA.sh -O - | /bin/sh</item>
 			<item name="Mx-PrioFHD-xtra" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/Mx-PrioFHD-xtra_mod-HAhmed.sh -O - | /bin/sh</item>
 			<item name="waves4-BPR-FHD" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/HAmed-Scripts/main/1Skins-waves4-BPR-FHD_MOD-HAhmed.sh -O - | /bin/sh</item>
 			<item name="Malek-FHD_xtra" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk3.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/HAhmed-Scripts/main/Skin-Malek-Mod_HA-xtraevent.sh -O - | /bin/sh</item>
