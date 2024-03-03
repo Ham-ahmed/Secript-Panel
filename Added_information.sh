@@ -3,13 +3,19 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "29-2-2024
+echo "4-3-2024
  Added"
+
+
+echo "4-3-2024"
+sleep 3s
+echo "> Mx-SunMoon_FHD openBH 5.3.16 py3.11.2 update
+sleep 3S
 
 
 echo "29-2-2024"
 sleep 3s
-echo "> Ncam v-14.4 updated
+> Ncam v-14.4 updated
 > oDreamyFHD mini posterX update
 > FHDglass17-v9.17 update 
 > channels Mohamed-os New 27-2-2024 update
