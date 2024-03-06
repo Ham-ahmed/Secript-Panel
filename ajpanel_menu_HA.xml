@@ -278,6 +278,7 @@
 		<item name="xtraevent5.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/xtraevent/xtraevent-5.3.sh -O - | /bin/sh</item>
 		<item name="jedimakerxtream" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/jedimakerxtream/jedimakerxtream.sh -O - | /bin/sh</item>
 		<item name="subssupport" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/subssupport/subssupport.sh? -O - | /bin/sh</item>
+		<item name="TMBD" info="Tmbd-v.8.6_py 3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/biko-73/TMBD/main/installer.sh -O - | /bin/sh</item>
 		<item name="imdb" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">opkg install enigma2-plugin-extensions-imdb</item>
 	</submenu>
 
