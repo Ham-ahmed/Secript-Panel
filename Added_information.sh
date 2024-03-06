@@ -3,13 +3,19 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "5-3-2024
+echo "6-3-2024
  Added"
+
+
+echo "6-3-2024"
+sleep 3s
+echo "> Mx-LiveFHD_FHD openBH 5.3.16 py3.11.2 update
+sleep 3S
 
 
 echo "5-3-2024"
 sleep 3s
-echo "> Channel-MohamdOS Motor 3-3-2024 updated
+> Channel-MohamdOS Motor 3-3-2024 updated
 > Zoom plugin v1.1.2 New update
 > Xtraeven plugin v6.2 New update 
 > AglareFHD_1.6-Atv New update
@@ -212,5 +218,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 5-3-2024 <<<"
+echo ">>> Last Updatting 6-3-2024 <<<"
 exit 0
