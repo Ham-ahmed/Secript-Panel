@@ -10,6 +10,7 @@ echo "6-3-2024
 echo "6-3-2024"
 sleep 3s
 echo "> Mx-LiveFHD_FHD openBH 5.3.16 py3.11.2 update
+      > TMBD plugin plugin v8.6 New update
 sleep 3S
 
 
