@@ -10,6 +10,7 @@ echo "9-3-2024
 echo "9-3-2024"
 sleep 3s
 echo "> MX_SlineFHD-posterX openBH 5.3.16 py3.11.2 update
+      > MX_SlineFHD-Xtra openBH 5.3.16 py3.11.2 update
 sleep 3S
 
 
