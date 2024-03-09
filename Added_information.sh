@@ -3,14 +3,20 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "6-3-2024
+echo "9-3-2024
  Added"
+
+
+echo "9-3-2024"
+sleep 3s
+echo "> MX_SlineFHD-posterX openBH 5.3.16 py3.11.2 update
+sleep 3S
 
 
 echo "6-3-2024"
 sleep 3s
-echo "> Mx-LiveFHD_FHD openBH 5.3.16 py3.11.2 update
-      > TMBD plugin plugin v8.6 New update
+> Mx-LiveFHD openBH 5.3.16 py3.11.2 update
+    > TMBD plugin plugin v8.6 New update
 sleep 3S
 
 
@@ -219,5 +225,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 6-3-2024 <<<"
+echo ">>> Last Updatting 9-3-2024 <<<"
 exit 0
