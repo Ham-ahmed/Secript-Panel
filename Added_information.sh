@@ -3,14 +3,13 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "9-3-2024
+echo "13-3-2024
  Added"
 
 
-echo "9-3-2024"
+echo "13-3-2024"
 sleep 3s
-echo "> MX_SlineFHD-posterX openBH 5.3.16 py3.11.2 update
-      > MX_SlineFHD-Xtra openBH 5.3.16 py3.11.2 update
+echo "> Ncam V14.6 New 13-3 update
 sleep 3S
 
 
@@ -226,5 +225,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 9-3-2024 <<<"
+echo ">>> Last Updatting 13-3-2024 <<<"
 exit 0
