@@ -11,6 +11,8 @@ echo "13-3-2024"
 sleep 3s
 echo "> Ncam V14.6 New 13-3 update
       > metrixfhd parts-Atv Mod Mohamed Nsr update
+      > AglareFHD_2.0-Atv-Egami New update
+      > AglareFHD_2.0-openpli Dev New update
 sleep 3S
 
 
