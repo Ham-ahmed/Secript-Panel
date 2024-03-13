@@ -10,6 +10,7 @@ echo "13-3-2024
 echo "13-3-2024"
 sleep 3s
 echo "> Ncam V14.6 New 13-3 update
+      > metrixfhd parts-Atv Mod Mohamed Nsr update
 sleep 3S
 
 
