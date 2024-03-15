@@ -3,13 +3,19 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "13-3-2024
+echo "15-3-2024
  Added"
 
 
-echo "13-3-2024"
+echo "15-3-2024"
 sleep 3s
-echo "> Ncam V14.6 New 13-3 update
+echo "> YouViX kin PosterX 4x1 New 15-3 update
+sleep 3S
+
+
+echo "15-3-2024"
+sleep 3s
+      > Ncam V14.6 New 13-3 update
       > metrixfhd parts-Atv Mod Mohamed Nsr update
       > AglareFHD_2.0-Atv-Egami New update
       > AglareFHD_2.0-openpli Dev New update
@@ -229,5 +235,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 13-3-2024 <<<"
+echo ">>> Last Updatting 15-3-2024 <<<"
 exit 0
