@@ -207,7 +207,10 @@
 	</submenu>
 
 	<submenu title="Cam" info="Dwawnload All Emu" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/cam2.png" bg="/media/hdd/AJPanel_Backup/vector/ooo.png" title_bg="#06004444">
-                <item name="Ncam-v14.6_New" info="Ncam-v14.6-ٍSky_DE" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/installer.sh -O - | /bin/sh</item>
+                <item name="oscam-emu_11748_mohamed-OS" info="oscam-11748-r799" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/main/softcams-oscam_11748-emu-r799_all.sh -O - | /bin/sh</item>
+		<item name="power-11748_mohamed-OS" info="powercam-11748-r799" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/main/softcams-powercam-oscam_11748-r799_all.sh -O - | /bin/sh</item>
+		<item name="supcam-11748_mohamed-OS" info="supcam-11748-r799" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/main/softcams-supcam-oscam_11748-r799_all.sh -O - | /bin/sh</item>
+		<item name="Ncam-v14.6_New" info="Ncam-v14.6-ٍSky_DE" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/installer.sh -O - | /bin/sh</item>
 		<item name="Ncam-v14.4_New" info="Ncam-v14.4" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/main/Ncam-v14.4.sh -O - | /bin/sh</item>
 		<item name="oscam-11734_mohamedOS" info="oscam-11734-r799" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/main/softcams-oscam_11734-emu-r799_all.sh -O - | /bin/sh</item>
 		<item name="power-11734_mohamedOS" info="powercam-11734-r799" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/main/softcams-powercam-oscam_11734-emu-r799_all.sh -O - | /bin/sh</item>
