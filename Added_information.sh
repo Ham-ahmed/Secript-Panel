@@ -3,13 +3,16 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "15-3-2024
+echo "16-3-2024
  Added"
 
 
-echo "15-3-2024"
+echo "16-3-2024"
 sleep 3s
 echo "> YouViX kin PosterX 4x1 New 15-3 update
+      > oscam emu 11748 r799 updated
+      > powercam oscam 11748 r799 update 
+      > supcam oscam 11748 r799 update
 sleep 3S
 
 
@@ -235,5 +238,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 15-3-2024 <<<"
+echo ">>> Last Updatting 16-3-2024 <<<"
 exit 0
