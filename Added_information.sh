@@ -17,7 +17,6 @@ echo "> plugin extensions ajpanel_v9.3.0_all updated
 sleep 3S
 
 
-
 echo "18-3-2024"
 sleep 3s
       > oscam emu 11748 r800 updated
