@@ -3,13 +3,26 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "16-3-2024
+echo "18-3-2024
  Added"
+
+
+echo "18-3-2024"
+sleep 3s
+echo "> oscam emu 11748 r800 updated
+      > powercam oscam 11748 r800 update 
+      > supcam oscam 11748 r800 update
+      > ultaracam oscam 11748 r800 update
+      > skins aglare fhd 2.1 Atv egami Spa update
+      > skins aglare fhd 2.1 openpli update
+      > skins aglare fhd Remove update
+      > skins aglare fhd openpli Remove update
+sleep 3S
 
 
 echo "16-3-2024"
 sleep 3s
-echo "> YouViX kin PosterX 4x1 New 15-3 update
+      > YouViX kin PosterX 4x1 New 15-3 update
       > oscam emu 11748 r799 updated
       > powercam oscam 11748 r799 update 
       > supcam oscam 11748 r799 update
@@ -238,5 +251,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 16-3-2024 <<<"
+echo ">>> Last Updatting 18-3-2024 <<<"
 exit 0
