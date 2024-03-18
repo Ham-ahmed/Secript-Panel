@@ -3,13 +3,24 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "18-3-2024
+echo "19-3-2024
  Added"
+
+
+echo "19-3-2024"
+sleep 3s
+echo "> plugin extensions ajpanel_v9.3.0_all updated
+      > plugin extensions ajpanel_v9.2.0_all update 
+      > plugin extensions ajpanel_v9.1.0_all update
+      > plugin extensions ajpanel_v9.0.0_all update
+      > skins aglare fhd 2.2 Atv egami Spa New update
+sleep 3S
+
 
 
 echo "18-3-2024"
 sleep 3s
-echo "> oscam emu 11748 r800 updated
+      > oscam emu 11748 r800 updated
       > powercam oscam 11748 r800 update 
       > supcam oscam 11748 r800 update
       > ultaracam oscam 11748 r800 update
@@ -251,5 +262,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 18-3-2024 <<<"
+echo ">>> Last Updatting 19-3-2024 <<<"
 exit 0
