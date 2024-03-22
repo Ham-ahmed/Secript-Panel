@@ -9,7 +9,7 @@ echo "23-3-2024
 
 echo "19-3-2024"
 sleep 3s
-echo " > plugin extensions ajpanel_v9.3.0_all updated
+      > plugin extensions ajpanel_v9.3.0_all updated
       > plugin extensions ajpanel_v9.2.0_all update 
       > plugin extensions ajpanel_v9.1.0_all update
       > plugin extensions ajpanel_v9.0.0_all update
