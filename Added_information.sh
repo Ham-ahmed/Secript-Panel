@@ -7,14 +7,13 @@ echo "23-3-2024
  Added"
 
 
-echo "23-3-2024"
+echo "29-2-2024"
 sleep 3s
-echo "> oscam emu 11748 r800 updated 
-      >powercam oscam 11749 r800 update 
-      > supcam oscam 11749 r800 update
-      > ultaracam oscam 11749 r800 update
-      > skins aglare fhd 2.3 Atv Egami Spa update
-      > skins aglare fhd 2.3 openpli update
+echo "> Ncam v-14.4 updated
+> oDreamyFHD mini posterX update
+> FHDglass17-v9.17 update
+> channels Mohamed-os New 27-2-2024 update
+> AglareFHD_1.5-Atv New update
 sleep 3S
 
 
