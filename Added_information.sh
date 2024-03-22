@@ -13,7 +13,7 @@ echo "> oscam emu 11749 r800 updated
       > powercam oscam 11749 r800 update 
       > supcam oscam 11749 r800 update
       > ultaracam oscam 11749 r800 update
-      > skins aglare fhd 2.3 Atv egami Spa update
+      > skins aglare fhd 2.3 Atv Egami Spa update
       > skins aglare fhd 2.3 openpli update
 sleep 3S
 
