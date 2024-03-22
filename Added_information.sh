@@ -7,11 +7,16 @@ echo "23-3-2024
  Added"
 
 
-echo "23-3-2024"
+echo "23-3-2024
 sleep 3s
-echo "> oscam emu 11840 r800 updated
-sleep 3s         
-
+echo "> oscam emu 11849 r800 updated
+      > powercam oscam 11849 r800 updated
+      > supcam oscam 11849 r800 updated 
+      > ultracam oscam 11849 r800 updated
+      > skins aglare fhd 2.3 Atv egami Spa updated
+      > skins aglare fhd 2.3 openpli updated
+sleep 3S
+     
 
 echo "19-3-2024"
 sleep 3s
