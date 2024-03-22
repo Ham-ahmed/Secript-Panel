@@ -3,13 +3,24 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "19-3-2024
+echo "23-3-2024
  Added"
+
+echo "23-3-2024"
+sleep 3s
+echo "> oscam emu 11749 r800 updated
+      > powercam oscam 11749 r800 update 
+      > supcam oscam 11749 r800 update
+      > ultaracam oscam 11749 r800 update
+      > skins aglare fhd 2.3 Atv egami Spa update
+      > skins aglare fhd 2.3 openpli update
+sleep 3S
+
 
 
 echo "19-3-2024"
 sleep 3s
-echo "> plugin extensions ajpanel_v9.3.0_all updated
+      > plugin extensions ajpanel_v9.3.0_all updated
       > plugin extensions ajpanel_v9.2.0_all update 
       > plugin extensions ajpanel_v9.1.0_all update
       > plugin extensions ajpanel_v9.0.0_all update
