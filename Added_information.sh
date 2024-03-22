@@ -25,6 +25,7 @@ sleep 3s
       > plugin extensions ajpanel_v9.1.0_all update
       > plugin extensions ajpanel_v9.0.0_all update
       > skins aglare fhd 2.2 Atv egami Spa New update
+      > MultiQuickButton openBH 5.3 Key all updated
 sleep 3S
 
 
