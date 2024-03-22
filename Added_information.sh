@@ -9,7 +9,7 @@ echo "23-3-2024
 
 echo "23-3-2024"
 sleep 3s
-      > powercam oscam 11749 r800 update 
+      echo "> powercam oscam 11749 r800 update 
       > supcam oscam 11749 r800 update
       > ultaracam oscam 11749 r800 update
       > skins aglare fhd 2.3 Atv Egami Spa update
