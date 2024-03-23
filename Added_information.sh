@@ -14,6 +14,7 @@ sleep 3s
       > supcam oscam 11851 r800 updated 
       > ultracam oscam 11851 r800 updated
       > plugin xstreamity 4.39 all New updated
+      > plugin xstreamity 4.40 all New updated
 sleep 3S
 
 
