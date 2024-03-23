@@ -9,6 +9,16 @@ echo "23-3-2024
 
 echo "23-3-2024
 sleep 3s
+      > oscam emu 11851 r800 updated
+      > powercam oscam 11851 r800 updated
+      > supcam oscam 11851 r800 updated 
+      > ultracam oscam 11851 r800 updated
+      > plugin xstreamity 4.39 all New updated
+sleep 3S
+
+
+echo "22-3-2024
+sleep 3s
       > oscam emu 11849 r800 updated
       > powercam oscam 11849 r800 updated
       > supcam oscam 11849 r800 updated 
