@@ -19,7 +19,7 @@ sleep 3S
 
 echo "22-3-2024
 sleep 3s
- echo "> oscam emu 11849 r800 updated
+echo "> oscam emu 11849 r800 updated
       > powercam oscam 11849 r800 updated
       > supcam oscam 11849 r800 updated 
       > ultracam oscam 11849 r800 updated
