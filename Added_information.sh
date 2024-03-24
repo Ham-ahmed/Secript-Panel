@@ -247,32 +247,32 @@ sleep 3s
 
 echo "10-1-2024
 sleep 3s
-echo "> oscam emu to 11731 updated"
+> oscam emu to 11731 updated"
 echo "> New-channels 2-1-2024 MohamedOS"
 sleep 3s
 
 echo "7-1-2024"
 sleep 3s
-> skin premium fhd 2.5 updated
+echo "> skin premium fhd 2.5 updated
 > skin premium fhd blue 2.5 updated
 > skin premium fhd black 2.5 updated"
 sleep 3s
 
 echo "7-1-2024"
 sleep 3s
-> panel  updated"
-> novalerstore  updated"
+echo "> panel  updated"
+echo "> novalerstore  updated"
 sleep 3s
 
 echo "7-1-2024"
 sleep 3s
-> plugins+Tools+Epg"
-> novalerstore  updated"
-> subssupport  updated"
-> xtraEvent-5.3  updated"
-> permanentclockt  updated"
-> NewVirtualKeyBoard_sub  updated"
-> service_app  updated"
+echo "> plugins+Tools+Epg"
+echo "> novalerstore  updated"
+echo "> subssupport  updated"
+echo "> xtraEvent-5.3  updated"
+echo "> permanentclockt  updated"
+echo "> NewVirtualKeyBoard_sub  updated"
+echo "> service_app  updated"
 sleep 3s
 
 echo ">>> Last Updatting 24-3-2024 <<<"
