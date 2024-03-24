@@ -3,8 +3,18 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "23-3-2024
+echo "24-3-2024
  Added"
+
+
+echo "24-3-2024
+sleep 3s
+      > Ncam-emu 14.7 r0 updated
+      > powercam Ncam 14.7 r0 updated
+      > supcam Ncam 14.7 r0 updated 
+      > ultracam Ncam 14.7 r0 updated
+      > gosatplus Ncam 14.7 r0 updated
+sleep 3S
 
 
 echo "23-3-2024
@@ -285,5 +295,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 23-3-2024 <<<"
+echo ">>> Last Updatting 24-3-2024 <<<"
 exit 0
