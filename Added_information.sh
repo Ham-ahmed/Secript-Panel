@@ -6,7 +6,6 @@ sleep 1s
 echo "24-3-2024
  Added"
 
-
 echo "24-3-2024
 sleep 3s
       > Ncam-emu 14.7 r0 updated
@@ -15,7 +14,6 @@ sleep 3s
       > ultracam Ncam 14.7 r0 updated
       > gosatplus Ncam 14.7 r0 updated
 sleep 3S
-
 
 echo "23-3-2024
 sleep 3s
@@ -27,10 +25,9 @@ echo "> oscam-emu 11851 r800 updated
       > plugin xstreamity 4.40 all New updated
 sleep 3S
 
-
 echo "22-3-2024
 sleep 3s
-echo "> oscam emu 11849 r800 updated
+      echo "> oscam emu 11849 r800 updated
       > powercam oscam 11849 r800 updated
       > supcam oscam 11849 r800 updated 
       > ultracam oscam 11849 r800 updated
@@ -39,7 +36,6 @@ echo "> oscam emu 11849 r800 updated
       > MultiQuickButton openBH 5.3 all updated
 sleep 3S
      
-
 echo "19-3-2024"
 sleep 3s
       > plugin extensions ajpanel_v9.3.0_all updated
@@ -49,7 +45,6 @@ sleep 3s
       > skins aglare fhd 2.2 Atv egami Spa New update
       > MultiQuickButton openBH 5.3 Key all updated
 sleep 3S
-
 
 echo "18-3-2024"
 sleep 3s
@@ -63,7 +58,6 @@ sleep 3s
       > skins aglare fhd openpli Remove update
 sleep 3S
 
-
 echo "16-3-2024"
 sleep 3s
       > YouViX kin PosterX 4x1 New 15-3 update
@@ -71,7 +65,6 @@ sleep 3s
       > powercam oscam 11748 r799 update 
       > supcam oscam 11748 r799 update
 sleep 3S
-
 
 echo "15-3-2024"
 sleep 3s
@@ -82,13 +75,11 @@ sleep 3s
       > Ahmed hussein Channl_Motor 10-3-2024 updated
 sleep 3S
 
-
 echo "6-3-2024"
 sleep 3s
 > Mx-LiveFHD openBH 5.3.16 py3.11.2 update
     > TMBD plugin plugin v8.6 New update
 sleep 3S
-
 
 echo "5-3-2024"
 sleep 3s
@@ -99,12 +90,10 @@ sleep 3s
 > AglareFHD_1.3-Pli New update
 sleep 3S
 
-
 echo "4-3-2024"
 sleep 3s
 > Mx-SunMoon_FHD openBH 5.3.16 py3.11.2 update
 sleep 3S
-
 
 echo "29-2-2024"
 sleep 3s
@@ -115,18 +104,15 @@ sleep 3s
 > AglareFHD_1.5-Atv New update
 sleep 3S
 
-
 echo "24-2-2024"
 sleep 3s
 > Subspport plugin By Mora Hosny 3.12.1-3.11.2 update
 sleep 3S
 
-
 echo "22-2-2024"
 sleep 3s
 > New plugin ipaudiopro 3.12.1 update
 sleep 3S
-
 
 echo "21-2-2024"
 sleep 3s
@@ -134,13 +120,11 @@ sleep 3s
 > New plugin ipaudiopro 3.12.1 update 
 sleep 3S
 
-
 echo "17-2-2024"
 sleep 3s
 > oDreamy fhd mini Skin updated
 > New plugin ipaudiopro 3.12.1 update 
 sleep 3S
-
 
 echo "16-2-2024"
 sleep 3s
@@ -152,7 +136,6 @@ sleep 3s
 > gosatplus oscam 11743 r799 update
 sleep 3S
 
-
 echo "16-2-2024"
 sleep 3s
 > EPGTranslator v2.0.3 plugin updated
@@ -160,12 +143,10 @@ sleep 3s
 > AglareFHD_1.1 openpli update
 sleep 3S
 
-
 echo "9-2-2024"
 sleep 3s
 > E2-DarkOS FHD Posterx updated 
 sleep 3S
-
 
 echo "7-2-2024"
 sleep 3s
@@ -174,31 +155,25 @@ sleep 3s
 > supcam-oscam 11732-r799 updated
 sleep 3S
 
-
 echo "6-2-2024"
 sleep 3s
 > YouViX-4x1_posterX updated 
 sleep 3S
-
 
 echo "4-2-2024"
 sleep 3s
 > BlackSPA fhd posterX updated 
 sleep 3S
 
-
 echo "1-2-2024"
 sleep 3s
 > openpluse fhd posterX updated 
 sleep 3S
 
-
-
 echo "31-1-2024"
 sleep 3s
 > openpluse fhd v.1 openspa updated 
 sleep 3S
-
 
 echo "29-1-2024"
 sleep 3s
@@ -208,13 +183,11 @@ sleep 3s
 > Sherlockmod_New Mod updated
 sleep 3S
 
-
 echo "27-1-2024"
 sleep 3s
 > History-Zab-Selector 1.0.38-py3.12 updated
 > Channel by Mohamed-OS Arnane 20240126 updated
 sleep 3s
-
 
 echo "26-1-2024"
 sleep 3s
@@ -230,7 +203,6 @@ sleep 3s
 > Estuaryfhd spa v2 It has been fixed updated
 > Eustaryfhd spa v3 new mod A Ahmed updated
 sleep 3s
-
 
 echo "17-01-2024"
 sleep 3s
@@ -266,33 +238,41 @@ sleep 3s
 > internet speed test-1.7 updated
 sleep 3s
 
-
 echo "10-1-2024
+sleep 3s
 echo "> new nitor skin 2024  updated
 > new history zap to 1.0.35 updated
 > Sherlockmod plugin updated"
+sleep 3s
+
+echo "10-1-2024
 sleep 3s
 echo "> oscam emu to 11731 updated"
 echo "> New-channels 2-1-2024 MohamedOS"
 sleep 3s
 
-
 echo "7-1-2024"
 sleep 3s
-echo "> skin premium fhd 2.5 updated
+> skin premium fhd 2.5 updated
 > skin premium fhd blue 2.5 updated
 > skin premium fhd black 2.5 updated"
 sleep 3s
-echo "> panel  updated"
-echo "> novalerstore  updated"
+
+echo "7-1-2024"
 sleep 3s
-echo "> plugins+Tools+Epg"
-echo "> novalerstore  updated"
-echo "> subssupport  updated"
-echo "> xtraEvent-5.3  updated"
-echo "> permanentclockt  updated"
-echo "> NewVirtualKeyBoard_sub  updated"
-echo "> service_app  updated"
+> panel  updated"
+> novalerstore  updated"
+sleep 3s
+
+echo "7-1-2024"
+sleep 3s
+> plugins+Tools+Epg"
+> novalerstore  updated"
+> subssupport  updated"
+> xtraEvent-5.3  updated"
+> permanentclockt  updated"
+> NewVirtualKeyBoard_sub  updated"
+> service_app  updated"
 sleep 3s
 
 echo ">>> Last Updatting 24-3-2024 <<<"
