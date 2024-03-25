@@ -8,7 +8,16 @@ echo "25-3-2024
 
 echo "25-3-2024
 sleep 3s
-      > picons Nilsat-8w 01-03-2024 updated
+      > oscam-emu 11752 r800 updated
+      > powercam oscam 11752 r800 updated
+      > supcam oscam 11752 r800 updated 
+      > ultracam oscam 11752 r800 updated
+      > gosatplus oscam 11752 r800 updated
+sleep 3S
+
+echo "25-3-2024
+sleep 3s
+echo "> picons Nilsat-8w 01-03-2024 updated
       > picons Nilsat-8w-26E 01-03-2024 updated
 sleep 3S
 
@@ -24,9 +33,9 @@ sleep 3S
 echo "23-3-2024
 sleep 3s
 echo "> oscam-emu 11851 r800 updated
-      > powercam oscam 11851 r800 updated
-      > supcam oscam 11851 r800 updated 
-      > ultracam oscam 11851 r800 updated
+      > powercam oscam 11751 r800 updated
+      > supcam oscam 11751 r800 updated 
+      > ultracam oscam 11751 r800 updated
       > plugin xstreamity 4.39 all New updated
       > plugin xstreamity 4.40 all New updated
 sleep 3S
