@@ -218,7 +218,7 @@
 	</submenu>
 
 	<submenu title="Cam" info="Dwawnload All Emu" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/cam2.png" bg="/media/hdd/AJPanel_Backup/vector/ooo.png" title_bg="#06004444">
-                <item name="Ncam-emu_14.7-r0" info="v14.7-r0_fairman" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/main/softcams-ncam_14.7-r0_all.sh -O - | /bin/sh</item>
+                <item name="Ncam-emu_14.7-r0" info="v14.7-r0_fairman" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/installer.sh -O - | /bin/sh</item>
 		<item name="powercam-Ncam_14.7-r0" info="v14.7-r0_fairman" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/main/softcams-powercam-ncam_14.7-r0_all.sh -O - | /bin/sh</item>
 		<item name="supcam-Ncam_14.7-r0" info="v14.7-r0_fairman" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/main/softcams-supcam-ncam_14.7-r0_all.sh -O - | /bin/sh</item>
 		<item name="ultaracam-Ncam_14.7-r0" info="v14.7-r0_fairman" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/main/softcams-ultracam-ncam_14.7-r0_all.sh -O - | /bin/sh</item> 
