@@ -6,7 +6,7 @@ sleep 1s
 echo "25-3-2024
  Added"
 
-     "25-3-2024
+echo "25-3-2024
 sleep 3s
       > picons Nilsat-8w 01-03-2024 updated
       > picons Nilsat-8w-26E 01-03-2024 updated
