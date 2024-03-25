@@ -3,10 +3,10 @@ echo ">>>H-Ahmed-Panel<<<"
 echo " "
 echo " "
 sleep 1s
-echo "24-3-2024
+echo "25-3-2024
  Added"
 
-echo "24-3-2024
+echo "25-3-2024
 sleep 3s
       > picons Nilsat-8w 01-03-2024 updated
       > picons Nilsat-8w-26E 01-03-2024 updated
@@ -281,5 +281,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 24-3-2024 <<<"
+echo ">>> Last Updatting 25-3-2024 <<<"
 exit 0
