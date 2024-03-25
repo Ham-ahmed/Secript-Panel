@@ -17,7 +17,7 @@ sleep 3S
 
 echo "25-3-2024
 sleep 3s
-echo "> picons Nilsat-8w 01-03-2024 updated
+      > picons Nilsat-8w 01-03-2024 updated
       > picons Nilsat-8w-26E 01-03-2024 updated
 sleep 3S
 
