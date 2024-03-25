@@ -8,7 +8,13 @@ echo "24-3-2024
 
 echo "24-3-2024
 sleep 3s
-      > Ncam-emu 14.7 r0 updated
+      > picons Nilsat-8w 01-03-2024 updated
+      > picons Nilsat-8w-26E 01-03-2024 updated
+sleep 3S
+
+echo "24-3-2024
+sleep 3s
+echo "> Ncam-emu 14.7 r0 updated
       > powercam Ncam 14.7 r0 updated
       > supcam Ncam 14.7 r0 updated 
       > ultracam Ncam 14.7 r0 updated
