@@ -120,10 +120,9 @@
 	</submenu>
 
 	<submenu title="Channels" info="Channel All Sat" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Channels.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06004444">
-		<item name="AHMED-HUSSEIN-motor" info="Channels_10-03-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/Ahmed-hussein-channel_Motor.sh -O - | /bin/sh</item>
-		<item name="chocholousek-pvector" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/chocholousek-pvector/chocholousek-pvector.sh -O - | /bin/sh</item>
-                <item name="AHMED-HUSSEIN-motor" info="Channels_10-03-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/Ahmed-hussein-channel_Motor.sh -O - | /bin/sh</item>
-		<item name="AHMED-HUSSEIN-motor" info="Channels_10-03-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/Ahmed-hussein-channel_Motor.sh -O - | /bin/sh</item>
+        	<item name="chocholousek-pvector" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/chocholousek-pvector/chocholousek-pvector.sh -O - | /bin/sh</item>
+                <item name="picons-NilSat-8W" info="By_elisat-01-03-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat-8w-01032024.sh -O - | /bin/sh</item>
+		<item name="picons-NilSat-8W-26E" info="By_eliesat-01-03-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat-8w-26e_01032024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_03032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_3-3-2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_27022024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_24012024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/channels_backup_MohammedOS_20240124.sh -O - | /bin/sh</item>
