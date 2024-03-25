@@ -1,5 +1,5 @@
 #!/bin/sh
-echo ">>>H-Ahmed-Panel<<<"
+echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
