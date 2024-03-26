@@ -3,12 +3,12 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "26-3-2024
+echo "26-3-2024"
  Added"
 
-cho "26-3-2024
+echo "26-3-2024"
 sleep 3s
-      > picons hispsat 30w Nilsat-8w w4 w1 e1.9 20-03-2024 updated
+echo "> picons hispsat 30w Nilsat-8w w4 w1 e1.9 20-03-2024 updated
       > picons eutelsat7 hot bir 13 eutelsat16e 20-03-2024 updated
       > picons Astra 19.2 Astra 23.5 26e 39e 42e 20-03-2024updated
       > picons 42 e 51e 52e 53.5e 54e 62.5e 68e 20-03-2024 updated
