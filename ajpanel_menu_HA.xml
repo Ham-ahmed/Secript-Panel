@@ -341,11 +341,28 @@
 		<item name="Sherlockmod" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget https://raw.githubusercontent.com/biko-73/Sherlockmod/main/installer.sh -O - | /bin/sh -qO - | /bin/sh</item>
 	</submenu>
 
-	<submenu title="Fix-IT" info="FIX-ServerAtv_Settin-Xtra Plugins Dowenload" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/fix.png" bg="/media/hdd/AJPanel_Backup/vector/hv.png" title_bg="#06004444">
-		<item name="fix-atv-softcam" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_fix-atv-softcam-restart.sh -O - | /bin/sh</item>
-		<item name="fix-xtraevent-place" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_fix-xtraevent-download-place.sh -O - | /bin/sh</item>
-		<item name="fix-ipk-package-installation" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_fix-ipk-package-installation.sh -O - | /bin/sh</item>
-		<item name="Xtraevent" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_fix-xtraevent-download-place.sh -O - | /bin/sh</item>
+	<submenu title="Picons" info="All-Sat-picons_Dowenload" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/picons.png" bg="/media/hdd/AJPanel_Backup/vector/hv.png" title_bg="#06004444">
+		<item name="picons-30.0W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-30.0W_2032024.sh -O - | /bin/sh</item>
+		<item name="Nilsat7.0w-8.0w_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat7.0w-8.0w_2032024.sh -O - | /bin/sh</item>
+		<item name="picons-7.0W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-7.0W_2032024.sh -O - | /bin/sh</item>
+		<item name="picons-8.0W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-8.0W_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-4.0W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-4.0W_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-1.0W-0.8W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-1.0W-0.8W_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-1.9E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-1.9E_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-7.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-7.0E_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-13.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-13.0E_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-16.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-16.0E_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-19.2E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-19.2E_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-23.5E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-23.5E_2032024.sh -O - | /bin/sh</item> 
+	        <item name="picons-26.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-26.0E_2032024.sh -O - | /bin/sh</item> 
+	        <item name="picons-39.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-39.0E_2032024.sh -O - | /bin/sh</item> 
+	        <item name="picons-42.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-42.0E_2032024.sh -O - | /bin/sh</item> 
+	        <item name="picons-51.5E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-51.5E_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-52.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-52.0E_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-53.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-53.0E_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-54.9E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-54.9E_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-62.0E2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-62.0E2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-68.5E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-68.5E_2032024.sh -O - | /bin/sh</item>
 	</submenu>
 
 	<submenu title="Iptv" info="Iptv-Plugin_Download" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/iptv.png" bg="/media/hdd/AJPanel_Backup/vector/ee.png" title_bg="#06004444">
@@ -381,5 +398,12 @@
 		<item name="aglare_Skin-remove" info="delete Skin" font_size="20" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/del.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Remove/main/aglare_remove.sh -O - | /bin/sh</item>
 		<item name="aglarepli-Skin_remove" info="delete Skin" font_size="20" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/del.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Remove/main/aglarepli_remove.sh -O - | /bin/sh</item>
 		<item name="Crash-logo" mode="grid_3x2" width="1600" height="930" shade="yes" info="delete all bug" font_size="20" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/del.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/remove/_remove-crash-logs.sh -O - | /bin/sh</item>
+	</submenu>
+
+	<submenu title="Fix-IT" info="FIX-ServerAtv_Settin-Xtra Plugins Dowenload" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/fix.png" bg="/media/hdd/AJPanel_Backup/vector/hv.png" title_bg="#06004444">
+		<item name="fix-atv-softcam" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_fix-atv-softcam-restart.sh -O - | /bin/sh</item>
+		<item name="fix-xtraevent-place" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_fix-xtraevent-download-place.sh -O - | /bin/sh</item>
+		<item name="fix-ipk-package-installation" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_fix-ipk-package-installation.sh -O - | /bin/sh</item>
+		<item name="Xtraevent" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/scripts/-/raw/main/all/_fix-xtraevent-download-place.sh -O - | /bin/sh</item>
 	</submenu>
 </ajp_menu>
