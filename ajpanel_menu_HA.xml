@@ -342,6 +342,7 @@
 	</submenu>
 
 	<submenu title="Picons" info="All-Sat-picons_Dowenload" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/picons.png" bg="/media/hdd/AJPanel_Backup/vector/hv.png" title_bg="#06004444">
+		<item name="picons_All-Sat_28-3-2024" info="picons-for-Motor" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons_All-Sat_28-3-2024.sh -O - | /bin/sh</item>
 		<item name="picons-30.0W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-30.0W_2032024.sh -O - | /bin/sh</item>
 		<item name="Nilsat7.0w-8.0w_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat7.0w-8.0w_2032024.sh -O - | /bin/sh</item>
 		<item name="picons-7.0W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-7.0W_2032024.sh -O - | /bin/sh</item>
@@ -350,10 +351,12 @@
 	        <item name="picons-1.0W-0.8W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-1.0W-0.8W_2032024.sh -O - | /bin/sh</item>
 	        <item name="picons-1.9E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-1.9E_2032024.sh -O - | /bin/sh</item>
 	        <item name="picons-7.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-7.0E_2032024.sh -O - | /bin/sh</item>
-	        <item name="picons-13.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-13.0E_2032024.sh -O - | /bin/sh</item>
+	        <item name="picons-9.0E_2832024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-9.0E_2832024.sh -O - | /bin/sh</item>
+		<item name="picons-13.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-13.0E_2032024.sh -O - | /bin/sh</item>
 	        <item name="picons-16.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-16.0E_2032024.sh -O - | /bin/sh</item>
 	        <item name="picons-19.2E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-19.2E_2032024.sh -O - | /bin/sh</item>
-	        <item name="picons-23.5E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-23.5E_2032024.sh -O - | /bin/sh</item> 
+	        <item name="picons-21.5E_2832024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-21.5E_28032024.sh -O - | /bin/sh</item>
+		<item name="picons-23.5E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-23.5E_2032024.sh -O - | /bin/sh</item> 
 	        <item name="picons-26.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-26.0E_2032024.sh -O - | /bin/sh</item> 
 	        <item name="picons-39.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-39.0E_2032024.sh -O - | /bin/sh</item> 
 	        <item name="picons-42.0E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-42.0E_2032024.sh -O - | /bin/sh</item> 
