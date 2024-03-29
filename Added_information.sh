@@ -6,9 +6,18 @@ sleep 1s
 echo "29-3-2024
  Added"
 
+echo "29-3-2024
+sleep 3s
+      > oscam-emu 11757 r801 updated
+      > powercam oscam 11757 r801 updated
+      > supcam oscam 11757 r801 updated 
+      > ultracam oscam 11757 r801 updated
+      > gosatplus oscam 11757 r801 updated
+sleep 3S
+
 echo "29-3-2024"
 sleep 3s
-echo "> picons All Sat for Motor 29-03-2024 updated
+      > picons All Sat for Motor 29-03-2024 updated
       > picons eutelsat 9.0 E 29-03-2024 updated
       > picons eutelsat 21.5 E 29-03-2024 updated
       > skins aglare fhd 2.4 Atv egami Spa updated
@@ -307,5 +316,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 26-3-2024 <<<"
+echo ">>> Last Updatting 29-3-2024 <<<"
 exit 0
