@@ -11,6 +11,8 @@ sleep 3s
 echo "> picons All Sat for Motor 29-03-2024 updated
       > picons eutelsat 9.0 E 29-03-2024 updated
       > picons eutelsat 21.5 E 29-03-2024 updated
+      > skins aglare fhd 2.4 Atv egami Spa updated
+      > skins aglare fhd 2.4 openpli All updated
 sleep 3S
 
 echo "26-3-2024"
