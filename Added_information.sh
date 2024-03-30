@@ -10,6 +10,7 @@ echo "30-3-2024
 sleep 3s
       > skins aglare fhd 2.5 Atv egami Spa updated
       > picons All Sat for Motor 30-03-2024 updated
+      > 20-Portals multistalkerpro updated
 sleep 3S
 
 echo "29-3-2024
