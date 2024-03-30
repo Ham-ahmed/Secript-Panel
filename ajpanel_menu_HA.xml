@@ -379,6 +379,7 @@
 	</submenu>
 
 	<submenu title="Iptv" info="Iptv-Plugin_Download" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/iptv.png" bg="/media/hdd/AJPanel_Backup/vector/ee.png" title_bg="#06004444">
+		<item name="20-Portal" info="multistalkerpro" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/MultiStalkerPro/main/Portal_multistalker.sh -O - | /bin/sh</item>
 		<item name="xstreamity" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/xstreamity/xstreamity.sh -O - | /bin/sh</item>
 		<item name="quarter_pounder" info="For iptv" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/quarter-pounder/quarter-pounder.sh -O - | /bin/sh</item>
 		<item name="jedimakerxtream" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/jedimakerxtream/jedimakerxtream.sh -O - | /bin/sh</item>
