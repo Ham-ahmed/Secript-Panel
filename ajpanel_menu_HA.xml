@@ -350,7 +350,7 @@
 	</submenu>
 
 	<submenu title="Picons" info="All-Sat-picons_Dowenload" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/picons.png" bg="/media/hdd/AJPanel_Backup/vector/hv.png" title_bg="#06004444">
-		<item name="picons_All-Sat_28-3-2024" info="picons-for-Motor" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons_All-Sat_28-3-2024.sh -O - | /bin/sh</item>
+		<item name="picons_All-Sat_30-3-2024" info="New_picons-for-Motor" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons_All-Sat_28-3-2024.sh -O - | /bin/sh</item>
 		<item name="picons-30.0W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-30.0W_2032024.sh -O - | /bin/sh</item>
 		<item name="Nilsat7.0w-8.0w_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat7.0w-8.0w_2032024.sh -O - | /bin/sh</item>
 		<item name="picons-7.0W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-7.0W_2032024.sh -O - | /bin/sh</item>
