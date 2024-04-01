@@ -3,19 +3,33 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "30-3-2024
+echo "2-4-2024
  Added"
+
+echo "2-4-2024
+sleep 3s
+      > oscam-emu 11759 r801 updated
+      > powercam oscam 11759 r801 updated
+      > supcam oscam 11759 r801 updated 
+      > ultracam oscam 11759 r801 updated
+      > gosatplus oscam 11759 r801 updated
+      > Ncam-emu 14.9 r0 updated
+      > powercam Ncam 14.9 r0 updated
+      > supcam Ncam 14.9 r0 updated 
+      > ultracam Ncam 14.9 r0 updated
+      > gosatplus Ncam 14.9 r0 updated
+sleep 3S
 
 echo "30-3-2024
 sleep 3s
-      > skins aglare fhd 2.5 Atv egami Spa updated
+echo "> skins aglare fhd 2.5 Atv egami Spa updated
       > picons All Sat for Motor 30-03-2024 updated
       > 20-Portals multistalkerpro updated
 sleep 3S
 
 echo "29-3-2024
 sleep 3s
-echo "> oscam-emu 11757 r801 updated
+ echo "> oscam-emu 11757 r801 updated
       > powercam oscam 11757 r801 updated
       > supcam oscam 11757 r801 updated 
       > ultracam oscam 11757 r801 updated
@@ -323,5 +337,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 30-3-2024 <<<"
+echo ">>> Last Updatting 2-4-2024 <<<"
 exit 0
