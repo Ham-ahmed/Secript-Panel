@@ -16,7 +16,7 @@ echo "> oDreamyFHD-Mini egami10.5r1-2-3 py3.11.2 update
       > gosatplus oscam 11763 r801 updated
       > skins aglare fhd 2.6 Atv egami Spa updated
       > skins aglare fhd 2.6 openpli updated
-      skins aglare fhd 2.7 Atv egami Spa updated
+      > skins aglare fhd 2.7 Atv egami Spa updated
 sleep 3S
 
 echo "2-4-2024
