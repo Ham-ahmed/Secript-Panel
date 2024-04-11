@@ -8,7 +8,12 @@ echo "11-4-2024
 
 echo "11-4-2024"
 sleep 3s
- echo "> oDreamyFHD-Mini egami10.5r1-2-3 py3.11.2 update
+echo "> oDreamyFHD-Mini egami10.5r1-2-3 py3.11.2 update
+      > oscam-emu 11763 r801 updated
+      > powercam oscam 11763 r801 updated
+      > supcam oscam 11763 r801 updated 
+      > ultracam oscam 11763 r801 updated
+      > gosatplus oscam 11763 r801 updated
 sleep 3S
 
 echo "2-4-2024
