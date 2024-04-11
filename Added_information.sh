@@ -6,7 +6,7 @@ sleep 1s
 echo "11-4-2024
  Added"
 
-echo "11-3-2024"
+echo "11-4-2024"
 sleep 3s
  echo "> oDreamyFHD-Mini egami10.5r1-2-3 py3.11.2 update
 sleep 3S
