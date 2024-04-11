@@ -60,7 +60,7 @@
 		</submenu>
 
 		<submenu title="egami-10.4" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/eg.png" bg="/media/hdd/AJPanel_Backup/vector/s-pure.png" title_bg="#06004444">
-                         <item name="oDreamyFHD_mini-posterX-10.5r1-2-3" info="py-3.12.1-3.12.2_Mod_HAhmed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins2024/main/oDreamyFHD_mini-posterX-Mod_HAhmed.sh -O - | /bin/sh</item>
+                         <item name="oDreamyFHD_mini-posterX-10.5r1-2-3" info="py-3.12.1-3.12.2_Mod_HAhmed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins2024/main/oDreamyFHD_mini-posterX-Mod_HA.sh -O - | /bin/sh</item>
 			<item name="oDreamyFHD_mini-posterX-10.5r1-2" info="py-3.12.1_Mod_HAhmed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins2024/main/oDreamyFHD_mini-posterX-Mod_HAhmed.sh -O - | /bin/sh</item>
 			<item name="oDreamyFHD_mini-xtra" info="py-3.12.1_Mod_HAhmed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins2024/main/Skin-oDreamyFHD_mini-Mod_HAhmed.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-blue-2.7" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins/main/skins-premium-fhd-blue_2.7.sh -O - | /bin/sh</item>
