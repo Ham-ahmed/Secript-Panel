@@ -3,12 +3,21 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "11-4-2024
+echo "13-4-2024
  Added"
+
+echo "13-4-2024"
+sleep 3s
+echo "> oscam-emu 11764 r801 updated
+      > powercam oscam 11764 r801 updated
+      > supcam oscam 11764 r801 updated 
+      > ultracam oscam 11764 r801 updated
+      > gosatplus oscam 11764 r801 updated
+ sleep 3S
 
 echo "11-4-2024"
 sleep 3s
-echo "> oDreamyFHD-Mini egami10.5r1-2-3 py3.11.2 update
+      > oDreamyFHD-Mini egami10.5r1-2-3 py3.11.2 update
       > oscam-emu 11763 r801 updated
       > powercam oscam 11763 r801 updated
       > supcam oscam 11763 r801 updated 
@@ -350,5 +359,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 11-4-2024 <<<"
+echo ">>> Last Updatting 13-4-2024 <<<"
 exit 0
