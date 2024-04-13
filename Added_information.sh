@@ -13,6 +13,7 @@ echo "> oscam-emu 11764 r801 updated
       > supcam oscam 11764 r801 updated 
       > ultracam oscam 11764 r801 updated
       > gosatplus oscam 11764 r801 updated
+      > Channels-MohamdOS Motor 12-4-2024 updated
  sleep 3S
 
 echo "11-4-2024"
