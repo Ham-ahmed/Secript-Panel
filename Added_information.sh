@@ -15,7 +15,7 @@ echo "> oscam-emu 11764 r801 updated
       > gosatplus oscam 11764 r801 updated
  sleep 3S
 
-echo "18-4-2024"
+echo "18-4-2024
 sleep 3s
 echo "> e2iplayer+TSIPlayer 14-04-2024 updated
 sleep 3S
