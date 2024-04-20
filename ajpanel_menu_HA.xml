@@ -47,7 +47,8 @@
 		</submenu>
 
 		<submenu title="OPENPBH" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/bh.png" bg="/media/hdd/AJPanel_Backup/vector/ggg.png" title_bg="#06004444">
-                        <item name="MX-LiveFHD_Skin-posterX" info="openBH_5.3.16-py-3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins2024/main/1MX-LiveFHD_Skin-posterX-Mod_HA.sh -O - | /bin/sh</item>
+                        <item name="MX_Slim-Line_NP-posterX" info="openBH_5.4-py-3.12.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skin-py3-12-2/main/MX_Slim-Line_NP-Mod_HAhmed.sh -O - | /bin/sh</item>
+			<item name="MX-LiveFHD_Skin-posterX" info="openBH_5.3.16-py-3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins2024/main/1MX-LiveFHD_Skin-posterX-Mod_HA.sh -O - | /bin/sh</item>
 			<item name="Mx-SunMoonFHD-posterx" info="openBH_5.3.16-py-3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins2024/main/Mx-SunMoon-fhd-posterX_mod_HA.sh -O - | /bin/sh</item>
 			<item name="MX_GrayDots_vip-xtra" info="openBH_5.3.16-py-3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/MX_GrayDots_vip-xtra_mod-HA.sh -O - | /bin/sh</item>
 			<item name="Mx-PrioFHD-xtra" info="openBH_5.3.16-py-3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/Mx-PrioFHD-xtra_mod-HAhmed.sh -O - | /bin/sh</item>
