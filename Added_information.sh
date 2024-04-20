@@ -9,6 +9,7 @@ echo "21-4-2024
 echo "21-4-2024"
 sleep 3s
 echo "> oscam-emu 11764 r801 updated
+      > skin MX Slim NP openBH5.4-py3.12.2 updated
       > powercam oscam 11764 r801 updated
       > supcam oscam 11764 r801 updated 
       > ultracam oscam 11764 r801 updated
