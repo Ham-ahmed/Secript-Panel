@@ -8,7 +8,7 @@ echo "25-4-2024
 
 echo "24-4-2024
 sleep 3s
-      > YouViX skin PosterX 4x1 New 15-3 update
+      > YouViX skin 6.5.003 PosterX 4x1 New 24-4 update
 sleep 3S
 
 echo "21-4-2024"
