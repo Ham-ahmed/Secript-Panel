@@ -3,12 +3,17 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "21-4-2024
+echo "25-4-2024
  Added"
+
+echo "24-4-2024
+sleep 3s
+      > YouViX kin PosterX 4x1 New 15-3 update
+sleep 3S
 
 echo "21-4-2024"
 sleep 3s
-echo "> oscam-emu 11764 r801 updated
+      > oscam-emu 11764 r801 updated
       > skin MX Slim NP openBH5.4-py3.12.2 updated
       > powercam oscam 11764 r801 updated
       > supcam oscam 11764 r801 updated 
@@ -375,5 +380,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 21-4-2024 <<<"
+echo ">>> Last Updatting 25-4-2024 <<<"
 exit 0
