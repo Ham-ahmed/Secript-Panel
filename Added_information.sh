@@ -3,7 +3,7 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "26-4-2024
+echo "26-4-2024"
  Added"
 
 echo "26-4-2024"
@@ -11,7 +11,7 @@ sleep 3s
 echo "> estuary FHD skin pure2-7.4 PosterX 26-4 updated
 sleep 3S
 
-echo "24-4-2024
+echo "24-4-2024"
 sleep 3s
 echo "> YouViX skin 6.5.003 PosterX 4x1 New 24-4 updated
 sleep 3S
