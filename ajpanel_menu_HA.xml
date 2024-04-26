@@ -129,7 +129,8 @@
 	</submenu>
 
 	<submenu title="Channels" info="Channel All Sat" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Channels.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06004444">
-        	<item name="mohamed-os-motor_12042024" info="from-30w-To-70E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_12-4-2024.sh -O - | /bin/sh</item>
+        	<item name="mohamed-os-motor_26042024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_26-4-2024.sh -O - | /bin/sh</item>
+		<item name="mohamed-os-motor_12042024" info="from-30w-To-70E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_12-4-2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_03032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_3-3-2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_27022024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_24012024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/channels_backup_MohammedOS_20240124.sh -O - | /bin/sh</item>
@@ -227,7 +228,12 @@
 	</submenu>
 
 	<submenu title="Cam" info="Dwawnload All Emu" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/cam2.png" bg="/media/hdd/AJPanel_Backup/vector/ooo.png" title_bg="#06004444">
-                <item name="oscam-emu_11766_mohamed-OS" info="oscam-11766-r801" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Vew-emu3/main/softcams-oscam_11766-emu-r801_all.sh -O - | /bin/sh</item>
+                <item name="oscam-emu_11770_mohamed-OS" info="oscam-11770-r801" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/oscam11770/main/softcams-oscam_11770-emu-r801_all.sh -O - | /bin/sh</item>
+		<item name="power-11770_mohamed-OS" info="powercam-11770-r801" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/oscam11770/main/softcams-powercam-oscam_11770-r801_all.sh -O - | /bin/sh</item>
+		<item name="supcam-11770_mohamed-OS" info="supcam-11770-r801" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/oscam11770/main/softcams-supcam-oscam_11770-r801_all.sh -O - | /bin/sh</item>
+		<item name="ultaracam-11770_mohamed-OS" info="ultara-11770-r801" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/oscam11770/main/softcams-ultracam-oscam_11770-r801_all.sh -O - | /bin/sh</item> 
+		<item name="gosatplus-oscam_11770_mohamed-OS" info="gosatpluse-oscam-11770-r801" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/oscam11770/main/softcams-gosatplus-oscam_11770-r801_all.sh -O - | /bin/sh</item>
+		<item name="oscam-emu_11766_mohamed-OS" info="oscam-11766-r801" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Vew-emu3/main/softcams-oscam_11766-emu-r801_all.sh -O - | /bin/sh</item>
 		<item name="power-11766_mohamed-OS" info="powercam-11766-r801" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Vew-emu3/main/softcams-powercam-oscam_11766-r801_all.sh -O - | /bin/sh</item>
 		<item name="supcam-11766_mohamed-OS" info="supcam-11766-r801" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Vew-emu3/main/softcams-supcam-oscam_11766-r801_all.sh -O - | /bin/sh</item>
 		<item name="ultaracam-11766_mohamed-OS" info="ultara-11766-r801" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/so.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Vew-emu3/main/softcams-ultracam-oscam_11766-r801_all.sh -O - | /bin/sh</item> 
