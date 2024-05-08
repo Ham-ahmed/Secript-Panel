@@ -3,8 +3,13 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "5-5-2024"
+echo "9-5-2024"
  Added"
+
+echo "9-5-2024"
+sleep 3s
+      > XionFHD-Skin posterX-v2 New 8-5-2024 updated
+sleep 3S
 
 echo "5-5-2024"
 sleep 3s
@@ -423,5 +428,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 5-5-2024 <<<"
+echo ">>> Last Updatting 9-5-2024 <<<"
 exit 0
