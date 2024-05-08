@@ -6,7 +6,7 @@ sleep 1s
 echo "9-5-2024"
  Added"
 
-echo "9-5-2024
+echo "9-5-2024"
 sleep 3s
       > XionFHD-Skin posterX-v2 New 8-5-2024 updated
 sleep 3S
