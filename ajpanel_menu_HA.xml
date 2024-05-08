@@ -115,6 +115,7 @@
 		</submenu>
 
 		<submenu title="OpenHDF" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/hdf.png" bg="/media/hdd/AJPanel_Backup/vector/ooo.png" title_bg="#06004444">
+			<item name="XionFHD-Skin posterX-v02" info="openHDF-7.3Py-3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/XionFHD/main/XionHDF-posterX-v02_Mod_HAhmed.sh -O - | /bin/sh</item>
 			<item name="XionFHD-Skin posterX-v1" info="openHDF-7.3Py-3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/XionFHD/main/XionHDF-posterX-v1_Mod_HAhmed.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-black" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf2.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premium-fhd-black.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-blue" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf2.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premium-fhd-blue.sh -O - | /bin/sh</item>
