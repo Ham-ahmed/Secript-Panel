@@ -3,8 +3,24 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "9-5-2024"
+echo "12-5-2024"
  Added"
+
+echo "11-5-2024"
+sleep 3s
+      > novalerstore-py3.12_3.0-r0 updated
+      > novalerstore-py3.11_3.0-r0 updated
+      > novalerstore-py3.9_3.0-r0 updated 
+      > suptv-py3.12_6.0-r0 updated
+      > suptv-py3.11_6.0-r0 updated
+      > suptv-py3.9_6.0-r0 updated
+      > ipaudioplus-py3.12_4.1-r0 updated
+      > ipaudioplus-py3.11_4.1-r0 updated
+      > ipaudioplus-py3.9_4.1-r0 updated
+      > ipsat-py3.12_9.5-r0_all updated
+      > ipsat-py3.11_9.5-r0_all updated
+      > ipsat-py3.9_9.5-r0_all updated 
+ sleep 3S
 
 echo "9-5-2024"
 sleep 3s
@@ -428,5 +444,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 9-5-2024 <<<"
+echo ">>> Last Updatting 12-5-2024 <<<"
 exit 0
