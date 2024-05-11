@@ -125,10 +125,19 @@
 		</submenu>
 	</submenu>
 
-	<submenu title="Panels" info="Dwawnload All panels" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Panels.png" bg="/media/hdd/AJPanel_Backup/vector/s-v.png" title_bg="#06004444">
-		<item name="ajpanel " ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/ajpanel/ajpanel.sh -O - | /bin/sh</item>
-		<item name="novalerstore" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/novalerstore/novalerstore.sh -O - | /bin/sh</item>
-		<item name="levi45 manager" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget wget https://raw.githubusercontent.com/biko-73/levi45_multicam-manager/main/installer.sh  -O - | /bin/sh</item>
+	<submenu title="Novaler" info="Dwawnload All panels" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Panels.png" bg="/media/hdd/AJPanel_Backup/vector/s-v.png" title_bg="#06004444">
+		<item name="novalerstore-py3.12" info="py3.12-1-2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/novalerstore-py3.12_3.0-r0_all.sh -O - | /bin/sh</item>
+		<item name="novalerstore-py3-11" info="py3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/novalerstore-py3.11_3.0-r0_all.sh -O - | /bin/sh</item>
+		<item name="novalerstore-py3-9.9" info="py3.9.9" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/novalerstore-py3.9_3.0-r0_all.sh -O - | /bin/sh</item>
+		<item name="ipaudioplus-py3.12" info="py3.12-1-2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/ipaudioplus-py3.12_4.1-r0_all.sh -O - | /bin/sh</item>
+		<item name="ipaudioplus-py3-11" info="py3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/ipaudioplus-py3.11_4.1-r0_all.sh -O - | /bin/sh</item>
+		<item name="ipaudioplus-py3-9.9" info="py3.9.9" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/ipaudioplus-py3.9_4.1-r0_all.sh -O - | /bin/sh</item>
+		<item name="ipsat-py3.12" info="py3.12-1-2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/ipsat-py3.12_9.5-r0_all.sh -O - | /bin/sh</item>
+		<item name="ipsat-py3-11" info="py3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/ipsat-py3.11_9.5-r0_all.sh -O - | /bin/sh</item>
+		<item name="ipsat-py3-9.9" info="py3.9.9" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/ipsat-py3.9_9.5-r0_all.sh -O - | /bin/sh</item>
+		<item name="suptv-py3.12" info="py3.12-1-2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/suptv-py3.12_6.0-r0_all.sh -O - | /bin/sh</item>
+		<item name="suptv-py3-11" info="py3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/suptv-py3.11_6.0-r0_all.sh -O - | /bin/sh</item>
+		<item name="suptv-py3-9.9" info="py3.9.9" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/suptv-py3.9_6.0-r0_all.sh -O - | /bin/sh</item>
 	</submenu>
 
 	<submenu title="Channels" info="Channel All Sat" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Channels.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06004444">
