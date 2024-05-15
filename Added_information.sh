@@ -3,8 +3,23 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "12-5-2024"
+echo "16-5-2024"
  Added"
+
+echo "16-5-2024"
+sleep 3s
+      > Mx-LiveFHD-Skin posterX-v2 New 15-5-2024 updated
+sleep 3S
+
+echo "16-5-2024"
+sleep 3s
+      > oscam-emu 11783 r801 updated
+      > powercam oscam 11783 r801 updated
+      > supcam oscam 11783 r801 updated 
+      > ultracam oscam 11783 r801 updated
+      > gosatplus oscam 11783 r801 updated
+      > Channels-MohamdOS Motor 10-54-2024 updated
+ sleep 3S
 
 echo "11-5-2024"
 sleep 3s
@@ -444,5 +459,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 12-5-2024 <<<"
+echo ">>> Last Updatting 16-5-2024 <<<"
 exit 0
