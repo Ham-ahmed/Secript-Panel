@@ -11,6 +11,16 @@ sleep 3s
       > GigaBluepax2FHD-Skin posterX-v1 New 26-5-2024 updated
 sleep 3S
 
+echo "26-5-2024"
+sleep 3s
+      > oscam-emu 11785 r801 updated
+      > powercam oscam 11785 r801 updated
+      > supcam oscam 11785 r801 updated 
+      > ultracam oscam 11785 r801 updated
+      > gosatplus oscam 11785 r801 updated
+      > Channels-MohamdOS Motor 22-54-2024 updated
+ sleep 3S
+
 echo "18-5-2024"
 sleep 3s
       > Mx-LiveFHD-Skin posterX-v3 New 18-5-2024 updated
