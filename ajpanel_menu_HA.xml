@@ -137,6 +137,7 @@
     	        <submenu title="TeamBlue" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/pu.png" bg="/media/hdd/AJPanel_Backup/vector/s-v.png" title_bg="#06004444">
 		<item name="Gigabluepaxv2FHD-teamblue-7.3-py3.11.2" info="SKIN-MOD-H-Ahmed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/team-blue/main/GigabluePaxV2FHD-posterX_Mod3_HAhmed.sh -O - | /bin/sh</item>
 	       </submenu>
+	   </submenu>
 	
 	        <submenu title="Novaler" info="Dwawnload All panels" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Panels.png" bg="/media/hdd/AJPanel_Backup/vector/s-v.png" title_bg="#06004444">
 		<item name="novalerstore-py3.12" info="py3.12-1-2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/novalerstore-py3.12_3.0-r0_all.sh -O - | /bin/sh</item>
