@@ -122,7 +122,7 @@
 			<item name="esturyFHD-pure2-7.4-py3.12.2" info="SKIN-MOD-H-Ahmed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skin-py3-12-2/main/estuaryfhd-posterX-mod3_H-Ahmed.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-black" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premium-fhd-black.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-blue" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premium-fhd-blue.sh -O - | /bin/sh</item>
-		</submenu>
+	</submenu>
 
 		<submenu title="OpenHDF" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/hdf.png" bg="/media/hdd/AJPanel_Backup/vector/ooo.png" title_bg="#06004444">
 			<item name="XionFHD-Skin posterX-v02" info="openHDF-7.3Py-3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/XionFHD/main/XionHDF-posterX-v02_Mod_HAhmed.sh -O - | /bin/sh</item>
@@ -132,14 +132,13 @@
 			<item name="premium-fhd-black2.6" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/skins-premium-fhd-black_2.6.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-blue2.6" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/skins-premium-fhd-blue_2.6.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-2.6" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/hdf2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/skins-premium-fhd_2.6.sh -O - | /bin/sh</item>
-		</submenu>
 	</submenu>
 
-	<submenu title="TeamBlue" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/pu.png" bg="/media/hdd/AJPanel_Backup/vector/s-v.png" title_bg="#06004444">
+    	        <submenu title="TeamBlue" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/pu.png" bg="/media/hdd/AJPanel_Backup/vector/s-v.png" title_bg="#06004444">
 		<item name="Gigabluepaxv2FHD-teamblue-7.3-py3.11.2" info="SKIN-MOD-H-Ahmed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/team-blue/main/GigabluePaxV2FHD-posterX_Mod3_HAhmed.sh -O - | /bin/sh</item>
 	</submenu>
 	
-	<submenu title="Novaler" info="Dwawnload All panels" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Panels.png" bg="/media/hdd/AJPanel_Backup/vector/s-v.png" title_bg="#06004444">
+	        <submenu title="Novaler" info="Dwawnload All panels" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Panels.png" bg="/media/hdd/AJPanel_Backup/vector/s-v.png" title_bg="#06004444">
 		<item name="novalerstore-py3.12" info="py3.12-1-2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/novalerstore-py3.12_3.0-r0_all.sh -O - | /bin/sh</item>
 		<item name="novalerstore-py3-11" info="py3.11.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/novalerstore-py3.11_3.0-r0_all.sh -O - | /bin/sh</item>
 		<item name="novalerstore-py3-9.9" info="py3.9.9" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Novaler/main/novalerstore-py3.9_3.0-r0_all.sh -O - | /bin/sh</item>
