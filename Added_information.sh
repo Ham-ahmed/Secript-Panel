@@ -3,18 +3,19 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "26-5-2024"
+echo "5-6-2024"
  Added"
 
 echo "5-6-2024"
 sleep 3s
       > openplusFHD-Skin posterX-v2 New 5-6-2024 updated
-sleep 3S
-
-echo "4-6-2024"
-sleep 3s
-      > GigaBluepax2FHD-Skin posterX-v1 New 26-5-2024 updated
-sleep 3S
+      > GigaBluepax2FHD-Skin posterX-v1 New 5-6-2024 updated
+      > oscam-emu 11789 r801 updated
+      > powercam oscam 11789r801 updated
+      > supcam oscam 11789 r801 updated 
+      > ultracam oscam 11789 r801 updated
+      > gosatplus oscam 11789 r801 updated
+ sleep 3S
 
 echo "26-5-2024"
 sleep 3s
