@@ -15,6 +15,11 @@ sleep 3s
       > supcam oscam 11789 r801 updated 
       > ultracam oscam 11789 r801 updated
       > gosatplus oscam 11789 r801 updated
+      > metrix skinparts mnasr Atv updated
+      > skins-aglare-fhd 3.4 mnasr Atv egami Spa updated
+      > skins-novax-fhd 2.1 mnasr Atv egami Spa updated
+      > skins-premium blue_3.1 mnasr Atv egami Spa updated
+      > skins-premium black 3.1 mnasr Atv egami Spa updated
  sleep 3S
 
 echo "26-5-2024"
