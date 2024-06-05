@@ -6,7 +6,12 @@ sleep 1s
 echo "26-5-2024"
  Added"
 
-echo "26-5-2024"
+echo "5-6-2024"
+sleep 3s
+      > openplusFHD-Skin posterX-v2 New 5-6-2024 updated
+sleep 3S
+
+echo "4-6-2024"
 sleep 3s
       > GigaBluepax2FHD-Skin posterX-v1 New 26-5-2024 updated
 sleep 3S
@@ -479,5 +484,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 3s
 
-echo ">>> Last Updatting 26-5-2024 <<<"
+echo ">>> Last Updatting 5-6-2024 <<<"
 exit 0
