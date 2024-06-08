@@ -3,8 +3,21 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "5-6-2024"
+echo "9-6-2024"
  Added"
+
+echo "9-6-2024"
+sleep 3s
+      > oscam-emu 11785 r801 updated
+      > powercam oscam 11790 r801 updated
+      > supcam oscam 11790 r801 updated 
+      > ultracam oscam 11790 r801 updated
+      > gosatplus oscam 11790 r801 updated
+      > Channels-MohamdOS Motor 7-6-2024 updated
+      > plugin extensions ajpanel_v9.4.0_all updated
+      > New plugin ipaudiopro v1.1 3.12 update
+      > ipaudiopro Mohamed Elsafty update
+ sleep 3S
 
 echo "5-6-2024"
 sleep 3s
@@ -490,5 +503,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 1s
 
-echo ">>> Last Updatting 5-6-2024 <<<"
+echo ">>> Last Updatting 9-6-2024 <<<"
 exit 0
