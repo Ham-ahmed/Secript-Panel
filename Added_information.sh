@@ -17,6 +17,7 @@ sleep 3s
       > plugin extensions ajpanel_v9.4.0_all updated
       > New plugin ipaudiopro v1.1 3.12 update
       > ipaudiopro Mohamed Elsafty update
+      > plugin extensions vavoo 1.5 all updated
  sleep 3S
 
 echo "5-6-2024"
