@@ -9,6 +9,7 @@ echo "10-6-2024"
 echo "10-6-2024"
 sleep 3s
       > New plugin ipaudiopro v1.1-R2 3.12.3 update
+      > ipaudiopro1.1r6 Mohamed Elsafty update
  sleep 3S
 
 echo "9-6-2024"
