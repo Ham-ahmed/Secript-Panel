@@ -6,6 +6,11 @@ sleep 1s
 echo "10-6-2024"
  Added"
 
+echo "17-6-2024"
+sleep 3s
+      > New plugin Xklass-v08 3.12 All update
+ sleep 3S
+
 echo "10-6-2024"
 sleep 3s
       > New plugin ipaudiopro v1.1-R2 3.12.3 update
@@ -510,5 +515,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 1s
 
-echo ">>> Last Updatting 10-6-2024 <<<"
+echo ">>> Last Updatting 17-6-2024 <<<"
 exit 0
