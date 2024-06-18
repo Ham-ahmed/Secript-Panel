@@ -3,8 +3,18 @@ echo ">>> H-Ahmed-Panel v.4 <<<"
 echo " "
 echo " "
 sleep 1s
-echo "10-6-2024"
+echo "19-6-2024"
  Added"
+
+echo "19-6-2024"
+sleep 1s
+      > oscam-emu 11791 r801 updated
+      > powercam oscam 11791 r801 updated
+      > supcam oscam 11791 r801 updated 
+      > ultracam oscam 11791 r801 updated
+      > gosatplus oscam 11791 r801 updated
+      > Channels-MohamdOS Motor 26-6-2024 updated
+ sleep 1S
 
 echo "17-6-2024"
 sleep 3s
@@ -515,5 +525,5 @@ echo "> NewVirtualKeyBoard_sub  updated"
 echo "> service_app  updated"
 sleep 1s
 
-echo ">>> Last Updatting 17-6-2024 <<<"
+echo ">>> Last Updatting 19-6-2024 <<<"
 exit 0
