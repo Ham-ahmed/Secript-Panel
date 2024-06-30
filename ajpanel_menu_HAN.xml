@@ -445,7 +445,7 @@
 		<item name="imdb" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">opkg install enigma2-plugin-extensions-imdb</item>
 	</submenu>
 
-	<submenu title="Others" info="Other Plugins Dowenload" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Others.png" bg="/media/hdd/AJPanel_Backup/vector/s-s.png" title_bg="#06004444">
+	<submenu title="Others" info="Other Plugins Dowenload" icon="/media/hdd/AJPanel_Backup/vector/Others.png" width="650" height="500" fg="#22ffffff" bg="#00350002" font_size="35" align_items="left" title_fg="#00ffe400" title_bg="#05144474" title_font_size="50" cursor_fg="#00F5F9AF" cursor_bg="#00154434">
 		<item name="MultiQuickButton-BH" info="openBH_5.3_Key" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Others/main/MultiQuickButton-BH_5.3..sh -O - | /bin/sh</item>
 		<item name="ArabicSavior" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/fairbird/ArabicSavior/main/installer.sh -O - | /bin/sh</item>
 		<item name="zoom-plugin_v1.1.2" info="Free-Serves" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Others/main/zoom-plugin_v1.1.2.sh -O - | /bin/sh</item>
