@@ -264,7 +264,7 @@
 		<item name="ajpanel-v9.2.0 " info="plugin-ajpanel_v9.2.0_All" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/aj1.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Ajpanel/main/plugin-extensions-ajpanel_v9.2.0_all.sh -O - | /bin/sh</item>
 		<item name="ajpanel-v9.1.0 " info="plugin-ajpanel_v9.1.0_All" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/aj1.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Ajpanel/main/plugin-extensions-ajpanel_v9.1.0_all.sh -O - | /bin/sh</item>
 		<item name="ajpanel-v9.0.0 " info="plugin-ajpanel_v9.0.0_All" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/aj1.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Ajpanel/main/plugin-extensions-ajpanel_v9.0.0_all.sh -O - | /bin/sh</item>
-		<item name="ajpanel " ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/ajpanel/ajpanel.sh -O - | /bin/sh</item>
+		<item name="ajpanel " ask="yes" icon="/media/hdd/AJPanel_Backup/vector/aj1.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/ajpanel/ajpanel.sh -O - | /bin/sh</item>
 	</submenu>
 	
 	<submenu title="Cam" info="Dwawnload All Emu" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/cam2.png" bg="/media/hdd/AJPanel_Backup/vector/ooo.png" title_bg="#06004444">
