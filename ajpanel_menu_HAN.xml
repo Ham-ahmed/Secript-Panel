@@ -439,16 +439,16 @@
 	</submenu>
 
 	<submenu title="Others" info="for-image-Dowenload" icon="/media/hdd/AJPanel_Backup/vector/Others.png" width="650" height="500" fg="#22ffffff" bg="#00000000" font_size="35" align_items="left" title_fg="#00ffe400" title_bg="#05000040" title_font_size="50" cursor_fg="#00F5F9AF" cursor_bg="#00800000">
-		<item name="ArabicSavior" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/fairbird/ArabicSavior/main/installer.sh -O - | /bin/sh</item>
-		<item name="MultiQuickButton-openBH" info="openBH_5.3_Key" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Others/main/MultiQuickButton-BH_5.3..sh -O - | /bin/sh</item>
-		<item name="bitrate" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">opkg install enigma2-plugin-extensions-bitrate</item>
-		<item name="service app" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">opkg install enigma2-plugin-systemplugins-serviceapp</item>
-		<item name="NewVirtualKeyBoard_sub" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget https://raw.githubusercontent.com/fairbird/NewVirtualKeyBoard/main/subsinstaller.sh -O - | /bin/sh</item>
-		<item name="zoom-plugin_v1.1.2" info="Free-Serves" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Others/main/zoom-plugin_v1.1.2.sh -O - | /bin/sh</item>
-		<item name="RaedQuickSignal" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/fairbird/RaedQuickSignal/main/installer.sh -O - | /bin/sh</item>
-		<item name="permanentclock" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">opkg install enigma2-plugin-extensions-permanentclock</item>
-		<item name="FootOnsat" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/ziko-ZR1/FootOnsat/main/Download/install.sh -O - | /bin/sh</item>
-		<item name="Sherlockmod" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget https://raw.githubusercontent.com/biko-73/Sherlockmod/main/installer.sh -O - | /bin/sh -qO - | /bin/sh</item>
+		<item name="ArabicSavior" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/fairbird/ArabicSavior/main/installer.sh -O - | /bin/sh</item>
+		<item name="MultiQuickButton-openBH" info="openBH_5.3_Key" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Others/main/MultiQuickButton-BH_5.3..sh -O - | /bin/sh</item>
+		<item name="bitrate" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">opkg install enigma2-plugin-extensions-bitrate</item>
+		<item name="service app" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">opkg install enigma2-plugin-systemplugins-serviceapp</item>
+		<item name="NewVirtualKeyBoard_sub" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget https://raw.githubusercontent.com/fairbird/NewVirtualKeyBoard/main/subsinstaller.sh -O - | /bin/sh</item>
+		<item name="zoom-plugin_v1.1.2" info="Free-Serves" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Others/main/zoom-plugin_v1.1.2.sh -O - | /bin/sh</item>
+		<item name="RaedQuickSignal" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/fairbird/RaedQuickSignal/main/installer.sh -O - | /bin/sh</item>
+		<item name="permanentclock" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">opkg install enigma2-plugin-extensions-permanentclock</item>
+		<item name="FootOnsat" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/ziko-ZR1/FootOnsat/main/Download/install.sh -O - | /bin/sh</item>
+		<item name="Sherlockmod" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget https://raw.githubusercontent.com/biko-73/Sherlockmod/main/installer.sh -O - | /bin/sh -qO - | /bin/sh</item>
 	</submenu>
 
 	<submenu title="Picons" info="All-Sat-picons_Dowenload" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/picons.png" bg="/media/hdd/AJPanel_Backup/vector/hv.png" title_bg="#06000040" title1_fg="#00808000" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
