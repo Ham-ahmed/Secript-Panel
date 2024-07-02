@@ -118,7 +118,7 @@
 			<item name="premium-fhd-2.6" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/skins-premium-fhd_2.6.sh -O - | /bin/sh</item>
 		</submenu>
 
-		<submenu title="Pure2" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/pu.png" bg="/media/hdd/AJPanel_Backup/vector/s-v.png" title_bg="#06004444">
+		<submenu title="Pure2" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/pu1.png" bg="/media/hdd/AJPanel_Backup/vector/s-v.png" title_bg="#06004444">
 			<item name="esturyFHD-pure2-7.4-py3.12.2" info="SKIN-MOD-H-Ahmed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skin-py3-12-2/main/estuaryfhd-posterX-mod3_H-Ahmed.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-black" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premium-fhd-black.sh -O - | /bin/sh</item>
 			<item name="premium-fhd-blue" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premium-fhd-blue.sh -O - | /bin/sh</item>
