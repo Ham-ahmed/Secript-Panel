@@ -10,6 +10,13 @@ echo " "
 echo "> 4-7-2024"
 sleep 3s
 
+echo "> > Channels-MohamdOS Motor 1-7-2024 updated"
+sleep 3s
+
+echo " "
+echo "> 4-7-2024"
+sleep 3s
+
 echo "> oscam-emu 11799 r802 updated"
 sleep 3s
 
