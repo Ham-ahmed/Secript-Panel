@@ -7,6 +7,25 @@ echo "> 04-07-2024"
 sleep 3s
 
 echo " "
+echo "> 4-7-2024"
+sleep 3s
+
+echo "> oscam-emu 11799 r802 updated"
+sleep 3s
+
+echo "> powercam oscam 11799 r802 updated"
+sleep 3s
+
+echo "> supcam oscam 11799 r802 updated"
+sleep 3s
+
+echo "> ultracam oscam 11799 r802 updated"
+sleep 3s
+
+echo "> gosatplus oscam 11799 r802 updated"
+sleep 3s
+
+echo " "
 echo "> 3-7-2024"
 sleep 3s
 
@@ -25,5 +44,5 @@ sleep 3s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 3s
 
-echo ">>> Last Updatting 3-7-2024 <<<"
+echo ">>> Last Updatting 4-7-2024 <<<"
 exit 0
