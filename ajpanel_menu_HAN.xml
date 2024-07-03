@@ -159,6 +159,7 @@
 	</submenu>
 
 	<submenu title="Channels" info="Channel All Sat" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Channels.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="mohamed-os-motor_1-7-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_1-7-2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_17-6-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_17-6-2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_7-6-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_7-6-2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_22-5-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_22-5-2024.sh -O - | /bin/sh</item>
