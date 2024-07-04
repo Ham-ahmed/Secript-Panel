@@ -30,6 +30,26 @@ sleep 3s
 echo "> skins aglare fhd 3.7 MNasr 4-7-2024 updated"
 sleep 3s
 
+echo " "
+echo "> 4-7-2024"
+sleep 3s
+
+echo "> novacampro py3.12_3.0-r0 1-7-2024 updated"
+sleep 3s
+
+echo " "
+echo "> 4-7-2024"
+sleep 3s
+
+echo "> novacampro py3.11_3.0-r0 1-7-2024 updated"
+sleep 3s
+
+echo " "
+echo "> 4-7-2024"
+sleep 3s
+
+echo "> novacampro py3.9_3.0-r0 1-7-2024 updated"
+sleep 3s
 
 echo "> xtraevent plugin v6.6 4-7-2024 updated"
 sleep 3s
