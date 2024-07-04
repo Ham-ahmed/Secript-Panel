@@ -24,6 +24,13 @@ echo " "
 echo "> 4-7-2024"
 sleep 3s
 
+echo "> xtraevent plugin v6.6 4-7-2024 updated"
+sleep 3s
+
+echo " "
+echo "> 4-7-2024"
+sleep 3s
+
 echo "> oscam-emu 11799 r802 updated"
 sleep 3s
 
@@ -37,6 +44,13 @@ echo "> ultracam oscam 11799 r802 updated"
 sleep 3s
 
 echo "> gosatplus oscam 11799 r802 updated"
+sleep 3s
+
+echo " "
+echo "> 4-7-2024"
+sleep 3s
+
+echo "> xtraevent plugin v6.7 4-7-2024 updated"
 sleep 3s
 
 echo " "
