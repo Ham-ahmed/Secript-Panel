@@ -190,9 +190,10 @@
 	</submenu>
 
 	<submenu title="Media" info="Dwawnload All plugin" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Media.png" bg="/media/hdd/AJPanel_Backup/vector/s-s.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
-		<item name="e2iplayer by mohamed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget --no-check-certificate "https://gitlab.com/MOHAMED_OS/e2iplayer/-/raw/main/install-e2iplayer.sh?inline=false" -qO - | /bin/sh</item>
-		<item name="IPtoSAT" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/IPtoSAT/installer.sh -qO - | /bin/sh</item>
-		<item name="TSmedia" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget https://raw.githubusercontent.com/biko-73/TSmedia/main/installer.sh -O - | /bin/sh</item>
+		<item name="e2iplayer by mohamed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget --no-check-certificate "https://gitlab.com/MOHAMED_OS/e2iplayer/-/raw/main/install-e2iplayer.sh?inline=false" -qO - | /bin/sh</item>
+		<item name="moviesbrowser-3.8" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/1New-P/main/moviesbrowser-3.8.sh -O - | /bin/sh</item>
+		<item name="IPtoSAT" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/IPtoSAT/installer.sh -qO - | /bin/sh</item>
+		<item name="TSmedia" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget https://raw.githubusercontent.com/biko-73/TSmedia/main/installer.sh -O - | /bin/sh</item>
 		<item name="e2iplayer+TSIPlayer" info="New-plugin.13-04-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/e2iplayer/main/Install-e2iplayer%2BTSIPlayer.sh -O - | /bin/sh</item>
 		<item name="xstreamity_4.40" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" wget https://raw.githubusercontent.com/biko-73/xstreamity/main/installer.sh -O - | /bin/sh </item>
 		<item name="xstreamity_4.39" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" wget https://raw.githubusercontent.com/Ham-ahmed/Xstreamity/main/plugin-extensions-xstreamity_4.39.sh -O - | /bin/sh</item>
@@ -211,6 +212,8 @@
 
 	<submenu title="Plugins" info="Dwawnload All plugin" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/PPlugins.png" bg="/media/hdd/AJPanel_Backup/vector/ooo.png" title_bg="#06000040" title1_fg="#00FFFF80" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
 		<item name="History_Zap_1.0.38_py3.12" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" wget https://raw.githubusercontent.com/biko-73/History_Zap_Selector/main/installer.sh -O - | /bin/sh</item>
+		<item name="oaweather2.6" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/1New-P/main/oaweather.sh -O - | /bin/sh</item>
+		<item name="weatherplugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/1New-P/main/weather_plugin.sh -O - | /bin/sh</item>
 		<item name="alternativesoftcammanager" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/alternativesoftcammanager/alternativesoftcammanager.sh -O - | /bin/sh</item>
 		<item name="athantimes" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/athantimes/athantimes.sh -O - | /bin/sh </item>
 		<item name="azkar-almuslim" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/azkar-almuslim/azkar-almuslim.sh -O - | /bin/sh </item>
@@ -238,7 +241,6 @@
 		<item name="neoboot-9.65" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/neoboot/neoboot.sh -O - | /bin/sh</item>
 		<item name="TheWeather" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget https://raw.githubusercontent.com/biko-73/TheWeather/main/installer.sh -qO - | /bin/sh</item>
 		<item name="weatherplugin" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">opkg install enigma2-plugin-extensions-weatherplugin</item>
-		<item name="oaweather" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">opkg install enigma2-plugin-extensions-oaweather</item>
 		<item name="quarter-pounder" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/quarter-pounder/quarter-pounder.sh -O - | /bin/sh</item>
 		<item name="quran-karim" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/quran-karim/quran-karim.sh -O - | /bin/sh</item>
 		<item name="raedquicksignal" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/raedquicksignal/raed-quick-signal.sh -O - | /bin/sh</item>
