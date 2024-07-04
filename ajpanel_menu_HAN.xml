@@ -190,8 +190,6 @@
 		<item name="IPtoSAT" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/IPtoSAT/installer.sh -qO - | /bin/sh</item>
 		<item name="TSmedia" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget https://raw.githubusercontent.com/biko-73/TSmedia/main/installer.sh -O - | /bin/sh</item>
 		<item name="JediMakerXtream" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget https://raw.githubusercontent.com/biko-73/JediMakerXtream/main/installer.sh -O - | /bin/sh</item>
-		<item name="ipaudio-6.8" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/ipaudio/ipaudio.sh -O - | /bin/sh</item>
-		<item name="ipaudiopro-1.1-py-3.9-3.11" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/ipaudiopro/ipaudiopro.sh -O - | /bin/sh</item>
 		<item name="ipchecker" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/ipchecker/ipchecker.sh -O - | /bin/sh</item>
 	</submenu>
 
@@ -521,8 +519,10 @@
 		<item name="M-Elsafty" info="New_picons+audio-Links" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Ipaudio-2024/main/ipaudiopro-Elsafty.sh -O - | /bin/sh</item>
 		<item name="Ipaudiopro-3.12.1" info="New_plugin+audio-file+picons" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Ipaudio-2024/main/Ipaudiopro-3.12.1_upload-HAhmed.sh -O - | /bin/sh</item>
 		<item name="ipaudiopro-1.1-py-3.11.5" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/enigma2-plugin-extensions-ipaudiopro_1.1.sh -O - | /bin/sh</item>
+		<item name="ipaudiopro-1.1-py-3.9-3.11" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/ipaudiopro/ipaudiopro.sh -O - | /bin/sh</item>
 		<item name="ipaudiopro_picons-MNasr" info="picons" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/picons-ipaudio_MNasr.sh -O - | /bin/sh</item>
 		<item name="audio_140124_MNasr" info="audio-files" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/MNASR_audio_140124.sh -O - | /bin/sh</item>
+		<item name="ipaudio-6.8" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/ipaudio/ipaudio.sh -O - | /bin/sh</item>
 		<item name="Biko-audio_150124" info="audio-files" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/Biko_audio_150124.sh -O - | /bin/sh</item>
 	</submenu>
 
