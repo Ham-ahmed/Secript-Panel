@@ -66,6 +66,13 @@ echo " "
 echo "> 4-7-2024"
 sleep 2s
 
+echo "> opdboot v3.1 4-7-2024 updated"
+sleep 2s
+
+echo " "
+echo "> 4-7-2024"
+sleep 2s
+
 echo "> Channels-MohamdOS Motor 1-7-2024 updated"
 sleep 2s
 
