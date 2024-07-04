@@ -25,13 +25,41 @@ echo "> 4-7-2024"
 sleep 2s
 
 echo "> levi45 multicammanager 10.1-r22 4-7-2024 updated"
-sleep 3s
+sleep 2s
 
 echo " "
 echo "> 4-7-2024"
-sleep 3s
+sleep 2s
 
 echo "> Satvenus panel v7.3.3 4-7-2024 updated"
+sleep 2s
+
+echo " "
+echo "> 4-7-2024"
+sleep 2s
+
+echo "> historyzapselector dorik v1.0.41 4-7-2024 updated"
+sleep 2s
+
+echo " "
+echo "> 4-7-2024"
+sleep 2s
+
+echo "> moviesbrowser 3.8 4-7-2024 updated"
+sleep 2s
+
+echo " "
+echo "> 4-7-2024"
+sleep 2s
+
+echo "> oaweather 2.6 4-7-2024 updated"
+sleep 2s
+
+echo " "
+echo "> 4-7-2024"
+sleep 2s
+
+echo "> oweather plugin 4-7-2024 updated"
 sleep 2s
 
 echo " "
