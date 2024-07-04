@@ -206,6 +206,7 @@
 	</submenu>
 
 	<submenu title="Multiboot" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Multiboot.png" bg="/media/hdd/AJPanel_Backup/vector/s-pure.png" title_bg="#06000040" title1_fg="#00FFFF80" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="opdboot-3.1" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/1New-P/main/opdboot-v3.1.sh -O - | /bin/sh</item>
 		<item name="multiboot-flashonline" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/multiboot-flashonline/multiboot-flashonline.sh -O - | /bin/sh</item>
 		<item name="neoboot-9.65" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/neoboot/neoboot.sh -O - | /bin/sh</item>
 	</submenu>
