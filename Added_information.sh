@@ -10,7 +10,14 @@ echo " "
 echo "> 4-7-2024"
 sleep 3s
 
-echo "> > Channels-MohamdOS Motor 1-7-2024 updated"
+echo "> Xklass plugin v.016 kiddac 4-7-2024 updated"
+sleep 3s
+
+echo " "
+echo "> 4-7-2024"
+sleep 3s
+
+echo "> Channels-MohamdOS Motor 1-7-2024 updated"
 sleep 3s
 
 echo " "
