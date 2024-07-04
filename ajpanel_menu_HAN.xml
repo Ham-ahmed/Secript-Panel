@@ -449,7 +449,7 @@
 		<item name="pkteam-logo" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/bo.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/display/-/raw/main/n-image/bootlogos-n-pkteam.sh -O - | /bin/sh</item>
 	</submenu>
 
-	<submenu title="Others-plugin" info="for-image-Dowenload" icon="/media/hdd/AJPanel_Backup/vector/Others.png" width="1920" height="900" fg="#22ffffff" bg="#00000000" font_size="35" align_items="left" title_fg="#00ffe400" title_bg="#05000040" title_font_size="50" cursor_fg="#00F5F9AF" cursor_bg="#00800000">
+	<submenu title="Others-plugin" info="for-image-Dowenload" icon="/media/hdd/AJPanel_Backup/vector/Others.png" width="1200" height="600" fg="#22ffffff" bg="#00000000" font_size="35" align_items="left" title_fg="#00ffe400" title_bg="#05000040" title_font_size="50" cursor_fg="#00F5F9AF" cursor_bg="#00800000">
 		<item name="ArabicSavior" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/fairbird/ArabicSavior/main/installer.sh -O - | /bin/sh</item>
 		<item name="MultiQuickButton-openBH" info="openBH_5.3_Key" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Others/main/MultiQuickButton-BH_5.3..sh -O - | /bin/sh</item>
 		<item name="bitrate" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">opkg install enigma2-plugin-extensions-bitrate</item>
