@@ -412,9 +412,9 @@
 	</submenu>
 
        <submenu title="Others-Panel" info="for-image-Dowenload" icon="/media/hdd/AJPanel_Backup/vector/op.png" width="900" height="600" fg="#22ffffff" bg="#00000000" font_size="35" align_items="left" title_fg="#00ffe400" title_bg="#05000040" title_font_size="50" cursor_fg="#00F5F9AF" cursor_bg="#00800000">
-		<item name="levi45-addon-manager" info="panel-10.1-r19" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/opp.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Levi45/main/levi45-addon-manager_10.1-r19.sh -O - | /bin/sh</item>
-		<item name="levi45multicammanager" info="icam-10.1-r22" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/opp.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Levi45/main/levi45multicammanager_10.1-r22.sh -O - | /bin/sh</item>
-	        <item name="Satvenus-panel" info="panel_v7.3.3" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/opp.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Levi45/main/Satvenus-panel_7.3.3.sh -O - | /bin/sh</item>
+		<item name="levi45-addon-manager10.1r19" info="panel-10.1-r19" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/opp.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Levi45/main/levi45-addon-manager_10.1-r19.sh -O - | /bin/sh</item>
+		<item name="levi45multicammanager10.1r22" info="icam-10.1-r22" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/opp.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Levi45/main/levi45multicammanager_10.1-r22.sh -O - | /bin/sh</item>
+	        <item name="Satvenus-panelv7.3.3" info="panel_v7.3.3" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/opp.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Levi45/main/Satvenus-panel_7.3.3.sh -O - | /bin/sh</item>
        </submenu>
 	
 	<submenu title="Tools" info="All Tools" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Tools.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06000040" title1_fg="#00FFFF00" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
