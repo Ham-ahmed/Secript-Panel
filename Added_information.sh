@@ -3,7 +3,16 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 04-07-2024"
+echo "> 05-07-2024"
+sleep 2s
+
+echo "> MultiStalkerpro 1.2 3.9 arm updated"
+sleep 2s
+
+echo "> MultiStalkerpro 1.2 3.12 bv arm updated"
+sleep 2s
+
+echo "> MultiStalkerpro 1.2 3.12 ape arm updated"
 sleep 2s
 
 echo " "
@@ -155,5 +164,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 4-7-2024 <<<"
+echo ">>> Last Updatting 5-7-2024 <<<"
 exit 0
