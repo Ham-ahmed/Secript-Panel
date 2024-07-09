@@ -19,7 +19,7 @@ echo "> Xklass plugin v.1.02 kiddac 7-7-2024 updated"
 echo "> Channels-MohamdOS Motor 8-7-2024 updated"
 echo "> Channels-MNasr Motor 6-7-2024 updated"
 echo "> astra config MNasr Motor 6-7-2024 updated"
-leep 3s
+sleep 2s
 
 echo " "
 echo "> 4-7-2024"
