@@ -3,8 +3,19 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 05-07-2024"
-sleep 2s
+echo "> 09-07-2024"
+sleep 3s
+
+echo "> oscam-emu 11794 r802 updated"
+echo "> powercam oscam 11794 r802 updated"
+echo "> supcam oscam 11794 r802 updated"
+echo "> ultracam oscam 11794 r802 updated"
+echo "> gosatplus oscam 11794 r802 updated"
+echo "> Xklass plugin v.1.02 kiddac 7-7-2024 updated"
+echo "> Channels-MohamdOS Motor 8-7-2024 updated"
+echo "> Channels-MNasr Motor 6-7-2024 updated"
+echo "> astra config MNasr Motor 6-7-2024 updated"
+leep 3s
 
 echo "> MultiStalkerpro 1.2 3.9 arm updated"
 sleep 2s
