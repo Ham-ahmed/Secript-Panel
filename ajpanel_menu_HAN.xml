@@ -163,6 +163,9 @@
 	</submenu>
 
 	<submenu title="Channels" info="Channel All Sat" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Channels.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="mohamed-os-motor_8-7-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_8-7-2024.sh -O - | /bin/sh</item>
+		<item name="Mohammed-Nasr-motor_6-7-2024" info="from-30w-To-68E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_MNASR_6-7-2024.sh -O - | /bin/sh</item>
+		<item name="Mohammed-Nasr" info="astra_config_Bosna" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/astra_config_050724.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_1-7-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_1-7-2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_17-6-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_17-6-2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_7-6-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_7-6-2024.sh -O - | /bin/sh</item>
@@ -281,6 +284,11 @@
 	</submenu>
 	
 	<submenu title="Cam-Emulator" info="Dwawnload All Emu" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/cam2.png" bg="/media/hdd/AJPanel_Backup/vector/ooo.png" title_bg="#06000040" title1_fg="#00FFFF00" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="oscam-emu_11801_mohamed-OS" info="oscam-11801-r802" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/os.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/11801/main/softcams-oscam_11801-emu-r802_all.sh -O - | /bin/sh</item>
+		<item name="power-11801_mohamed-OS" info="powercam-11801-r802" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/os.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/11801/main/softcams-powercam-oscam_11801-emu-r802_all.sh -O - | /bin/sh</item>
+		<item name="supcam-11801_mohamed-OS" info="supcam-11801-r802" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/os.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/11801/main/softcams-supcam-oscam_11801-emu-r802_all.sh -O - | /bin/sh</item>
+		<item name="ultaracam-11801_mohamed-OS" info="ultara-11801-r802" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/os.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/11801/main/softcams-ultracam-oscam_11801-emu-r802_all.sh -O - | /bin/sh</item>
+		<item name="gosatplus-oscam_11801_mohamed-OS" info="gosatpluse-oscam-11801-r802" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/os.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/11801/main/softcams-gosatplus-oscam_11801-emu-r802_all.sh -O - | /bin/sh</item>
 		<item name="oscam-emu_11799_mohamed-OS" info="oscam-11799-r802" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/os.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/11799/main/softcams-oscam_11799-emu-r802_all.sh -O - | /bin/sh</item>
 		<item name="power-11799_mohamed-OS" info="powercam-11799-r802" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/os.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/11799/main/softcams-powercam-oscam_11799-r802_all.sh -O - | /bin/sh</item>
 		<item name="supcam-11799_mohamed-OS" info="supcam-11799-r802" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/os.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/11799/main/softcams-supcam-oscam_11799-r802_all.sh -O - | /bin/sh</item>
@@ -504,6 +512,7 @@
 	</submenu>
 
 	<submenu title="Iptv" info="Iptv-Plugin_Download" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/iptv.png" bg="/media/hdd/AJPanel_Backup/vector/ee.png" title_bg="#06000040" title_fg="#06808000" title1_fg="#00808000" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="Xklass-1.02_7-7-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/xklass/main/Xklass-1.02_7-7-2024-plugin.sh -O - | /bin/sh</item>
 		<item name="Xklass-v016" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/xklass/main/xklass-plugin_v016.sh -O - | /bin/sh</item>
 		<item name="Xklass-v08" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/main/Xklass-v08-plugin.sh -O - | /bin/sh</item>
 		<item name="MultiStalkerpro-1.2-arm" info="p-3.9.9" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/MStalkerpro/main/multi-stalkerpro-1.2-3.9-arm.sh -O - | /bin/sh</item>
