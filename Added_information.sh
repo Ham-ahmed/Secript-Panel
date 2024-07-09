@@ -175,5 +175,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 5-7-2024 <<<"
+echo ">>> Last Updatting 9-7-2024 <<<"
 exit 0
