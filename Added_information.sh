@@ -6,6 +6,10 @@ sleep 1s
 echo "> 09-07-2024"
 sleep 3s
 
+echo " "
+echo "> 9-7-2024"
+sleep 2s
+
 echo "> oscam-emu 11794 r802 updated"
 echo "> powercam oscam 11794 r802 updated"
 echo "> supcam oscam 11794 r802 updated"
@@ -16,6 +20,10 @@ echo "> Channels-MohamdOS Motor 8-7-2024 updated"
 echo "> Channels-MNasr Motor 6-7-2024 updated"
 echo "> astra config MNasr Motor 6-7-2024 updated"
 leep 3s
+
+echo " "
+echo "> 4-7-2024"
+sleep 2s
 
 echo "> MultiStalkerpro 1.2 3.9 arm updated"
 sleep 2s
