@@ -21,6 +21,17 @@ echo " "
 echo "> 9-7-2024"
 sleep 2s
 
+echo "> oscam-emu 11801 r802 updated"
+echo "> powercam oscam 11801 r802 updated"
+echo "> supcam oscam 11801 r802 updated"
+echo "> ultracam oscam 11801 r802 updated"
+echo "> gosatplus oscam 11801 r802 updated"
+sleep 2s
+
+echo " "
+echo "> 9-7-2024"
+sleep 2s
+
 echo "> oscam-emu 11799 r802 updated"
 echo "> powercam oscam 11799 r802 updated"
 echo "> supcam oscam 11799 r802 updated"
