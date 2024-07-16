@@ -7,7 +7,7 @@ echo "> 16-07-2024"
 sleep 3s
 
 echo " "
-echo "> 9-7-2024"
+echo "> 16-7-2024"
 sleep 2s
 
 echo "> Channels-MNasr Motor 6-7-2024 updated"
