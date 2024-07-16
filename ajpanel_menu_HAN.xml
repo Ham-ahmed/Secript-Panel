@@ -163,8 +163,8 @@
 	</submenu>
 
 	<submenu title="Channels" info="Channel All Sat" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Channels.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
-		<item name="Mohammed-Nasr" info="astra_config_Bosna" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/astra_config_050724.sh -O - | /bin/sh</item>
-		<item name="AHMED-HUSSEIN-motor" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_A-Hussein_20240715_141837.sh -O - | /bin/sh</item>
+		<item name="Mohammed-Nasr_motor6-7" info="astra_config_Bosnia" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/bo-snia/main/channels_backup_MNASR_20240706.sh -O - | /bin/sh</item>
+		<item name="AHMED-HUSSEIN-15-7_motor" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_A-Hussein_20240715_141837.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_8-7-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_8-7-2024.sh -O - | /bin/sh</item>
 		<item name="Mohammed-Nasr-motor_6-7-2024" info="from-30w-To-68E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_MNASR_6-7-2024.sh -O - | /bin/sh</item>
 		<item name="Mohammed-Nasr" info="astra_config_Bosna" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/astra_config_050724.sh -O - | /bin/sh</item>
@@ -432,6 +432,8 @@
        </submenu>
 	
 	<submenu title="Tools" info="All Tools" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Tools.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06000040" title1_fg="#00FFFF00" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="astra-sm-arm-0.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/bo-snia/main/astra-sm_0.2-r0.sh -O - | /bin/sh</item>
+		<item name="astra_config_0507" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/bo-snia/main/astra_config_050724.sh -O - | /bin/sh</item>
 		<item name="opdboot" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/opdboot/opdboot.sh -O - | /bin/sh</item>
 		<item name="opkg-tools" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/opkg-tools/opkg-tools.sh -O - | /bin/sh</item>
 		<item name="oscam-status" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/oscam-status/oscam-status.sh -O - | /bin/sh</item>
@@ -443,7 +445,6 @@
 		<item name="bitrate-ahmedriad" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/bitrate/bitrate-mod-ariad.sh -O - | /bin/sh</item>
 		<item name="permanentclock" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">opkg install enigma2-plugin-extensions-permanentclock</item>
 		<item name="service_app" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">opkg install enigma2-plugin-systemplugins-serviceapp</item>
-		<item name="astra-sm-arm-0.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/softcams/-/raw/main/astra-sm/astra-sm-arm-0.2-r0.sh -O - | /bin/sh</item>
 		<item name="service_app" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/HAmed-Scripts/main/NewVirtualKeyBoard_sub.sh -O - | /bin/sh</item>
 		<item name="New-Sherlockmod" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/biko-73/Sherlockmod/main/installer.sh -O - | /bin/sh</item>
 		<item name="internet-speed-test" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/to.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/internet-speed-test-1.7.sh -O - | /bin/sh</item>
