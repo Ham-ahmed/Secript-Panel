@@ -11,6 +11,11 @@ echo "> 22-7-2024"
 sleep 2s
 
 echo "> chocholousek picons plugin 5.0.240626 updated"
+echo "> oscam-emu 11812 r802 updated"
+echo "> powercam oscam 11812 r802 updated"
+echo "> supcam oscam 11812 r802 updated"
+echo "> ultracam oscam 11812 r802 updated"
+echo "> gosatplus oscam 11812 r802 updated"
 sleep 2s
 
 echo " "
