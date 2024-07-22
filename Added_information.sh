@@ -3,8 +3,15 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 21-07-2024"
+echo "> 22-07-2024"
 sleep 3s
+
+echo " "
+echo "> 22-7-2024"
+sleep 2s
+
+echo "> chocholousek picons plugin 5.0.240626 updated"
+sleep 2s
 
 echo " "
 echo "> 21-7-2024"
@@ -241,5 +248,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 21-7-2024 <<<"
+echo ">>> Last Updatting 22-7-2024 <<<"
 exit 0
