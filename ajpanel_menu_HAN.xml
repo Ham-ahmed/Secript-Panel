@@ -496,6 +496,7 @@
 	</submenu>
 
 	<submenu title="Picons" info="All-Sat-picons_Dowenload" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/picons.png" bg="/media/hdd/AJPanel_Backup/vector/hv.png" title_bg="#06000040" title1_fg="#00808000" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="chocholousek-plugin" info="New-plugin_v5.0.240626" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/chocho/main/chocholousek-picons_5.0.240626-plugin.sh -O - | /bin/sh</item>
 		<item name="picons_All-Sat_30-3-2024" info="New_picons-for-Motor" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/pe1.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons_All-Sat_28-3-2024.sh -O - | /bin/sh</item>
 		<item name="picons-30.0W_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/pe2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-30.0W_2032024.sh -O - | /bin/sh</item>
 		<item name="Nilsat7.0w-8.0w_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/pe3.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat7.0w-8.0w_2032024.sh -O - | /bin/sh</item>
@@ -522,7 +523,6 @@
 		<item name="picons-54.9E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/pe2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-54.9E_2032024.sh -O - | /bin/sh</item>
 		<item name="picons-62.0E2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/pe2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-62.0E2032024.sh -O - | /bin/sh</item>
 		<item name="picons-68.5E_2032024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/pe2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-68.5E_2032024.sh -O - | /bin/sh</item>
-		<item name="chocholousek-pvector" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/chocholousek-pvector/chocholousek-pvector.sh -O - | /bin/sh</item>
 		<item name="picons_NilSat-8W" info="By_elisat-01-03-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/pe3.png">wget https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat-8w-01032024.sh -O - | /bin/sh</item>
 		<item name="picons_NilSat-8W-26E" info="By_eliesat-01-03-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/pe3.png">wget https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat-8w-26e_01032024.sh -O - | /bin/sh</item>
 	</submenu>
