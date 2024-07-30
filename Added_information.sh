@@ -3,8 +3,23 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 22-07-2024"
+echo "> 31-07-2024"
 sleep 3s
+
+echo " "
+echo "> 31-7-2024"
+sleep 2s
+
+echo "> levi45 addon manager 10.1-r22 31-7-2024 updated"
+echo "> levi45 multicammanager 10.1-r23 31-7-2024 updated"
+echo "> skins aglare fhd 3.8 MNasr 31-7-2024 updated"
+echo "> skins Maxy fhd 1.2 MNasr 31-7-2024 updated"
+echo "> Xklass plugin v.1.10 kiddac 31-7-2024 updated"
+echo "> newvirtualkeyboard plugin v13.0 31-7-2024 updated"
+echo "> vavoo plugin v.1.21 31-7-2024 updated"
+echo "> epg-plugin-master-v23.4 31-7-2024 updated"
+echo "> e2iplayer plugin 28-7-2024 31-7-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 22-7-2024"
@@ -253,5 +268,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 22-7-2024 <<<"
+echo ">>> Last Updatting 31-7-2024 <<<"
 exit 0
