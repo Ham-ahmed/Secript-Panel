@@ -10,7 +10,7 @@ echo " "
 echo "> 31-7-2024"
 sleep 2s
 
-echo "> levi45 addon manager 10.1-r22 31-7-2024 updated"
+echo "> levi45 addon manager 10.1-r19 31-7-2024 updated"
 echo "> levi45 multicammanager 10.1-r23 31-7-2024 updated"
 echo "> skins aglare fhd 3.8 MNasr 31-7-2024 updated"
 echo "> skins Maxy fhd 1.2 MNasr 31-7-2024 updated"
