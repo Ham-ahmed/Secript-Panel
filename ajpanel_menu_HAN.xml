@@ -540,6 +540,7 @@
 	</submenu>
 
 	<submenu title="Iptv" info="Iptv-Plugin_Download" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/iptv.png" bg="/media/hdd/AJPanel_Backup/vector/ee.png" title_bg="#06000040" title_fg="#06808000" title1_fg="#00808000" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="bouquetmakerxtream-1.18_23-7-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/main/bouquetmakerxtream_pliugin1.18.20240723.sh -O - | /bin/sh</item>
 		<item name="Xklass-1.10_30-7-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/newp/main/xklass_v.1-10-30-7-2024.sh -O - | /bin/sh</item>
 		<item name="vavoo_v1.22" info="New-plugin-30-7-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/newp/main/vavoo_v1.22.sh -O - | /bin/sh</item>
 		<item name="e2iplayer-main_30-7-2024" info="New-plugin-ver" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/newp/main/e2iplayer-main_28-7-2024.sh -O - | /bin/sh</item>
@@ -549,7 +550,6 @@
 		<item name="MultiStalkerpro-1.2-arm" info="p-3.9.9" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/MStalkerpro/main/multi-stalkerpro-1.2-3.9-arm.sh -O - | /bin/sh</item>
 		<item name="MultiStalkerpro-1.2-arm-bv" info="py-3.12" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/MStalkerpro/main/multi-stalkerpro-1.2-arm-3.12bv.sh -O - | /bin/sh</item>
 		<item name="MultiStalkerpro-1.2-arm-ape" info="py-3.12" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/MStalkerpro/main/multi-stalkerpro-1.2-3.12arm-ape.sh -O - | /bin/sh</item>
-		<item name="Movicam_ARM" info="v1.0" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://cutt.ly/Lw6Q9dsi -O - | /bin/sh</item>
 		<item name="vavoo_1.5" info="New-plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Others/main/enigma2-plugin-vavoo_1.5.sh -O - | /bin/sh</item>
 		<item name="iptosat-1.8" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/iptosat/iptosat.sh -O - | /bin/sh</item>
 		<item name="20-Portal" info="multistalkerpro" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/20.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/MultiStalkerPro/main/Portal_multistalker.sh -O - | /bin/sh</item>
