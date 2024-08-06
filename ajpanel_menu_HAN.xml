@@ -579,7 +579,7 @@
 		<item name="Biko-audio_150124" info="audio-files" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/pe2.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/Biko_audio_150124.sh -O - | /bin/sh</item>
 	</submenu>
 
-        <submenu title="Backup-build" info="for-image-Dowenload" icon="/media/hdd/AJPanel_Backup/vector/bac.png" width="900" height="600" fg="#22ffffff" bg="#00000000" font_size="35" align_items="left" title_fg="#00ffe400" title_bg="#05000040" title_font_size="50" cursor_fg="#00F5F9AF" cursor_bg="#00800000">
+        <submenu title="Backup-build" info="for-image-backup" icon="/media/hdd/AJPanel_Backup/vector/bac.png" width="900" height="600" fg="#22ffffff" bg="#00000000" font_size="35" align_items="left" title_fg="#00ffe400" title_bg="#05000040" title_font_size="50" cursor_fg="#00F5F9AF" cursor_bg="#00800000">
 		<item name="ajpanel-v9.4.0 " info="plugin-ajpanel_v9.4.0_All" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/aj1.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Ajpanel/main/plugin-extensions-ajpanel_v9.4.0.sh -O - | /bin/sh</item>
 	</submenu>
 	
