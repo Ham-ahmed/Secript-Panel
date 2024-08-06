@@ -11,6 +11,7 @@ echo "> 06-08-2024"
 sleep 2s
 
 echo "> Channels-MohamdOS Motor 04-8-2024 updated"
+echo "> bouquetmakerxtream plugin v.1.18 23-7-2024 updated"
 sleep 2s
 
 echo " "
