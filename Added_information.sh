@@ -11,6 +11,7 @@ echo "> 06-08-2024"
 sleep 2s
 
 echo "> Backup build New section 8-8-2024 updated"
+echo "> skins Maxy fhd pli 1.0 MNasr 8-8-2024 updated"
 sleep 2s
 
 echo " "
