@@ -3,11 +3,22 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 8-8-2024"
+echo "> 10-8-2024"
 sleep 3s
 
 echo " "
-echo "> 06-08-2024"
+echo "> 10-08-2024"
+sleep 2s
+
+echo "> Channels-MohamdOS Motor 08-8-2024 updated"
+echo "> vavoo plugin v.1.24 10-8-2024 updated"
+echo "> oscamicamnew 11814 ICAMEMU Kitte888-V8Rev 10-8-2024 cearted"
+echo "> levi45 addon manager 10.1-r19 10-8-2024 updated"
+echo "> levi45 multicammanager 10.1-r26 10-8-2024 updated"
+sleep 2s
+
+echo " "
+echo "> 08-08-2024"
 sleep 2s
 
 echo "> Backup build New section 8-8-2024 updated"
@@ -285,5 +296,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 8-8-2024 <<<"
+echo ">>> Last Updatting 10-8-2024 <<<"
 exit 0
