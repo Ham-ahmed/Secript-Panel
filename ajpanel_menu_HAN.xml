@@ -167,7 +167,7 @@
 
 	<submenu title="Channels" info="Channel All Sat" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Channels.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
 		<item name="Bosnia_Bouquet-16e" info="MultiStream-Channel_Bosnia" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/bo-snia/main/Bosnia_MStream_16e.sh -O - | /bin/sh</item>
-		<item name="mohamed-os-motor_4-8-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_08-08-2024.sh -O - | /bin/sh</item>
+		<item name="mohamed-os-motor_8-8-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_08-08-2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_4-8-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_04-08-2024.sh -O - | /bin/sh</item>
 		<item name="mohamed-os-motor_21-7-2024" info="from-30w-To-53E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_Mohamed-OS_19-7-2024.sh -O - | /bin/sh</item>
 		<item name="Mohammed-Nasr_motor6-7" info="astra_config_Bosnia" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/bo-snia/main/channels_backup_MNASR_20240706.sh -O - | /bin/sh</item>
