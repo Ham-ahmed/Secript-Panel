@@ -12,6 +12,7 @@ sleep 2s
 
 echo "> oscam emu levi45 11819 r802 all 26-8-2024 updated"
 echo "> RaedQuickSignal v.17.4 New plugin 26 23-8-2024 updated"
+echo "> xKlass plugin v.1.12 New plugin 26-8-2024 updated"
 sleep 2s
 
 echo " "
