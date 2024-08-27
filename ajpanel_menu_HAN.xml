@@ -201,7 +201,7 @@
 	</submenu>
 
 	<submenu title="Key Plugin" info="Dwawnload All plugin" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/key plugins.png" bg="/media/hdd/AJPanel_Backup/vector/ee.png" title_bg="#06400000" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
-		<item name="keyadder" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/keyadder/keyadder.sh -O - | /bin/sh</item>
+		<item name="keyadder-v8.2" info="(ادخال الشفرات وتحديث ملف السوفت كام)" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/fairbird/KeyAdder/main/installer.sh -O - | /bin/sh</item>
 		<item name="bissfeedautokey" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/bissfeedautokey/bissfeedautokey.sh -O - | /bin/sh</item>
 		<item name="feedsfinder" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/feedsfinder/feedsfinder.sh -O - | /bin/sh</item>
 	</submenu>
@@ -576,7 +576,7 @@
 		<item name="vavoo_1.5" info="New-plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Others/main/enigma2-plugin-vavoo_1.5.sh -O - | /bin/sh</item>
 		<item name="iptosat-1.8" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/iptosat/iptosat.sh -O - | /bin/sh</item>
 		<item name="20-Portal" info="multistalkerpro" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/20.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/MultiStalkerPro/main/Portal_multistalker.sh -O - | /bin/sh</item>
-		<item name="xstreamity" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/xstreamity/xstreamity.sh -O - | /bin/sh</item>
+		<item name="xstreamity-v4.57" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/biko-73/xstreamity/main/installer.sh -O - | /bin/sh</item>
 		<item name="quarter_pounder" info="For iptv" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/quarter-pounder/quarter-pounder.sh -O - | /bin/sh</item>
 		<item name="jedimakerxtream" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/jedimakerxtream/jedimakerxtream.sh -O - | /bin/sh</item>
 		<item name="xcplugin_forever" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/xcplugin-forever/xcplugin-forever.sh -O - | /bin/sh</item>
@@ -611,7 +611,7 @@
 	         <item name="xtraevent5.3" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plugins.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/xtraevent-5.3.sh -O - | /bin/sh </item>
 		 <item name="Ncam-emu_v15-r0" info="New_v15-r0_fairman" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/nc.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Ncam15/main/softcams-ncam_V15.0-r0_all.sh -O - | /bin/sh</item>
 		 <item name="oscam-emu_11812_mohamed-OS" info="oscam-11812-r802" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/os.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/11812/main/softcams-oscam_11812-emu-r802_all.sh -O - | /bin/sh</item>
-	         <item name="keyadder" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/keyadder/keyadder.sh -O - | /bin/sh</item>
+	         <item name="keyadder-v8.2" info="(ادخال الشفرات وتحديث ملف السوفت كام)" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sap.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/fairbird/KeyAdder/main/installer.sh -O - | /bin/sh</item>
 		 <item name="RaedQuickSignalv17.4" info="New_plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget https://raw.githubusercontent.com/Ham-ahmed/Plugin/main/RaedQuickSignalv17.4.sh -O - | /bin/sh</item>
 		 <item name="multistalker-pro" info="plugin-v1.2_All_images" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/backup/main/multistalker-pro_v1.2.sh -O - | /bin/sh</item>
 		 <item name="bouquetmakerxtream-1.18_23-7-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/main/bouquetmakerxtream_pliugin1.18.20240723.sh -O - | /bin/sh</item>
