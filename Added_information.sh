@@ -3,8 +3,16 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 28-8-2024"
+echo "> 29-08-2024"
 sleep 3s
+
+echo " "
+echo "> 29-08-2024"
+sleep 2s
+
+echo "> bouquetmakerxtream v.1.19 27-8-2024 updated"
+echo "> piconinstaller v1539 New plugin 29-8-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 28-08-2024"
@@ -369,5 +377,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 28-8-2024 <<<"
+echo ">>> Last Updatting 29-8-2024 <<<"
 exit 0
