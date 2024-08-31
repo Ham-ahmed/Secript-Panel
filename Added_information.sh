@@ -11,6 +11,7 @@ echo "> 31-08-2024"
 sleep 2s
 
 echo "> oscam emu levi45 11822 r802 31-8-2024 updated"
+echo "> Ajpanel v10.0.0 New 31-8-2024 updated"
 echo "> vavoo plugin v.1.26 31-8-2024 updated"
 echo "> bouquetmakerxtream v1.21 31-8-2024 updated"
 echo "> crashlogviewer v1.3 10-8-2024 updated"
