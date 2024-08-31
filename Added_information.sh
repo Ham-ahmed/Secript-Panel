@@ -3,8 +3,20 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 29-08-2024"
+echo "> 31-08-2024"
 sleep 3s
+
+echo " "
+echo "> 31-08-2024"
+sleep 2s
+
+echo "> oscam emu levi45 11822 r802 31-8-2024 updated"
+echo "> vavoo plugin v.1.26 31-8-2024 updated"
+echo "> bouquetmakerxtream v1.21 31-8-2024 updated"
+echo "> crashlogviewer v1.3 10-8-2024 updated"
+echo "> filecommander mod by lululla 31-8-2024 updated"
+echo "> Transmission by radwan 31-8-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 29-08-2024"
@@ -377,5 +389,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 29-8-2024 <<<"
+echo ">>> Last Updatting 31-8-2024 <<<"
 exit 0
