@@ -3,11 +3,25 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 04-09-2024"
+echo "> 06-09-2024"
 sleep 3s
 
 echo " "
-echo "> 04-09-2024"
+echo "> 6-9-2024"
+sleep 2s
+
+echo "> oscam emu levi45 11824 r802 31-8-2024 updated"
+echo "> Ajpanel v10.0.0 New 31-8-2024 updated"
+echo "> vavoo plugin v.1.28 1-9-2024 updated"
+echo "> channels motor by ciefp  30-8-2024 updated"
+echo "> oscamicamnew 11823 ICAMEMU Kitte888 V9Rev 1-9-2024 updated"
+echo "> chocholousek picons 5.0 1-9-2024 updated"
+echo "> footonsat plugin 1.9-r0 1-9-2024 updated"
+echo "> oaweather v3.2.1 New 1-9-2024 updated"
+sleep 2s
+
+echo " "
+echo "> 06-09-2024"
 sleep 2s
 
 echo "> estuaryFHD openSpa posterX v.5 HAhmed 4-9-2024 updated"
@@ -18,7 +32,6 @@ echo "> 31-08-2024"
 sleep 2s
 
 echo "> oscam emu levi45 11822 r802 31-8-2024 updated"
-echo "> Ajpanel v10.0.0 New 31-8-2024 updated"
 echo "> vavoo plugin v.1.26 31-8-2024 updated"
 echo "> bouquetmakerxtream v1.21 31-8-2024 updated"
 echo "> crashlogviewer v1.3 10-8-2024 updated"
@@ -397,5 +410,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 04-09-2024 <<<"
+echo ">>> Last Updatting 06-09-2024 <<<"
 exit 0
