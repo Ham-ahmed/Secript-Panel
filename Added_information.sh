@@ -10,6 +10,7 @@ echo " "
 echo "> 12-09-2024"
 sleep 2s
 
+echo "> oscam emu levi45 11828 802 11-9-2024 updated"
 echo "> oscam emu levi45 11827 802 11-9-2024 updated"
 echo "> Packaged Bosnia ukrania MStream 11-9-2024 updated"
 echo "> New section ? ? ? coming soon 11-9-2024 build"
