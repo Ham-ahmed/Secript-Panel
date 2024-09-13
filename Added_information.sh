@@ -3,8 +3,16 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 12-09-2024"
+echo "> 13-09-2024"
 sleep 3s
+
+
+echo " "
+echo "> 13-09-2024"
+sleep 2s
+
+echo "> channels motor by ciefp  13-9-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 12-09-2024"
@@ -433,5 +441,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 12-09-2024 <<<"
+echo ">>> Last Updatting 13-09-2024 <<<"
 exit 0
