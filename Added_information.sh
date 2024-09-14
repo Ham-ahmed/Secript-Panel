@@ -10,8 +10,8 @@ echo " "
 echo "> 14-09-2024"
 sleep 2s
 
-echo "> TopShare Server oscam No.1 & No.3 14-9-2024 updated"
-echo "> TopShare Server Ncam No.2 & No.4 14-9-2024 updated"
+echo "> TopShare Server oscam No.1 & No.3 Test 7 days Free 14-9-2024 updated"
+echo "> TopShare Server Ncam No.2 & No.4 Test 7 days Free 14-9-2024 updated"
 sleep 2s
 
 echo " "
