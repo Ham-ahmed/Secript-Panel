@@ -182,7 +182,7 @@
 	</submenu>
 
 	<submenu title="Channels" info="Channel All Sat" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Channels.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
-		<item name="ciefp-motor_13-9-2024" info="from-30w-To-75E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_20240913_ciefp.sh -O - | /bin/sh</item>
+		<item name="ciefp-motor_15-9-2024" info="Now-File_from-30w-To-75E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_20240913_ciefp.sh -O - | /bin/sh</item>
 		<item name="ciefp-motor_9-9-2024" info="from-30w-To-75E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_20240909_ciefp.sh -O - | /bin/sh</item>
 		<item name="Bosnia_Bouquet-16e" info="MultiStream-Channel_Bosnia" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/bo-snia/main/Bosnia_MStream_16e.sh -O - | /bin/sh</item>
 		<item name="ciefp-motor_30-8-2024" info="from-30w-To-70E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/channels-Files/main/channels_backup_20240901_ciefp.sh -O - | /bin/sh</item>
