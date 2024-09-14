@@ -3,15 +3,16 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 14-09-2024"
+echo "> 15-09-2024"
 sleep 3s
 
 echo " "
-echo "> 14-09-2024"
+echo "> 15-09-2024"
 sleep 2s
 
-echo "> TopShare Server oscam No.1 & No.3 Test 7 days Free 14-9-2024 updated"
-echo "> TopShare Server Ncam No.2 & No.4 Test 7 days Free 14-9-2024 updated"
+echo "> TopShare Server oscam No.1 & No.3 Test 7 days Free 15-9-2024 updated"
+echo "> TopShare Server Ncam No.2 & No.4 Test 7 days Free 15-9-2024 updated"
+echo "> channels motor by ciefp  New File 15-9-2024 updated"
 sleep 2s
 
 echo " "
@@ -448,5 +449,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 14-09-2024 <<<"
+echo ">>> Last Updatting 15-09-2024 <<<"
 exit 0
