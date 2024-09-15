@@ -10,16 +10,24 @@ echo " "
 echo "> 15-09-2024"
 sleep 2s
 
-echo "> TopShare Server oscam No.1 & No.3 Test 7 days Free 15-9-2024 updated"
-echo "> TopShare Server Ncam No.2 & No.4 Test 7 days Free 15-9-2024 updated"
-echo "> channels motor by ciefp  New File 15-9-2024 updated"
+echo "> oscam emu levi45 11830 802 15-9-2024 updated"
 sleep 2s
 
 echo " "
-echo "> 13-09-2024"
+echo "> 15-09-2024"
 sleep 2s
 
-echo "> channels motor by ciefp  13-9-2024 updated"
+echo "> TopShare Server oscam No.1 & No.3 Test 7 days Free 15-9-2024 updated"
+sleep 2s
+
+
+echo " "
+echo "> 15-09-2024"
+sleep 2s
+
+echo "> TopShare Server oscam No.1 & No.3 Test 7 days Free 15-9-2024 updated"
+echo "> TopShare Server Ncam No.2 & No.4 Test 7 days Free 15-9-2024 updated"
+echo "> channels motor by ciefp  New File 15-9-2024 updated"
 sleep 2s
 
 echo " "
