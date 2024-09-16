@@ -7,6 +7,13 @@ echo "> 16-09-2024"
 sleep 3s
 
 echo " "
+echo "> 16-09-2024"
+sleep 2s
+
+echo "> oscam emu levi45 11832 802 16-9-2024 updated"
+sleep 2s
+
+echo " "
 echo "> 16-9-2024"
 sleep 2s
 
