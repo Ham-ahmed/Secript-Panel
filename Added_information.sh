@@ -10,6 +10,13 @@ echo " "
 echo "> 17-9-2024"
 sleep 2s
 
+echo "> skins-GigabluepaxV2 Mod H-Ahmed 17-9-2024 updated"
+sleep 2s
+
+echo " "
+echo "> 17-9-2024"
+sleep 2s
+
 echo "> SKIN xDreamy 3.2.0 Atv egami 17-9-2024 updated"
 sleep 2s
 
