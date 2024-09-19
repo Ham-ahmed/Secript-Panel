@@ -3,8 +3,19 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 17-09-2024"
+echo "> 19-09-2024"
 sleep 3s
+
+echo " "
+echo "> 19-9-2024"
+sleep 2s
+
+echo "> skins youvix 4x1 Mod H-Ahmed 19-9-2024 updated"
+echo "> oscam emu levi45 11835 802 19-9-2024 updated"
+echo "> vavoo v1.29 19-9-2024 updated"
+echo "> levi45 addon manager 10.1-r26 19-9-2024 updated"
+echo "> levi45 multicammanager 10.1-r31 19-9-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 17-9-2024"
