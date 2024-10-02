@@ -3,8 +3,18 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 27-09-2024"
+echo "> 3-10-2024"
 sleep 3s
+
+echo " "
+echo "> 3-10-2024"
+sleep 2s
+
+echo "> skins-GigabluepaxV4 3x1 Mod H-Ahmed 3-10-2024 updated"
+echo "> skins-GigabluepaxV4 Mod H-Ahmed 3-10-2024 updated"
+echo "> skins-GigaRedpaxV4 Mod H-Ahmed 3-10-2024 updated"
+echo "> skins-GigaPurplepaxV2 Mod H-Ahmed 3-10-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 27-9-2024"
@@ -528,5 +538,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 27-09-2024 <<<"
+echo ">>> Last Updatting 3-10-2024 <<<"
 exit 0
