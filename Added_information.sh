@@ -13,6 +13,7 @@ sleep 2s
 
 echo "> oscam emu levi45 11839 802 4-10-2024 updated"
 echo "> oscam emu levi45 11838 802 4-10-2024 updated"
+echo "> IpAudiopro 1.3 3.12.4-5 4-10-2024 updated"
 echo "> moviebrowser 3.8rc0 4-10-2024 updated"
 sleep 2s
 
