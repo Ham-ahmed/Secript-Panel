@@ -3,9 +3,24 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 4-10-2024"
+echo "> 12-10-2024"
 sleep 3s
 
+echo " "
+echo "> 12-10-2024"
+sleep 2s
+
+echo "> oscam emu levi45 11845 802 12-10-2024 updated"
+echo "> levi45 multicammanager 10.1-r32 12-10-2024 updated"
+echo "> oscam-emu 11845 r802 updated"
+echo "> powercam oscam 11845 r802 updated"
+echo "> supcam oscam 11845 r802 updated"
+echo "> ultracam oscam 11845 r802 updated"
+echo "> gosatplus oscam 11845 r802 updated"
+echo "> SubsSupport v1.7.0 r5 11-10-2024 updated"
+echo "> TMBD plugin 11-10-2024 updated"
+echo "> CH Logo Changer plugin 12-10-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 4-10-2024"
@@ -549,5 +564,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 4-10-2024 <<<"
+echo ">>> Last Updatting 12-10-2024 <<<"
 exit 0
