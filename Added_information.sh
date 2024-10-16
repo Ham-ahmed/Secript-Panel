@@ -3,8 +3,19 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 12-10-2024"
+echo "> 16-10-2024"
 sleep 3s
+
+echo " "
+echo "> 16-10-2024"
+sleep 2s
+
+echo "> Ajpanel 10.1.0 New ver 16-10-2024 updated"
+echo "> bouquetmakerxtream_1.26 16-10-2024 updated"
+echo "> xcplugin-forever-v4.3 16-10-2024 updated"
+echo "> vavoo plugin v.1.32 16-10-2024 updated"
+echo "> weather plugin py2-py3_2.4_r1 16-10-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 12-10-2024"
@@ -564,5 +575,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 12-10-2024 <<<"
+echo ">>> Last Updatting 16-10-2024 <<<"
 exit 0
