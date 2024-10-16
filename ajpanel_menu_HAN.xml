@@ -256,6 +256,7 @@
 
 	<submenu title="Plugins" info="Dwawnload All plugin" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/PPlugins.png" bg="/media/hdd/AJPanel_Backup/vector/ooo.png" title_bg="#06000040" title1_fg="#00FFFF80" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
 		<item name="xtraevent_6.798" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Plugin/refs/heads/main/xtraevent_6.798_all.sh -O - | /bin/sh</item>
+		<item name="weatherplugin-py2-py3_2.4_r1" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/refs/heads/main/theweather-py2-py3_2.4_r1.sh -O - | /bin/sh</item>
 		<item name="oaweather3.2.1" info="plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Plugin/main/oaweather_3.2.1_all.sh -O - | /bin/sh</item>
 		<item name="footonsat-1.6.r0" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Plugin/main/footonsat_1.9-r0_all.sh -O - | /bin/sh</item>
 		<item name="crashlogviewer_1.3" info="New-plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Plugin/main/crashlogviewer_1.3_all.sh -O - | /bin/sh</item>
@@ -614,6 +615,8 @@
 	</submenu>
 
 	<submenu title="Iptv" info="Iptv-Plugin_Download" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/iptv.png" bg="/media/hdd/AJPanel_Backup/vector/ee.png" title_bg="#06000040" title_fg="#06808000" title1_fg="#00808000" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="xcplugin_forever-v4.3" info="New-plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/refs/heads/main/xcplugin-forever-v4.3.sh -O - | /bin/sh</item>
+		<item name="bouquetmakerxtream-1.26_16-10-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/refs/heads/main/bouquetmakerxtream_1.26.sh -O - | /bin/sh</item>
 		<item name="moviebrowser_3.8rc0_4-10-2024" info="New-plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/refs/heads/main/moviebrowser_3.8rc0.sh -O - | /bin/sh</item>
 		<item name="Xklass-1.17_27-9-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Plugin/refs/heads/main/xklass_1.17.20240926.sh -O - | /bin/sh</item>
 		<item name="xstreamity-v4.61" info="New-plugin_27-9-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Plugin/refs/heads/main/xstreamity_4.61.20240926.sh -O - | /bin/sh</item>
