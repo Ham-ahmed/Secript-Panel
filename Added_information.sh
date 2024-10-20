@@ -3,8 +3,20 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 17-10-2024"
+echo "> 20-10-2024"
 sleep 3s
+
+echo " "
+echo "> 20-9-2024"
+sleep 2s
+
+echo "> bouquetmakerxtream plugin v1.27 17-10-2024 updated"
+echo "> subssupport v1.7.0r6 19-10-2024 updated"
+echo "> plugin xtraevent v6.8 20-10-2024 updated"
+echo "> plugin xtraevent v6.801 20-10-2024 updated"
+echo "> xDreamy v3.8 19-9-2024 updated"
+echo "> TMDB plugin 1.0.9 20-10-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 17-10-2024"
@@ -582,5 +594,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 17-10-2024 <<<"
+echo ">>> Last Updatting 20-10-2024 <<<"
 exit 0
