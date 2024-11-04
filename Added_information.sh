@@ -19,7 +19,7 @@ echo "> xtraevent New plugin v6.802 04-04-2024 updated"
 sleep 2s
 
 echo " "
-echo "> 04-11-2024"
+echo "> 30-10-2024"
 sleep 2s
 
 echo "> oscamicamnew 11845 ICAMEMU Kitte888 V9Rev 30-10-2024 updated"
