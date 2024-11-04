@@ -32,7 +32,7 @@ echo "> xstreamity v4.62 30-10-2024 updated"
 sleep 2s
 
 echo " "
-echo "> 30-10-2024"
+echo "> 28-10-2024"
 sleep 2s
 
 echo "> subssupport v1.7.0r7 23-10-2024 updated"
@@ -56,7 +56,7 @@ echo "> novalertv py3.9 23-10-2024 updated"
 sleep 2s
 
 echo " "
-echo "> 20-9-2024"
+echo "> 20-10-2024"
 sleep 2s
 
 echo "> bouquetmakerxtream plugin v1.27 17-10-2024 updated"
