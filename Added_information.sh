@@ -3,8 +3,20 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 04-11-2024"
+echo "> 15-11-2024"
 sleep 3s
+
+echo " "
+echo "> 15-11-2024"
+sleep 2s
+
+echo "> oscam emu levi45 11849 802 15-11-2024 updated"
+echo "> oscamicamnew 11847 ICAMEMU Kitte888 V9Rev 15-11-2024 updated"
+echo "> xklass plugin v1.20 15-11-2024 updated"
+echo "> e2m3u2bouquet plugin v1.9.1 15-11-2024 updated"
+echo "> Aglare FHD PLI v4.6 15-11-2024 updated"
+echo "> Aglare FHD v4.5 15-11-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 04-11-2024"
@@ -643,5 +655,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 04-11-2024 <<<"
+echo ">>> Last Updatting 15-11-2024 <<<"
 exit 0
