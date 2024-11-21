@@ -12,6 +12,7 @@ sleep 2s
 
 echo "> Levi45 Addons Panel 10.1-r27 21-11-2024 updated"
 echo "> levi45multicammanager 10.1-r33 21-11-2024 updated"
+echo "> oscam emu levi45 11856 802 21-11-2024 updated"
 echo "> xklass plugin v1.24 21-11-2024 updated"
 sleep 2s
 
