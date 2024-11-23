@@ -3,8 +3,23 @@ DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 sleep 1s
-echo "> 21-11-2024"
+echo "> 23-11-2024"
 sleep 3s
+
+echo " "
+echo "> 23-10-2024"
+sleep 2s
+
+echo "> channels motor by ciefp  23-11-2024 updated"
+echo "> Channels-MohamdOS Motor 22-11-2024 updated"
+echo "> plugin bootlogoswapper v2.4 23-10-2024 updated"
+echo "> plugin crashlogviewer 1.5 23-10-2024 updated"
+echo "> historyzap 1.0.42 23-11-2024 updated"
+echo "> TMDB plugin 1.0.9 20-10-2024 updated"
+echo "> vavoo plugin v1.32 23-11-2024 updated"
+echo "> xcplugin-forever-v3.6 23-11-2024 updated"
+echo "> youtube_py3-git1231 plugin 23-11-2024 updated"
+sleep 2s
 
 echo " "
 echo "> 21-11-2024"
@@ -690,5 +705,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 21-11-2024 <<<"
+echo ">>> Last Updatting 23-11-2024 <<<"
 exit 0
