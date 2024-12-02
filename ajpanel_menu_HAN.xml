@@ -667,7 +667,7 @@
 		<item name="picons_NilSat-8W-26E" info="By_eliesat-01-03-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/pe3.png">wget https://raw.githubusercontent.com/Ham-ahmed/picons/main/picons-Nilsat-8w-26e_01032024.sh -O - | /bin/sh</item>
 	</submenu>
 
-	<submenu title="I*p*t*v" info="I*p*t*v-Plugin_Download" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/iptv.png" bg="/media/hdd/AJPanel_Backup/vector/ee.png" title_bg="#06000040" title_fg="#06808000" title1_fg="#00808000" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+	<submenu title="Iptv-player" info="I*p*t*v-Plugin_Download" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/iptv.png" bg="/media/hdd/AJPanel_Backup/vector/ee.png" title_bg="#06000040" title_fg="#06808000" title1_fg="#00808000" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
 		<item name="Xklass-1.26_2-12-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/212/refs/heads/main/xklass_1.26.20241201.sh -O - | /bin/sh</item>
 		<item name="xstreamity-v4.67" info="New-plugin_01-12-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/212/refs/heads/main/xstreamity_4.67.20241201.sh -O - | /bin/sh</item>
 		<item name="xcplugin-forever_3.6" info="New-plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/plugins3/refs/heads/main/xcplugin-forever_3.6.sh -O - | /bin/sh</item>
