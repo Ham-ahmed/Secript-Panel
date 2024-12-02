@@ -7,7 +7,7 @@ echo "> 2-12-2024"
 sleep 3s
 
 echo " "
-echo "> 23-10-2024"
+echo "> 2-12-2024"
 sleep 2s
 
 echo "> channels motor by Mohamed-OS  29-12-2024 updated"
