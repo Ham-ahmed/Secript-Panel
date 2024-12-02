@@ -2,12 +2,7 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-sleep 1s
-echo "> 2-12-2024"
-sleep 3s
-
-echo " "
-echo "> 2-12-2024"
+echo "> 02-12-2024"
 sleep 2s
 
 echo "> channels motor by Mohamed-OS  29-12-2024 updated"
