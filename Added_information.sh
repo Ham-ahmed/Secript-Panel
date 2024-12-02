@@ -5,17 +5,17 @@ echo " "
 echo "> 02-12-2024"
 sleep 2s
 
-echo "> channels motor by Mohamed-OS  29-12-2024 updated"
-echo "> Channels vhannibal Motor 29-12-2024 updated"
+echo "> channels motor by Mohamed-OS  29-11-2024 updated"
+echo "> Channels vhannibal Motor 29-11-2024 updated"
 echo "> xstreamity 4.67 29-11-2024 updated"
-echo "> xklass plugin v1.26 29-12-2024 updated"
-echo "> plugin neoboot-v9.65 29-12-2024 updated"
-echo "> wireguard vpn 13.0 29-12-2024 updated"
+echo "> xklass plugin v1.26 29-11-2024 updated"
+echo "> plugin neoboot-v9.65 29-11-2024 updated"
+echo "> wireguard vpn 13.0 29-11-2024 updated"
 echo "> ajpanel v10.2.0 2-12-2024 updated"
 sleep 2s
 
 echo " "
-echo "> 2-12-2024"
+echo "> 30-11-2024"
 sleep 2s
 
 echo "> 123-New Portals 30-11-2024 updated"
