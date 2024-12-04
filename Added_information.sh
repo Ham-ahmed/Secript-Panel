@@ -4,12 +4,11 @@ echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
 echo "> 05-12-2024"
 sleep 2s
-
-echo " "
-echo "> 05-12-2024"
+echo "> 161-New Portals 04-12-2024 updated"
 sleep 2s
 
-echo "> 161-New Portals 04-12-2024 updated"
+echo " "
+echo "> 30-11-2024"
 sleep 2s
 
 echo "> channels motor by Mohamed-OS  29-11-2024 updated"
