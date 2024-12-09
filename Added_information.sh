@@ -2,8 +2,22 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 05-12-2024"
+echo "> 09-12-2024"
 sleep 2s
+
+echo "> 205-New Portals 09-12-2024 updated"
+echo "> 39-NewM3u for Xklass 09-12-2024 updated"
+echo "> ajpanel v10.2.2 09-12-2024 updated"
+echo "> ajpanel v10.2.3 09-12-2024 updated"
+echo "> oscam emu levi45 11858 802 09-12-2024 updated"
+echo "> oscamicamnew 11857 ICAMEMU Kitte888 V10Rev 09-12-2024 updated"
+sleep 2s
+
+
+echo " "
+echo "> 04-12-2024"
+sleep 2s
+
 echo "> 161-New Portals 04-12-2024 updated"
 sleep 2s
 
@@ -734,5 +748,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 05-12-2024 <<<"
+echo ">>> Last Updatting 09-12-2024 <<<"
 exit 0
