@@ -2,7 +2,24 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 09-12-2024"
+echo "> 15-12-2024"
+sleep 2s
+
+echo " "
+echo "> 15-10-2024"
+sleep 2s
+
+echo "> CiefpsettingsMotor Newplugin by ciefp  15-12-2024 updated"
+echo "> EPGGrabber23.7 New by Ziko 15-12-2024 updated"
+echo "> oscam emu levi45 11860 802 15-12-2024 updated"
+echo "> oscam-emu 11860 r802 15-12-2024 updated"
+echo "> powercam oscam 11860 r802 15-12-2024 updated"
+echo "> supcam oscam 11860 r802 15-12-2024 updated"
+echo "> ultracam oscam 11860 r802 15-12-2024 updated"
+echo "> gosatplus oscam 11860 r802 15-12-2024 updated"
+echo "> xcplugin-forever-v3.7 15-12-2024 updated"
+echo "> xstreamity 1.39 15-12-2024 updated"
+echo "> xklass plugin v1.27 29-11-2024 updated"
 sleep 2s
 
 echo "> 205-New Portals 09-12-2024 updated"
@@ -26,7 +43,6 @@ echo "> 30-11-2024"
 sleep 2s
 
 echo "> channels motor by Mohamed-OS  29-11-2024 updated"
-echo "> Channels vhannibal Motor 29-11-2024 updated"
 echo "> xstreamity 4.67 29-11-2024 updated"
 echo "> xklass plugin v1.26 29-11-2024 updated"
 echo "> plugin neoboot-v9.65 29-11-2024 updated"
@@ -748,5 +764,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 09-12-2024 <<<"
+echo ">>> Last Updatting 15-12-2024 <<<"
 exit 0
