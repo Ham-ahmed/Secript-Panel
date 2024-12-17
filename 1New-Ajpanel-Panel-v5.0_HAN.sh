@@ -2,7 +2,7 @@
 #
 cd /tmp
 set -e
- wget "https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/New_panel-ajpanel-v5.0_HAN.tar.gz"
+ wget "https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/refs/heads/main/New_panel-ajpanel-v5.0_HAN.tar.gz"
 wait
 tar -xzf New_panel-ajpanel-v5.0_HAN.tar.gz  -C /
 wait
@@ -13,15 +13,15 @@ sleep 2;
 echo "" 
 echo "" 
 echo "*********************************************************"
-echo "#                   INSTALLED SUCCESSFULLY              #"
+echo "*                   INSTALLED SUCCESSFULLY              *"
 echo "*                       ON - Panel                      *"
 echo "*                Enigma2 restart is required            *"
 echo "*********************************************************"
 echo "               UPLOADED BY  >>>>   HAMDY_AHMED           "
 sleep 4;
 	echo '================================================='
-###########################################                                                                                                                  
-echo ". >>>>         RESTARING     <<<<"
+################################################################                                                                                                                  
+echo ". >>>>         your Device will RESTART Now          <<<<"
 echo "*********************************************************"
 wait
 killall -9 enigma2
