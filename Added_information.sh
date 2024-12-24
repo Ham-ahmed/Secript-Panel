@@ -2,7 +2,19 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 21-12-2024"
+echo "> 24-12-2024"
+sleep 2s
+
+echo " "
+echo "> 24-12-2024"
+sleep 2s
+
+echo "> ncam emu 15.2-r0 24-12-2024 updated"
+echo "> historyzap 1.0.41 24-12-2024 updated"
+echo "> wireguard vpn 13.9 24-12-2024 updated"
+echo "> youtube py3 git1249 24-12-2024 updated"
+echo "> xklass plugin v1.31 24-12-2024 updated"
+echo "> xstreamity 4.725 24-12-2024 updated"
 sleep 2s
 
 echo " "
@@ -794,5 +806,5 @@ sleep 2s
 echo "> gosatplus oscam 11794 r802 updated"
 sleep 2s
 
-echo ">>> Last Updatting 21-12-2024 <<<"
+echo ">>> Last Updatting 24-12-2024 <<<"
 exit 0
