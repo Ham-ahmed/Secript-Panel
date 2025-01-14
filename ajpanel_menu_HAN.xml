@@ -694,7 +694,7 @@
 	</submenu>
 
 	<submenu title="Iptv-player" info="I*p*t*v-Plugin_Download" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/iptv.png" bg="/media/hdd/AJPanel_Backup/vector/ee.png" title_bg="#06000040" title_fg="#06808000" title1_fg="#00808000" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
-		<item name="Xklass-1.31_24-12-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/2412/refs/heads/main/xklass_1.31.20241223.sh -O - | /bin/sh</item>
+		<item name="Xklass-1.32_14-01-2025" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/141/refs/heads/main/xklass_1.32-14-01-2025.sh -O - | /bin/sh</item>
 		<item name="Xklass-1.31_24-12-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/2412/refs/heads/main/xklass_1.31.20241223.sh -O - | /bin/sh</item>
 		<item name="xstreamity-v4.72" info="New-plugin_24-12-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/2412/refs/heads/main/xstreamity_4.72.20241223.sh -O - | /bin/sh</item>
 		<item name="Xklass-1.29_19-12-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/refs/heads/main/xklass_1.29.20241218.sh -O - | /bin/sh</item>
