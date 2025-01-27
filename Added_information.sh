@@ -2,7 +2,14 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 24-01-2025"
+echo "> 27-01-2025"
+sleep 2s
+
+echo " "
+echo "> 27-01-2025"
+sleep 2s
+
+echo "> ِAjpanel plugin v10.5.1 27-01-2025 updated"
 sleep 2s
 
 echo " "
@@ -78,5 +85,5 @@ echo "> oaweather v3.2 New 21-12-2024 updated"
 echo "> youtube plugin git240 21-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 24-01-2025 <<<"
+echo ">>> Last Updatting 27-01-2025 <<<"
 exit 0
