@@ -2,7 +2,17 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 27-01-2025"
+echo "> 29-01-2025"
+sleep 2s
+
+echo " "
+echo "> 29-01-2025"
+sleep 2s
+
+echo "> AglareFHD v.5.4 29-01-2025 updated"
+echo "> MaxyFHD v1.3 29-01-2025 updated"
+echo "> MultiStalkerPro v.1.2 openAtv7.5.1 29-01-2025 updated"
+echo "> xtraevent v6.806 29-01-2025 updated"
 sleep 2s
 
 echo " "
@@ -69,21 +79,5 @@ echo "> xklass plugin v1.31 24-12-2024 updated"
 echo "> xstreamity 4.725 24-12-2024 updated"
 sleep 2s
 
-echo " "
-echo "> 21-12-2024"
-sleep 2s
-echo "> channels motor by Mohamed-OS  20-12-2024 updated"
-echo "> oscam emu levi45 11863 802 21-12-2024 updated"
-echo "> oscam-emu 11863 r802 21-12-2024 updated"
-echo "> powercam oscam 11863 r802 21-12-2024 updated"
-echo "> supcam oscam 11863 r802 21-12-2024 updated"
-echo "> ultracam oscam 11863 r802 21-12-2024 updated"
-echo "> gosatplus oscam 11863 r802 21-12-2024 updated"
-echo "> oscam-emu 11863 r802 audi0_1921-12-2024 updated"
-echo "> oscamicamnew 11863 ICAMEMU Kitte888 V10Rev 21-12-2024 updated"
-echo "> oaweather v3.2 New 21-12-2024 updated"
-echo "> youtube plugin git240 21-12-2024 updated"
-sleep 2s
-
-echo ">>> Last Updatting 27-01-2025 <<<"
+echo ">>> Last Updatting 29-01-2025 <<<"
 exit 0
