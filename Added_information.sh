@@ -10,8 +10,8 @@ echo "> 31-01-2025"
 sleep 2s
 
 echo "> xDreamyFHD v5.4 31-01-2025 updated"
-echo ">xstreamity plugin v4.74 31-01-2025 updated"
-echo ">vavoo plugin v.1.33 14-01-2025 updated"
+echo "> xstreamity plugin v4.74 31-01-2025 updated"
+echo "> vavoo plugin v.1.33 14-01-2025 updated"
 sleep 2s
 
 echo " "
