@@ -2,7 +2,16 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 03-02-2025"
+echo "> 08-02-2025"
+sleep 2s
+
+
+1echo " "
+echo "> 08-02-2025"
+sleep 2s
+echo "> ipaudiopro 1.5 py3.9.9 ARM 08-02-2025 updated"
+echo "> oscamicamnew 11868 ICAMEMU Kitte888 08-02-2025 updated"
+echo "> multi-stalkerpro-1.2 py3.9.9 ARM 08-02-2025 updated"
 sleep 2s
 
 echo " "
@@ -100,5 +109,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 03-02-2025 <<<"
+echo ">>> Last Updatting 08-02-2025 <<<"
 exit 0
