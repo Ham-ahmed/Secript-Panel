@@ -2,9 +2,19 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 08-02-2025"
+echo "> 12-02-2025"
 sleep 2s
 
+echo " "
+echo "> 12-02-2025"
+sleep 2s
+echo "> ِAjpanel plugin 10.6.0 12-02-2025 updated"
+echo "> xklass v1.35 12-02-2025 updated"
+echo "> xstreamity plugin v4.79 12-02-2025 updated"
+echo "> jedimakerxtream v6.39 12-02-2025 updated"
+echo "> subssupport 1.7.0-r11 12-02-2025 updated"
+echo "> epgimport mod dorik1972 1.9.1 12-02-2025 updated"
+sleep 2s
 
 1echo " "
 echo "> 08-02-2025"
@@ -109,5 +119,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 08-02-2025 <<<"
+echo ">>> Last Updatting 12-02-2025 <<<"
 exit 0
