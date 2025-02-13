@@ -16,7 +16,7 @@ echo "> subssupport 1.7.0-r11 12-02-2025 updated"
 echo "> epgimport mod dorik1972 1.9.1 12-02-2025 updated"
 sleep 2s
 
-1echo " "
+echo " "
 echo "> 08-02-2025"
 sleep 2s
 echo "> ipaudiopro 1.5 py3.9.9 ARM 08-02-2025 updated"
