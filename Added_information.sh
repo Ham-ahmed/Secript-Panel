@@ -2,7 +2,15 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 12-02-2025"
+echo "> 15-02-2025"
+sleep 2s
+
+echo " "
+echo "> 15-02-2025"
+sleep 2s
+echo "> bootlogo atv share 15-02-2025 updated"
+echo "> bootlogo atv Swappar 15-02-2025 updated"
+echo "> swapper plugin 15-02-2025 updated"
 sleep 2s
 
 echo " "
@@ -119,5 +127,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 12-02-2025 <<<"
+echo ">>> Last Updatting 15-02-2025 <<<"
 exit 0
