@@ -8,8 +8,8 @@ sleep 2s
 echo " "
 echo "> 15-02-2025"
 sleep 2s
-echo "> bootlogo atv share 15-02-2025 updated"
-echo "> bootlogo atv Swappar 15-02-2025 updated"
+echo "> bootlogo atv share 3-bootlogo 15-02-2025 updated"
+echo "> bootlogo atv Swapper 8-bootlogo 15-02-2025 updated"
 echo "> swapper plugin 15-02-2025 updated"
 sleep 2s
 
