@@ -2,7 +2,16 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 15-02-2025"
+echo "> 16-02-2025"
+sleep 2s
+
+echo " "
+echo "> 16-02-2025"
+sleep 2s
+echo "> bootlogo openvix share 3-bootlogo 16-02-2025 updated"
+echo "> bootlogo openvix Swapper 8-bootlogo 16-02-2025 updated"
+echo "> bootlogo teamblu share 3-bootlogo 15-16-2025 updated"
+echo "> bootlogo teamblue Swapper 8-bootlogo 16-02-2025 updated"
 sleep 2s
 
 echo " "
@@ -127,5 +136,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 15-02-2025 <<<"
+echo ">>> Last Updatting 16-02-2025 <<<"
 exit 0
