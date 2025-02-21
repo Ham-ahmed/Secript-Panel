@@ -13,6 +13,7 @@ echo "> oscam emu levi45 11869 802 21-02-2025 updated"
 echo "> xstreamity plugin v4.83 21-02-2025 updated"
 echo "> jedimakerxtream 6.40 21-02-2025 updated"
 echo "> simple zoom panel 2.2.5 21-02-2025 updated"
+echo "> epg grabber plugin 24.3 21-02-2025 updated"
 sleep 2s
 
 echo " "
