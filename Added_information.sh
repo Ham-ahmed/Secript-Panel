@@ -2,7 +2,18 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 21-02-2025"
+echo "> 24-02-2025"
+sleep 2s
+
+echo " "
+echo "> 24-02-2025"
+sleep 2s
+echo "> oscam emu 11869 802 Audio6 24 21-02-2025 updated"
+echo "> xstreamity plugin v4.86 24-02-2025 updated"
+echo "> xklass 1.36 plugin 24-02-2025 updated"
+echo "> wireguard vpn 15.1 3.12  24-02-2025 updated"
+echo "> wireguard vpn 15.1 3.13  24-02-2025 updated"
+echo "> youtube py3 git1281 plugin 24.3 21-02-2025 updated"
 sleep 2s
 
 echo " "
@@ -147,5 +158,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 21-02-2025 <<<"
+echo ">>> Last Updatting 24-02-2025 <<<"
 exit 0
