@@ -9,7 +9,6 @@ echo " "
 echo "> 27-02-2025"
 sleep 2s
 echo "> subssupport 1.7.0-R14 27-02-2025 updated"
-echo "> xstreamity plugin v4.85 27-02-2025 updated"
 echo "> xDreamyFHD skin v5.7 27-02-2025 updated"
 sleep 2s
 
