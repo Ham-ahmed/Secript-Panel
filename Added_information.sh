@@ -2,7 +2,16 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 28-02-2025"
+echo "> 03-03-2025"
+sleep 2s
+
+echo " "
+echo "> 03-03-2025"
+sleep 2s
+echo "> xtraevent plugin 6.810 03-03-2025 updated"
+echo "> xklass plugin v1.37 03-03-2025 updated"
+echo "> xDreamyFHD skin v5.8 03-03-2025 updated"
+echo "> channels motor by elkhamisy  03-03-2025 updated"
 sleep 2s
 
 echo " "
@@ -172,5 +181,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 28-02-2025 <<<"
+echo ">>> Last Updatting 03-03-2025 <<<"
 exit 0
