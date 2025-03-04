@@ -2,7 +2,15 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 04-03-2025"
+echo "> 05-03-2025"
+sleep 2s
+
+echo " "
+echo "> 05-01-2024"
+sleep 2s
+echo "> ِAjpanel plugin 10.7 05-03-2025 updated"
+echo "> levi45multicammanager_10.2-r0 05-03-2025 updated"
+echo "> oscam emu levi45 11871 802 05-03-2025 updated"
 sleep 2s
 
 echo " "
@@ -189,5 +197,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 04-03-2025 <<<"
+echo ">>> Last Updatting 05-03-2025 <<<"
 exit 0
