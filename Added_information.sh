@@ -2,7 +2,13 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 06-03-2025"
+echo "> 07-03-2025"
+sleep 2s
+
+echo " "
+echo "> 07-01-2024"
+sleep 2s
+echo ">21-xklass Manage playlists 07-03-2025 updated"
 sleep 2s
 
 echo " "
@@ -203,5 +209,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 06-03-2025 <<<"
+echo ">>> Last Updatting 07-03-2025 <<<"
 exit 0
