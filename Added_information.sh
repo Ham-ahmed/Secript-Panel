@@ -2,7 +2,17 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 08-03-2025"
+echo "> 10-03-2025"
+sleep 2s
+
+echo " "
+echo "> 10-03-2025"
+sleep 2s
+echo "> ِAjpanel plugin 10.7.1 10-03-2025 updated"
+echo "> xstreamity plugin v4.88 10-03-2025 updated"
+echo "> subssupport 1.7.0-R15 09-10-2025 updated"
+echo "> xDreamyFHD skin v5.8.1 09-03-2025 updated"
+echo "> youtube py3 git1282 09.3 21-02-2025 updated"
 sleep 2s
 
 echo " "
@@ -215,5 +225,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 08-03-2025 <<<"
+echo ">>> Last Updatting 10-03-2025 <<<"
 exit 0
