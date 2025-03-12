@@ -9,7 +9,7 @@ echo " "
 echo "> 13-03-2025"
 sleep 2s
 echo "> 20-xklass Manage playlists 13-03-2025 updated"
-echo "> 17-xtreamity Manage playlists 13-03-2025 updated"
+echo "> 20-xtreamity Manage playlists 13-03-2025 updated"
 echo "> xklass plugin v1.38 13-03-2025 updated"
 echo "> setpicon v3.0 py3 13-03-2025 updated"
 echo "> channels backup MNasr 13-03-2025 updated"
