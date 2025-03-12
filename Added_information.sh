@@ -2,7 +2,17 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 10-03-2025"
+echo "> 13-03-2025"
+sleep 2s
+
+echo " "
+echo "> 13-03-2025"
+sleep 2s
+echo "> 20-xklass Manage playlists 13-03-2025 updated"
+echo "> 17-xtreamity Manage playlists 13-03-2025 updated"
+echo "> xklass plugin v1.38 13-03-2025 updated"
+echo "> setpicon v3.0 py3 13-03-2025 updated"
+echo "> channels backup MNasr 13-03-2025 updated"
 sleep 2s
 
 echo " "
@@ -225,5 +235,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 10-03-2025 <<<"
+echo ">>> Last Updatting 13-03-2025 <<<"
 exit 0
