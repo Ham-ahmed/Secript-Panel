@@ -2,7 +2,15 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 13-03-2025"
+echo "> 18-03-2025"
+sleep 2s
+
+echo " "
+echo "> 18-01-2024"
+sleep 2s
+echo "> levi45multicammanager_10.2-r1 18-03-2025 updated"
+echo "> subssupport 1.7.0-R16 18-10-2025 updated"
+echo "> ِEpg grabber plugin 24.4 18-03-2025 updated"
 sleep 2s
 
 echo " "
@@ -235,5 +243,5 @@ sleep 2s
 echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
 sleep 2s
 
-echo ">>> Last Updatting 13-03-2025 <<<"
+echo ">>> Last Updatting 18-03-2025 <<<"
 exit 0
