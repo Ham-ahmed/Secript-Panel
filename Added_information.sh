@@ -2,7 +2,17 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 18-03-2025"
+echo "> 24-03-2025"
+sleep 2s
+
+echo " "
+echo "> 24-03-2025"
+sleep 2s
+echo "> oscam emu levi45 11877 802 24-03-2025 updated"
+echo "> xklass plugin v1.40 24-03-2025 updated"
+echo "> xstreamity plugin v4.89 24-03-2025 updated"
+echo "> youTube ffmpeg_177_armv7ahf 24-03-2025 updated"
+echo "> youTube exteplayer3 177 armv7ahf 24-03-2025 updated"
 sleep 2s
 
 echo " "
@@ -172,76 +182,5 @@ echo "> ِAjpanel plugin 10.5.1 02-02-2025 updated"
 echo "> ipaudiopro plugin v.1.5 24 02-02-2025 updated"
 sleep 2s
 
-echo " "
-echo "> 31-01-2025"
-sleep 2s
-
-echo "> xDreamyFHD v5.4 31-01-2025 updated"
-echo "> xstreamity plugin v4.74 31-01-2025 updated"
-echo "> vavoo plugin v.1.33 14-01-2025 updated"
-sleep 2s
-
-echo " "
-echo "> 29-01-2025"
-sleep 2s
-
-echo "> AglareFHD v.5.4 29-01-2025 updated"
-echo "> MaxyFHD v1.3 29-01-2025 updated"
-echo "> MultiStalkerPro v.1.2 openAtv7.5.1 29-01-2025 updated"
-echo "> xtraevent v6.806 29-01-2025 updated"
-sleep 2s
-
-echo " "
-echo "> 27-01-2025"
-sleep 2s
-
-echo "> ِAjpanel plugin v10.5.1 27-01-2025 updated"
-sleep 2s
-
-echo " "
-echo "> 24-01-2025"
-sleep 2s
-
-echo "> AglareFHD v.5.3 24-01-2025 updated"
-echo "> xDreamyFHD v5.2.1 24-01-2025 updated"
-sleep 2s
-
-echo " "
-echo "> 14-01-2025"
-sleep 2s
-echo "> channels motor by Mohamed-OS  14-01-2025 updated"
-echo "> oscam emu levi45 11865 802 01-14-2025 updated"
-echo "> oscam-emu 11865 r802 14-01-2025 updated"
-echo "> powercam oscam 11865 r802 14-01-2025 updated"
-echo "> supcam oscam 11865 r802 14-14-2025 updated"
-echo "> ultracam oscam 11865 r802 14-01-2025 updated"
-echo "> gosatplus oscam 11865 r802 14-01-2025 updated"
-echo ">footonsat plugin 1.9 14-01-2025 updated"
-echo ">Xklass plugin v.1.32 14-01-2025 updated"
-echo ">CiefpsettingsPanel v2.0 14-01-2025 updated"
-sleep 2s
-
-echo " "
-echo "> 03-01-2024"
-sleep 2s
-echo "> channels motor by Mohamed-OS  01-01-2025 updated"
-echo "> oscam emu levi45 11865 802 01-01-2025 updated"
-echo "> oscam-emu 11865 r802 01-01-2025 updated"
-echo "> powercam oscam 11865 r802 01-01-2025 updated"
-echo "> supcam oscam 11865 r802 01-01-2025 updated"
-echo "> ultracam oscam 11865 r802 01-01-2025 updated"
-echo "> gosatplus oscam 11865 r802 01-01-2025 updated"
-echo "> oscam-emu 11865-emu-802_audi06_19 01-01-2025 updated"
-echo "> ِAjpanel plugin 10.3 01-02-2025 updated"
-echo ">EPGGrabber plugin v. 24 02-01-2025 updated"
-sleep 2s
-
-echo " "
-echo "> 28-12-2024"
-sleep 2s
-
-echo "> PLi FullNightFHD v1.0 28-12-2024 updated"
-sleep 2s
-
-echo ">>> Last Updatting 18-03-2025 <<<"
+echo ">>> Last Updatting 24-03-2025 <<<"
 exit 0
