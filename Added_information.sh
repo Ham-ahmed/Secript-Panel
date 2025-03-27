@@ -6,6 +6,16 @@ echo "> 24-03-2025"
 sleep 2s
 
 echo " "
+echo "> 28-03-2025"
+sleep 2s
+echo "> xtraevent v6.820 28-03-2025 updated"
+echo "> oscam emu levi45 11878 802 28-03-2025 updated"
+echo "> xklass plugin v1.43 28-03-2025 updated"
+echo "> xstreamity plugin v4.90 28-03-2025 updated"
+echo "> vavoo-maker v1.0 28-03-2025 updated"
+sleep 2s
+
+echo " "
 echo "> 24-03-2025"
 sleep 2s
 echo "> oscam emu levi45 11877 802 24-03-2025 updated"
@@ -182,5 +192,5 @@ echo "> ِAjpanel plugin 10.5.1 02-02-2025 updated"
 echo "> ipaudiopro plugin v.1.5 24 02-02-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 24-03-2025 <<<"
+echo ">>> Last Updatting 28-03-2025 <<<"
 exit 0
