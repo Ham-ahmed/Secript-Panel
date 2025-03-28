@@ -2,8 +2,16 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 24-03-2025"
+echo "> 29-03-2025"
 sleep 2s
+
+echo " "
+echo "> 29-03-2025"
+sleep 2s
+echo "> Gigabluepaxv4FHD_Skin-3x1-openAtv-py3.12.9_py3.13.1-2 29-03-2025 updated"
+echo "> Gigabluepaxv4FHD_Skin-3x1-PLi-GCC_py3.13.1-2 28-03-2025 updated"
+sleep 2s
+
 
 echo " "
 echo "> 28-03-2025"
@@ -192,5 +200,5 @@ echo "> ِAjpanel plugin 10.5.1 02-02-2025 updated"
 echo "> ipaudiopro plugin v.1.5 24 02-02-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 28-03-2025 <<<"
+echo ">>> Last Updatting 29-03-2025 <<<"
 exit 0
